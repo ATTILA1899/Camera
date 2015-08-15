@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Iš naujo nustatyti gamyklinius nustatymus"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Išplėstinis"</string>
+	<!---->
+	<string name="pref_back_detail">"Atgal"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Garso įrašymas"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Paspauskite užraktą norėdami pradėti fiksuoti panoramą"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Nukreipkite įrenginį pageidaujama fotografavimo kryptimi"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Nepavyko sugeneruoti panoramos."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Lėtai"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Perkelti aukštyn"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Perkelti žemyn"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Įprastas"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sportas"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikrorežimas"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Veido grožis"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 laipsnių panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Išraiška (4 kadrai)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Šypsena"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Fotografavimas serijomis"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Rankiniu būdu"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Plačiakampis"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtruoti"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Formavimas"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Sulėtintas judesys"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Koliažas"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Naktis"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Maža"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Didelis"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Geras"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Yp. aukšta"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Įprastas"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Laikmatis"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"Išj."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sek."</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XL dydis"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Didelis"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Vidutinis"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Mažas"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Išsaugoma <xliff:g example="10" id="numbers">%1$d</xliff:g> pav."</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS žymėjimas"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS žyma"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Paveikslėlio kokybė"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Užrakto garsas"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Visas ekranas"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Didelis"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Vidutinis"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Mažas"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Perjunkite į įprastą režimą, kad fotografuotumėte nepertraukiamai."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Nejudinkite įrenginio, kai fotografuojama HDR režimu"</string>
+	<!---->
+	<string name="tips_title">"Nepertraukiamas fotografavimas"</string>
+	<!---->
+	<string name="tips_content1">"Ilgas užrakto mygtuko paspaudimas"</string>
+	<!---->
+	<string name="tips_content2">"arba garsumo klavišas fotografavimui serijomis."</string>
+	<!---->
+	<string name="expression_guide_capture">"Paspauskite užrakto mygtuką, kad nufotografuotumėte 4 skirtingas išraiškas"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Mažai atminties. Automatinis įrašymo sustabdymas."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Išnaudota atmintis, pirmiau uždarykite kai kurias veikiančias programėles."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR kodo nuskaitymas"</string>
+	<!---->
+	<string name="qrcode_title">"QR kodo nuskaitymas"</string>
+	<!---->
+	<string name="qrcode_type_url">"Žiniatinklio adresas"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geografinė vieta"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"„Wi-Fi“ konfigūracija"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Adresatas"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefono numeris"</string>
+	<!---->
+	<string name="qrcode_type_email">"Siųsti el. paštu"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalendorius"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Tekstas"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Atidarius saitą, jūsų mobiliajame telefone gali būti naudojami tinklo duomenys."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Atidarius saitą, jūsų mobiliajame telefone gali būti naudojami tinklo duomenys."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Atidarius saitą, į nustatymus bus įtraukta „Wi-Fi“ konfigūracija."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Atidarius saitą, mobiliajame telefone atsidarys pastabų programėlė."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Nuskaityti iš nuotraukų"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Nuskaitymo retrospektyva"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Nustatymai"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Vizyro kryželiai"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Rodyti vizyro kryželius nuskaitant"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Pypsėjimas"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Pypsėjimas nuskaičius kodą"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibruoti"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibracinis grįžtamasis ryšys nuskaičius"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR kodas nesurastas"</string>
+	<!---->
+	<string name="qrcode_share">"QR kodo bendrinimas"</string>
+	<!---->
+	<string name="qrcode_history_open">"Atidaryti"</string>
+	<!---->
+	<string name="qrcode_history_share">"Bendrinti"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Išvalyti viską"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"Gerai"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Atšaukti"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Patvirtinti trynimą"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Ar norite išvalyti visus nuskaitymo sąrašo elementus?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Nėra nuskaitymo retrospektyvos"</string>
+	<!---->
+	<string name="qrcode_scanning">"QR kodo nuskaitymas vaizde..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Įtrauktas „Wi-Fi“ konfigūravimas"</string>
+	<!---->
+	<string name="setting_photo_title">"Fotografavimo nustatymai"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtruoti"</string>
+	<!---->
+	<string name="liveeffect_none">"Nėra"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Juodas"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatyv."</string>
+	<!---->
+	<string name="liveeffect_relief">"Reljefinimas"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Žuvies akis"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Eskizas"</string>
+	<!---->
+	<string name="liveeffect_retro">"Momentinis"</string>
+	<!---->
+	<string name="liveeffect_edge">"Kontūrai"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Persiuntimas"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Išplėstiniai nustatymai"</string>
+	<!---->
+	<string name="manual_manu_title">"Tai instrukcijų eilutė"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Užraktas lieka atidarytas naudojant rankinio išlaikymo režimą.\n Norėdami uždaryti užraktą, dar kartą paspauskite fiksavimo mygtuką."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Užrakto greitis"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fokusavimo atstumas"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Rankinis režimas išjungtas"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Ar visus rankinius nustatymus nustatyti į automatinius?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Rankinis išlaikymas."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Visiškai valdykite savo nuotraukas."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Nepamirškite išjungti."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Fotoaparato jautrumas šviesai."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Didelei ISO vertei reikia mažiau šviesos, tačiau nuotraukų kokybė būna blogesnė."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Jei fotoaparatas automatiškai pasirenka užrakto greitį arba ISO, jūsų nuotraukos gali tapti tamsesnės arba šviesesnės."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Valdykite blykstės šviesumą."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Žibintas visada įjungtas."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Blykstė užsidega \ntik fotografuojant."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Trys fokusavimo režimai: automatinis, begalybės ir makrofotografijos."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Jei yra daugiau kaip penki metrai, tai priskiriama grupei \'infinite\' (begalybė)."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Skirtingose situacijose pasikeičia šviesos spalva."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Norėdami tai valdyti pakeiskite baltos spalvos balansą."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Didelis dinaminis diapazonas išlaiko šešėlių ir paryškinimų detalumą, sukuria dramatišką nuotrauką."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Koliažo funkcija sukuria keturias nuotraukas ir sujungia jas į vieną."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Fotografavimas serijomis"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Suaktyvinkite fotografavimą serijomis paspausdami ir laikydami fiksavimo mygtuką."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skaitytuvas"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Braukite į dešinę norėdami atidaryti nuskaitymo režimą."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Nuskaitymo režimu galima nuskaityti"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"– Brūkšniniai kodai"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"– QR kodai"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"– Vizitinės kortelės"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Blykstė"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Atgal"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Atstatyti"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Vaizdo nustatymai"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Ar norite iš naujo nustatyti visus rankinius nustatymus?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Nejudinkite įrenginio, kai fotografuojama HDR režimu."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Nerasta programa šiam veiksmui apdoroti"</string>
+	<!---->
+	<string name="battery_is_low">"Akumuliatorius senka"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Rasta svetainė"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Ratas tekstas"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Rastas telefono numeris"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Ratas el. pašto adresas"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Rastas adresatas"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Rasti „Wi-Fi“ nustatymai"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Nepaisyti"</string>
+	<!---->
+	<string name="qrcode_button_open">"Atidaryti"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopijuoti"</string>
+	<!---->
+	<string name="qrcode_button_save">"Išsaugoti"</string>
+	<!---->
+	<string name="qrcode_button_call">"Skambinti"</string>
+	<!---->
+	<string name="qrcode_button_email">"El. paštas"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Prisijungti"</string>
+</resources>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"بازیابی پیش فرض ها"</string>
+	<!---->
+	<string name="pref_advanced_detail">"پیشرفته"</string>
+	<!---->
+	<string name="pref_back_detail">"برگشت"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"میکروفن"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"برای گرفتن پانوراما شاتر را فشار دهید"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"تلفن را به طرف جهت عکسبرداری خود حرکت دهید"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"نمی توانید پانوراما ایجاد کنید."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"آهسته کردن"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"حرکت به بالا"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"حرکت به پایین"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"معمولی"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"ورزشی"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"ميکرو"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"چهره زيبا"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"پانوراما"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 پانوراما"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"حالت (4 عکس)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"لبخند"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"عکسبرداری متوالی"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"دستي"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"زاویه گسترده"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"فیلتر"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"آرایش"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"عملکرد آهسته"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"هنر کلاژ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"شب"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"کم"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"زیاد"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"خوب"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"بسيار عالي"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"عادی"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"تایمر"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"خاموش"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 ثانيه"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 ثانيه"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 ثانيه"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 ثانيه"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 ثانيه"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 ثانيه"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"بسیار بزرگ"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"بزرگ"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"متوسط"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"کوچک"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"در حال ذخيره تصاوير <xliff:g example="10" id="numbers">%1$d</xliff:g>"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"برچسب گذاری GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"برچسب GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"کیفیت عکس"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"صداي شاتر"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"تمام صفحه"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"بزرگ"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"متوسط"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"کوچک"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"لطفا براي عکسبرداري متوالي به حالت عادي برگرديد."</string>
+	<!---->
+	<string name="hdr_guide_capture">"در طول عکسبرداري HDR دستگاه را تکان ندهيد"</string>
+	<!---->
+	<string name="tips_title">"عکسبرداري متوالي"</string>
+	<!---->
+	<string name="tips_content1">"فشار طولانی بر دکمه شاتر"</string>
+	<!---->
+	<string name="tips_content2">"یا بر روی کلید میزان صدا برای عکسبرداری متوالی کلیک کنید."</string>
+	<!---->
+	<string name="expression_guide_capture">"دکمه شاتر را برای گرفتن 4 حالت متفاوت فشار دهید"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"حافظه کم است. توقف خودکار ضبط."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"حافظه در حال تمام شدن است، لطفا ابتدا برخی از برنامه های در حال اجرا را ببندید."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"اسکن کد QR"</string>
+	<!---->
+	<string name="qrcode_title">"اسکن کد QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"آدرس وب"</string>
+	<!---->
+	<string name="qrcode_type_geo">"منطقه جغرافیایی"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"پیکربندی Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"مخاطب"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"شماره تلفن"</string>
+	<!---->
+	<string name="qrcode_type_email">"ایمیل"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"تقويم"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"متن"</string>
+	<!---->
+	<string name="qrcode_hint_url">"باز کردن پیوند موجب مصرف داده شبکه در تلفن همراه شما می شود."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"باز کردن پیوند موجب مصرف داده شبکه در تلفن همراه شما می شود."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"باز کردن پیوند پیکربندی Wi-Fi را به تنظیمات اضافه خواهد کرد."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"باز کردن پیوند موجب باز کردن برنامه یادداشت در تلفن همراه شما می شود."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"اسکن از عکس ها"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"تاریخچه اسکن"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"تنظیمات"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Cross Hairs (یک نوع کد QR در گالری)"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"نمایش Cross Hairs زمان اسکن کردن"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"بیپ"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"بیپ بعد از اسکن کردن کد"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"لرزش"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"بازخورد لرزشی بعد از اسکن کردن"</string>
+	<!---->
+	<string name="qrcode_notfound">"کد QR یافت نشد"</string>
+	<!---->
+	<string name="qrcode_share">"اشتراک گذاری کد QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"بازکردن"</string>
+	<!---->
+	<string name="qrcode_history_share">"اشتراک گذاری"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"پاک کردن همه"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"تایید"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"لغو"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"تأیید حذف"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"می خواهید همه موارد موجود در لیست اسکن را پاک کنید؟"</string>
+	<!---->
+	<string name="qrcode_no_history">"تاریخچه اسکن موجود نیست"</string>
+	<!---->
+	<string name="qrcode_scanning">"در حال اسکن کردن کد QR در تصویر..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"پیکربندی Wi-Fi اضافه شد"</string>
+	<!---->
+	<string name="setting_photo_title">"تنظيمات عکس"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"فیلتر"</string>
+	<!---->
+	<string name="liveeffect_none">"هیچکدام"</string>
+	<!---->
+	<string name="liveeffect_ansel">"نوآر"</string>
+	<!---->
+	<string name="liveeffect_negative">"نگاتیو"</string>
+	<!---->
+	<string name="liveeffect_relief">"برجستگی"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"چشم ماهي"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"طراحي"</string>
+	<!---->
+	<string name="liveeffect_retro">"فوري"</string>
+	<!---->
+	<string name="liveeffect_edge">"طرح کلی"</string>
+	<!---->
+	<string name="liveeffect_sepia">"انتقال"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"تنظیمات پیشرفته"</string>
+	<!---->
+	<string name="manual_manu_title">"این یک رشته دستی است"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"در حالت bulb (نوردهی با زمان بالا) شاتر باز می ماند.\n برای بستن شاتر دوباره دکمه عکسبرداری را فشار دهید."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"سرعت شاتر"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"فاصله کانونی"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"حالت دستی خاموش"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"همه تنظیمات دستی روی خودکار تنظیم شود؟"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"گرفتن عکس با حالت نوردهی با زمان بالا."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"کنترل کاملی بر روی عکس های خود داشته باشید."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"فقط به خاطر داشته باشید از اینجا آن را خاموش کنید."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"حساسیت دوربین روی نور است."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"ISO بالاتر به نور کمتری نیاز دارد، ولی کیفیت کاهش می یابد."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"اگر دوربین برای شما ISO یا سرعت شاتر را انتخاب کند، این موجب می شود عکس های شما تاریک تر یا روشن تر شوند."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"بررسی کنید روشنایی فلش چه اندازه است."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"چراغ قوه همیشه روشن می ماند."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"فلش فقط زمانی روشن می شود که عکس بگیرید."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"سه حالت فوکوس، خودکار، بی نهایت و ماکرو هستند."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"اگر بیشتر از پنج متر است، بعنوان \'نامحدود\' گروه بندی می شود."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"نور بسته به شرایط رنگ را تغییر می دهد."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"برای کنترل آن توازن سفیدی را تغییر دهید."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"محدوده پویای بالا جزئیات را در سایه ها و موارد برجسته شده نگه می دارد و یک عکس نمایشی ایجاد می کند."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"هنر کلاژ چهار عکس می گیرد و آنها را در یک عکس ترکیب می کند."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"عکسبرداری متوالی"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"با فشار دادن و نگه داشتن دکمه عکسبرداری، حالت عکسبرداری متوالی را فعال کنید."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"اسکنر"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"برای رفتن به حالت اسکن به راست بروید."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"حالت اسکن قابل اسکن است"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- بارکدها"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- کدهای QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- کارت های ویزیت"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"فلاش"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"برگشت"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"بازنشاني"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"تنظیمات ویدیو"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"آیا می‌خواهید همه تنظیمات دستی را بازنشانی کنید؟"</string>
+	<!---->
+	<string name="photo_hdr_toast">"در طول عکسبرداری HDR دستگاه را تکان ندهيد."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"برنامه‌ای برای انجام این عملکرد یافت نشد."</string>
+	<!---->
+	<string name="battery_is_low">"باتری ضعيف است"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"ناديده گرفتن"</string>
+	<!---->
+	<string name="qrcode_button_open">"بازکردن"</string>
+	<!---->
+	<string name="qrcode_button_copy">"کپی"</string>
+	<!-- no translation found for qrcode_button_save -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_call">"تماس"</string>
+	<!---->
+	<string name="qrcode_button_email">"ایمیل"</string>
+	<!---->
+	<string name="qrcode_button_connect">"اتصال"</string>
+</resources>

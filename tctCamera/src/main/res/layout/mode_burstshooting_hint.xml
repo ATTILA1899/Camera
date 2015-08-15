@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mmode_burstshooting_hint"
+    style="@style/MModeHelpTipsLayoutStyle"
+    >
+    <TextView
+        android:id="@+id/title"
+        android:text="@string/pref_camera_burst_label"
+        android:textColor="@color/continuous_shot_title_background"
+        android:textSize="@dimen/continuous_shot_title_textsize"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/mmode_help_tip_margin_top"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content1"
+        android:layout_below="@id/title"
+        android:layout_marginTop="@dimen/mmode_help_tip_margin"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:text="@string/mode_burst_first_time_tip"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/continuous_shot_content_textsize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mode_burst_hint_btn"
+        style="@style/MModeHelpTipsBtnStyle"
+        />
+</RelativeLayout>

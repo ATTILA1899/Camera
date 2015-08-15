@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mmode_exposure_hint"
+    style="@style/MModeHelpTipsLayoutStyle"
+    >
+    <TextView
+        android:id="@+id/title"
+        android:text="@string/pref_exposure_title"
+        android:textColor="@color/continuous_shot_title_background"
+        android:textSize="@dimen/continuous_shot_title_textsize"
+        android:textStyle="bold"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content1"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:text="@string/mmode_exposure_first_time_tip_content1"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mmode_exposure_hint_btn"
+        style="@style/MModeHelpTipsBtnStyle"
+        />
+</RelativeLayout>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Revenire la valori implicite"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Avansat"</string>
+	<!---->
+	<string name="pref_back_detail">"Înapoi"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Înregistrare audio"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"Stab. el. imag."</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Apăsaţi butonul de declanşare pentru a începe fotografierea panoramică."</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Mutați telefonul în direcția în care doriți să realizați fotografia"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Panorama nu a putut fi generată."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Reducere viteză"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Deplasare sus"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Deplasare jos"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normală"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Microfon"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Faţă"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoramă"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Panoramă 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Expresie (4 fotografii)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Zâmbet"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Fotografie în rafală"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manual"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Unghi larg"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtrare"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Frumusețe față"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Încetinitor"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Fotomontaj"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Noapte"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Redusă"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Ridicată"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Înaltă"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Extrafină"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Temporizator"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"OPRIT"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 sec."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 sec."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 sec."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 secunde"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 secunde"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 secunde"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Foarte mare"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Mare"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Mediu"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Mică"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Se salvează <xliff:g example="10" id="numbers">%1$d</xliff:g> fotografii"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Etichetare GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Etichetă GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Calitate imagine"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Sunet obturator"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Ecran complet"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Mare"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Mediu"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Mică"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Pentru a fotografia în rafală, reveniţi la modul normal."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Nu mişcaţi dispozitivul în timpul capturii HDR"</string>
+	<!---->
+	<string name="tips_title">"Fotografiere continuă"</string>
+	<!---->
+	<string name="tips_content1">"Apăsaţi lung butonul de declanşare"</string>
+	<!---->
+	<string name="tips_content2">"sau tasta de volum pentru fotografie în rafală."</string>
+	<!---->
+	<string name="expression_guide_capture">"Apăsaţi butonul de declanşare pentru a captura 4 expresii diferite"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Memorie insuficientă. Oprire automată înregistrare"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Memorie epuizată. Mai întâi, închideți câteva dintre aplicațiile care rulează."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Scanare cod QR"</string>
+	<!---->
+	<string name="qrcode_title">"Scanare cod QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"Adresă web"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Localizare geografică"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Configurare Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Contact"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Număr de telefon"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Calendar"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"text"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Accesarea linkului ar putea genera trafic de date în rețea pe telefonul mobil."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Accesarea linkului ar putea genera trafic de date în rețea pe telefonul mobil."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Accesarea linkului va adăuga configurarea Wi-Fi la setări."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Accesarea linkului va deschide aplicația Note pe telefonul mobil."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Scanați din fotografii"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Istoric scanare"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Setări"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Cursoare cruce"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Afișați cursoarele cruce în timpul scanării"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Bip"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Bip după scanarea unui cod"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibraţie"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Feedback cu vibrație după scanare"</string>
+	<!---->
+	<string name="qrcode_notfound">"Codul QR nu a fost găsit"</string>
+	<!---->
+	<string name="qrcode_share">"Partajare cod QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Deschidere"</string>
+	<!---->
+	<string name="qrcode_history_share">"Distribuiţi"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Ştergere tot"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Anulare"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Confirmare ștergere"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Doriți să ștergeți toate elementele din lista de scanare?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Nu există un istoric al scanărilor"</string>
+	<!---->
+	<string name="qrcode_scanning">"Se scanează codul QR în imagine..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"S-a adăugat configurarea Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"Setări fotografie"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtrare"</string>
+	<!---->
+	<string name="liveeffect_none">"Niciunul"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negativ"</string>
+	<!---->
+	<string name="liveeffect_relief">"Relief"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Ochi de peşte"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Schiţă"</string>
+	<!---->
+	<string name="liveeffect_retro">"Instantaneu"</string>
+	<!---->
+	<string name="liveeffect_edge">"Contur"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Transfer"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Setări avansate"</string>
+	<!---->
+	<string name="manual_manu_title">"Acesta este un șir de caractere care trebuie introdus manual"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Obturatorul rămâne deschis în modul Bulb.\n Apăsați butonul de declanșare din nou pentru a închide obturatorul."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Viteză obturator"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Distanță de focalizare"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Mod manual dezactivat"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Treceți toate setările manuale pe mod automat?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Fotografiere în mod Bulb."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Dețineți controlul total asupra fotografiilor."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Nu uitați să opriți această funcție aici."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Sensibilitatea aparatului foto la lumină."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"În cazul unei valori ISO mai mari, este necesară mai puțină lumină, însă calitatea va fi mai slabă."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Dacă aparatul foto alege valoarea ISO sau viteza obturatorului în locul dvs., fotografiile ar putea fi mai închise sau mai luminoase."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Controlați puterea blițului."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Lanterna rămâne aprinsă permanent."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Blițul se declanșează doar când\nrealizați o fotografie."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Cele trei moduri de focalizare sunt Automată, Infinit și Macro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Dacă este peste cinci metri, intră în segmentul \'infinit\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Lumina determină modificarea culorii în funcție de situație."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Modificați balansul de alb pentru a realiza ajustarea."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Fotografierea cu interval dinamic ridicat (HDR) captează detaliile din părțile umbroase și cele luminoase, creând o fotografie cu un efect dramatic."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Funcția Fotomontaj captează patru imagini, pe care le unește într-o singură fotografie."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Fotografiere în rafală"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Activați modul de fotografiere în rafală, apăsând lung butonul de declanșare."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Modul de scanare"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Glisați în dreapta pentru a accesa modul de scanare."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Puteți scana în modul de scanare."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Coduri de bare"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- Coduri QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Cărți de vizită"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Bliţ"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Înapoi"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Resetare"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Setări video"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Doriți să resetați toate setările introduse manual?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Nu mișcați dispozitivul în timpul fotografierii cu HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Nu s-a găsit o aplicație care să gestioneze această acțiune."</string>
+	<!---->
+	<string name="battery_is_low">"Nivelul bateriei este scăzut"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Site-ul a fost găsit"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Textul a fost găsit"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Numărul de telefon a fost găsit"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Adresa e-mail a fost găsită"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Contactul a fost găsit"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Setările Wi-Fi au fost găsite"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignoraţi"</string>
+	<!---->
+	<string name="qrcode_button_open">"Deschidere"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Copiere"</string>
+	<!---->
+	<string name="qrcode_button_save">"Salvare"</string>
+	<!---->
+	<string name="qrcode_button_call">"Apelare"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Conectare"</string>
+</resources>

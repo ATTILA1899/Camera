@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tct_panorama_capture_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/tct_static_left_indicator"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="272dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/panorama_arrow_l"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/tct_static_right_indicator"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_marginLeft="282dp"
+        android:layout_marginTop="272dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/panorama_arrow_r"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/tct_static_center_indicator_port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/panorama_line"
+        android:visibility="gone" />
+    <!-- modify by minghui.hua for PR912018 -->
+    <ImageView
+        android:id="@+id/tct_static_center_indicator_land"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/panorama_line_land"
+        android:visibility="gone" />
+
+        <ImageView
+                    android:id="@+id/tct_static_rect"
+                    android:layout_width="352dp"
+                    android:layout_height="102dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginTop="256dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/panorama_bg1"
+                    android:visibility="gone" />
+
+    <com.android.camera.ui.TctViewFinderView
+                    android:id="@+id/tct_pano_progress_view"
+                    android:layout_width="346dp"
+                    android:layout_height="96dp"
+                    android:layout_marginLeft="7dp"
+                    android:layout_marginTop="259dp"
+                    android:visibility="gone" />
+
+    <com.android.camera.ui.TctProcessRectView
+        android:id="@+id/pano_rect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+                android:layout_marginLeft="-300dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/panorama_bg2"
+        android:visibility="gone" />
+
+    <ImageView
+                android:id="@+id/tct_pano_arrows_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/panorama_arrow_down"
+                android:visibility="gone" />
+    <ImageView
+                android:id="@+id/tct_pano_arrows_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/panorama_arrow_down"
+                android:visibility="gone" />
+        <TextView android:id="@+id/pano_capture_tips_textview_v"
+                android:text="@string/pano_slow_down_prompt"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:visibility="gone" />
+
+        <TextView android:id="@+id/pano_capture_tips_textview_h"
+                android:text="@string/pano_slow_down_prompt"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:visibility="gone" />
+</RelativeLayout>

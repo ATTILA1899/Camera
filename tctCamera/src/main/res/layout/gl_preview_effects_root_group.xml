@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.effects.gl.GLPreviewRootSurfaceView
+        android:id="@+id/gl_root_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <com.android.camera.ui.RotateImageView
+        android:layout_alignParentRight="true"
+        android:id="@+id/rimv_switch_camera"
+        android:src="@drawable/bg_onscreen_camera_picker"
+        android:visibility="gone"
+        style="@style/LiveFilterSettingItem"/>
+</merge>

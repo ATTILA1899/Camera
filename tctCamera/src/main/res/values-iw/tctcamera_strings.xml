@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"שחזר ברירות מחדל"</string>
+	<!---->
+	<string name="pref_advanced_detail">"מתקדם"</string>
+	<!---->
+	<string name="pref_back_detail">"הקודם"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"הקלטת קול"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"לחץ על הצמצם כדי להתחיל לצלם תמונת פנורמה"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"הזז את הטלפון לעבר כיוון הצילום"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"לא ניתן לייצר תמונת פנורמה."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"האט"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"הזז מעלה"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"הזז מטה"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"רגיל"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"ספורט"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"מיקרו"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"פנים יפים"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"פנורמה"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"פנורמה 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"הבעה (4 צילומים)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"חיוך"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"צילום רציף"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"ידני"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"זווית רחבה"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"סינון"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"מייק אפ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"הילוך איטי"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"קולג\'"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"לילה"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"נמוכה"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"גבוהה"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"איכותי"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"מעולה"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"רגיל"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"שעון עצר"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"כבוי"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 שניות"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 שניות"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 שניות"</string>
+	<!-- no translation found for pref_camera_selftimer_entry_3_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_5_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_10_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_xlarge -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"גדול"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"בינונית"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"קטן"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!-- no translation found for continuous_saving_pictures -->
+	<skip />
+	<!-- no translation found for pref_gps_tagging_title -->
+	<skip />
+	<!---->
+	<string name="pref_gps_tag_title">"תגית GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"איכות תמונה"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"צליל צמצם"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_title -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_entry_best">"גדול"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"בינונית"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"קטן"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"אנא חזור למצב רגיל בשביל צילום מתפרץ."</string>
+	<!---->
+	<string name="hdr_guide_capture">"אל תזיז את המכשיר בזמן צילום HDR"</string>
+	<!---->
+	<string name="tips_title">"צילום רציף"</string>
+	<!---->
+	<string name="tips_content1">"יש ללחוץ לחיצה ארוכה על לחצן הצמצם"</string>
+	<!---->
+	<string name="tips_content2">"או על לחצן עוצמת השמע לצילום רציף."</string>
+	<!---->
+	<string name="expression_guide_capture">"לחץ על כפתור הצילום כדי ללכוד 4 הבעות שונות"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"זיכרון מועט. הקלטה נעצרה אוטומטית."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"אין זיכרון, סגור יישומים פעילים מסוימים תחילה."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"סריקת קוד QR"</string>
+	<!---->
+	<string name="qrcode_title">"סריקת קוד QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"כתובת אינטרנט"</string>
+	<!---->
+	<string name="qrcode_type_geo">"מיקום גיאוגרפי"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"תצורת Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"איש קשר"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"מספר טלפון"</string>
+	<!---->
+	<string name="qrcode_type_email">"דוא\"ל"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"לוח-שנה"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"טקסט"</string>
+	<!---->
+	<string name="qrcode_hint_url">"פתיחת הקישור עלולה לצרוך נתוני רשת בטלפון הנייד."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"פתיחת הקישור עלולה לצרוך נתוני רשת בטלפון הנייד."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"פתיחת הקישור תוסיף תצורת Wi-Fi בהגדרות."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"פתיחת הקישור תפתח את היישום הערה בטלפון הנייד."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"סריקה מתמונות"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"היסטוריית סריקה"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"הגדרות"</string>
+	<!-- no translation found for qrcode_settings_crosshairs -->
+	<skip />
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"הצג צלב במהלך הסריקה"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"צפצוף"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"השמע צפצוף לאחר סריקת קוד"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"רטט"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"משוב רטט לאחר הסריקה"</string>
+	<!---->
+	<string name="qrcode_notfound">"קוד ה-QR לא נמצא"</string>
+	<!---->
+	<string name="qrcode_share">"שיתוף קוד QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"פתח"</string>
+	<!---->
+	<string name="qrcode_history_share">"שתף"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"נקה הכל"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"אישור"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"ביטול"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"‏‏אשר מחיקה"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"האם ברצונך למחוק את כל הפריטים ברשימת הסריקה?"</string>
+	<!---->
+	<string name="qrcode_no_history">"אין היסטוריית סריקה"</string>
+	<!---->
+	<string name="qrcode_scanning">"סורק קוד QR בתמונה..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"נוספה תצורת Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"הגדרות צילום"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"סינון"</string>
+	<!---->
+	<string name="liveeffect_none">"ללא"</string>
+	<!---->
+	<string name="liveeffect_ansel">"נואר"</string>
+	<!---->
+	<string name="liveeffect_negative">"שלילי"</string>
+	<!---->
+	<string name="liveeffect_relief">"הקלה"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"עדשת עין הדג"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"רישום"</string>
+	<!---->
+	<string name="liveeffect_retro">"מיידי"</string>
+	<!---->
+	<string name="liveeffect_edge">"קווי מתאר"</string>
+	<!-- no translation found for liveeffect_sepia -->
+	<skip />
+	<!---->
+	<string name="setting_photo_advanced_title">"הגדרות מתקדמות"</string>
+	<!---->
+	<string name="manual_manu_title">"זאת מחרוזת ידנית"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"התריס נשאר פתוח במצב נורה.\nלחץ על כפתור הצילום כדי לסגור את התריס."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"זמן חשיפה"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"מרחק מיקוד"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"מתקדם"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"להגדיר את כל ההגדרות היידניות לאוטומטי?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"צילום נורה."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"קבל שליטה מלאה על צילומיך."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"רק זכור לכבות אותו כאן."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"רגישות המצלמה לאור."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"הגדלת ה-ISO מצריכה פחות אור אך מקטינה את האיכות."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"המצלמה בוחרת ISO או מהירות חשיפה עבורך, זה הופך את צילומיך לכהים או בהירים יותר."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"שלוט בבהירות הפלש."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"הפנס נשאר תמיד דלוק."</string>
+	<!-- no translation found for mmode_flash_first_time_tip_content3 -->
+	<skip />
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"שלושת מצבי המיקוד הינם אוטומטי, אינסוף, ומקרו."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"אם יותר מחמישה מטר, זה מוגדר כ\'אינסוף\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"אור משפיע על הצבעים לפי המצב."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"שנה איזון לבן כדי לשלוט בזה."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"תחום דינאמי גבוה שומר על פרטים מוצלים או מוארים ויוצר צילום דרמטי."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"מצלם ארבע תמונות ומשלב אותם לתמונה יחידה."</string>
+	<!-- no translation found for pref_camera_burst_label -->
+	<skip />
+	<!---->
+	<string name="mode_burst_first_time_tip">"הפעל צילום מתמשך על ידי לחיצה ארוכה על כפתור הצילום."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"סורק"</string>
+	<!-- no translation found for mode_scanner_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content4 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content5 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_flash_duty_title">"פלאש"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"הקודם"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"אפס"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"הגדרות וידאו"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"האם ברצונך לאפס הכל\nהגדרות ידניות?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"אל תזיז את המכשיר בזמן צילום HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!-- no translation found for missing_app -->
+	<skip />
+	<!---->
+	<string name="battery_is_low">"חבר מטען"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"התעלם"</string>
+	<!---->
+	<string name="qrcode_button_open">"פתח"</string>
+	<!---->
+	<string name="qrcode_button_copy">"העתק"</string>
+	<!---->
+	<string name="qrcode_button_save">"שמור"</string>
+	<!---->
+	<string name="qrcode_button_call">"התקשר"</string>
+	<!---->
+	<string name="qrcode_button_email">"דוא\"ל"</string>
+	<!---->
+	<string name="qrcode_button_connect">"התחבר"</string>
+</resources>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+* Copyright (c) 2009, The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License. 
+* You may obtain a copy of the License at 
+*
+*     http://www.apache.org/licenses/LICENSE-2.0 
+*
+* Unless required by applicable law or agreed to in writing, software 
+* distributed under the License is distributed on an "AS IS" BASIS, 
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+* See the License for the specific language governing permissions and 
+* limitations under the License.
+*/
+-->
+<!--
+TOOLS: prd2h-v5.7
+USER: xqhe
+DATE: 2013-07-09
+TIME: 07:48:22 (G7T)
+-->
+<resources>
+<!-- Byte def_JrdLauncher_add_icon_background - Whether to add background frame for 3rd icons, 0x00 : no background, 0x01 : add the background -->
+    <bool name="def_JrdLauncher_add_icon_background" >false</bool>
+<!-- def_TctCamera_shutter_sound_visible- Whether to set the Shutter sound visible,0x00 : unvisisble, 0x01: visible-->
+    <bool name="def_TctCamera_shutter_sound_visible">true</bool>
+<!-- def_TctCamera_zsl_visible- Whether to set zsl visible -->
+    <bool name="def_TctCamera_zsl_visible">false</bool>
+<!-- def_TctCamera_shutter_sound_on- Whether to set the default Shutter sound on,0x00 : off, 0x01: on-->
+    <bool name="def_TctCamera_shutter_sound_on">true</bool>
+<!-- def_perso_flag default config for whether perso or not -->
+    <bool name="def_perso_flag">true</bool>
+    <!--def_TctCamera_burst_shooting_Num_Right- Weather to set the burst shooting num on the top right of screen,0x00:center,0x01:top right  -->
+    <bool name="def_TctCamera_burst_shooting_num_topright">true</bool>
+    <!-- Whether to let smile mode visible,false:invisible,true:visible   -->
+    <bool name="def_smile_mode_enable">false</bool>
+    <!-- Whether to let face beauty mode visible,false:invisible,true:visible   -->
+    <bool name="def_face_beauty_mode_enable">false</bool>
+<!-- def_antiband_visible- Whether to set the antiband visible,0x00 : gone, 0x01: visible -->
+    <bool name="def_antiband_visible">false</bool>
+<!-- def_antiband_default- default config for antibanding , this attribute could be filled with auto / 50hz/60hz/off -->
+    <string name="def_antiband_default">auto</string>
+    <string name="def_antiband_mccmnc">74807-50hz,72207-50hz,
+        33403-60hz,334030-60hz,708030-60hz,70403-60hz,70604-60hz,710300-60hz,71402-60hz,
+        714020-60hz,71606-60hz,73404-60hz,71204-60hz,21402-60hz,21407-60hz,46001-50hz,46002-60hz</string>
+<!-- def_TctCamear_zsl_value- default value of zsl -->
+	<string name="def_TctCamera_zsl_value">on</string>
+<!-- def_size_title default config for picture size title -->
+    <string name="def_large_title">sFINE</string>
+    <string name="def_medium_title">FINE</string>
+    <string name="def_small_title">NORMAL</string>
+    <string name="def_picturesize_title_one">13M (4:3)</string>
+    <string name="def_picturesize_title_two">10M (16:9)</string>
+    <string name="def_picturesize_title_three">null</string>
+    <string name="def_picturesize_title_four">null</string>
+    <string name="def_picturesize_title_five">null</string>
+    <string name="def_picturesize_title_six">null</string>
+    <string name="def_picturesize_title_seven">null</string>
+    <string name="def_picturesize_title_eight">null</string>
+    <string name="def_picturesize_title_nine">null</string>
+    <string name="def_picturesize_title_ten">null</string>
+    <string name="def_picturesize_title_front_one">5M (4:3)</string>
+    <string name="def_picturesize_title_front_two">2M (16:9)</string>
+    <string name="def_picturesize_title_front_three">null</string>
+    <string name="def_picturesize_title_front_four">null</string>
+    <string name="def_picturesize_title_front_five">null</string>
+<!-- def_size_title default config for video size title -->
+    <string name="def_videosize_title_one">HD 1080p</string>
+    <string name="def_videosize_title_two">HD 720p</string>
+    <string name="def_videosize_title_three">SD 480p</string>
+    <string name="def_videosize_title_four">null</string>
+    <string name="def_videosize_title_five">null</string>
+    <string name="def_videosize_title_six">null</string>
+    <string name="def_videosize_title_seven">null</string>
+    <string name="def_videosize_title_eight">null</string>
+    <string name="def_videosize_title_nine">null</string>
+    <string name="def_videosize_title_ten">null</string>
+    <string name="def_videosize_title_front_one">HD 1080p</string>
+    <string name="def_videosize_title_front_two">HD 720p</string>
+    <string name="def_videosize_title_front_three">SD 480p</string>
+    <string name="def_videosize_title_front_four">null</string>
+    <string name="def_videosize_title_front_five">null</string>
+<!-- def_size_value default config for video size title -->
+    <string name="def_video_size_one">QUALITY_1080P</string>
+    <string name="def_video_size_two">QUALITY_720P</string>
+    <string name="def_video_size_three">QUALITY_480P</string>
+    <string name="def_video_size_four">null</string>
+    <string name="def_video_size_five">null</string>
+    <string name="def_video_size_six">null</string>
+    <string name="def_video_size_seven">null</string>
+    <string name="def_video_size_eight">null</string>
+    <string name="def_video_size_nine">null</string>
+    <string name="def_video_size_ten">null</string>
+    <string name="def_video_size_front_one">QUALITY_1080P</string>
+    <string name="def_video_size_front_two">QUALITY_720P</string>
+    <string name="def_video_size_front_three">QUALITY_480P</string>
+    <string name="def_video_size_front_four">null</string>
+    <string name="def_video_size_front_five">null</string>
+<!-- def_videosize default flag -->
+    <string name="pref_camera_videosize_flag_default">1</string>
+    <string name="pref_camera_videosize_flag_default_front">1</string>
+<!-- def_size_16_9_pirturesize default config for 16:9 picture size -->
+    <string name="def_large_16_9_picturesize">2588x1456</string>
+    <string name="def_medium_16_9_picturesize">1920x1080</string>
+    <string name="def_small_16_9_picturesize">1280x720</string>
+<!-- def_size_4_3_pirturesize default config for 4:3 picture size -->    
+    <string name="def_large_4_3_picturesize">3264x2448</string>
+    <string name="def_medium_4_3_picturesize">2048x1536</string>
+    <string name="def_small_4_3_picturesize">1600x1200</string>
+    <bool name="def_burst_shot_enable">false</bool>
+    <string name="def_burst_num_max">10</string>
+    <bool name="def_capture_mode_exif_enable">true</bool>
+    <string name="pref_camera_picturesize_flag_default">1</string>
+    <string name="pref_camera_picturesize_flag_default_front">0</string>
+    <string name="def_picture_size_one">4160x3120</string>
+    <string name="def_picture_size_two">4096x2304</string>
+    <string name="def_picture_size_three">0x0</string>
+    <string name="def_picture_size_four">0x0</string>
+    <string name="def_picture_size_five">0x0</string>
+    <string name="def_picture_size_six">0x0</string>
+    <string name="def_picture_size_seven">0x0</string>
+    <string name="def_picture_size_eight">0x0</string>
+    <string name="def_picture_size_nine">0x0</string>
+    <string name="def_picture_size_ten">0x0</string>
+    <string name="def_picture_size_front_one">2560x1920</string>
+    <string name="def_picture_size_front_two">2048x1152</string>
+    <string name="def_picture_size_front_three">0x0</string>
+    <string name="def_picture_size_front_four">0x0</string>
+    <string name="def_picture_size_front_five">0x0</string>
+    <!-- def_storagesavepath_setting_visible- Whether to set the storage-savepath visible,0x00 : gone, 0x01: visible -->
+    <bool name="def_storagesavepath_setting_visible">true</bool>
+    <string name="def_camera_whether_savepic_whennotnormal">false</string>
+    <bool name="def_hdr_enable">true</bool>
+    <bool name="def_panorama_enable">true</bool>
+    <!-- v-nj-feiqiang.cheng begin for PR941559,941555 -->
+    <string name="def_arcsoft_feature_onoff">off</string>
+    <string name="def_manualmode_feature_onoff">off</string>
+    <string name="def_timelapse_feature_onoff">off</string>
+    <string name="def_scale_max">4</string>
+    <!-- v-nj-feiqiang.cheng end for PR941559,941555 -->
+    <bool name="def_video_eis_enable">true</bool>
+    <bool name="def_camera_polaroid_enable">false</bool>
+    <bool name="def_photo_arcsoft_night_default">false</bool>
+    <bool name="def_camera_arcsoft_night_enable">false</bool>
+</resources>

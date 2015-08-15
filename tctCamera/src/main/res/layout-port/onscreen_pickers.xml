@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/on_screen_pickers"
+    style="@style/OnScreenPickerGroup"
+    >
+<RelativeLayout 
+    style="@style/OnScreenPickerGroup" >
+
+    <!--
+         <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_flash_picker"
+        android:layout_alignParentLeft="true"
+        android:clickable="true"
+        android:layout_marginLeft="24dp"
+        style="@style/OnScreenPickerFixed"/> 
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/setting_mode"
+        style="@style/OnScreenPickerFixed"
+        android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:contentDescription="@string/accessibility_second_level_indicators"
+    />
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_camera_picker"
+        style="@style/OnScreenPickerFixed"
+        android:clickable="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="24dp"/>
+    -->
+
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_flash_picker"
+        style="@style/OnScreenPickerButton"
+        android:layout_centerHorizontal="true"
+        android:clickable="true" />
+
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/setting_mode"
+        style="@style/OnScreenPickerButton"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="24dp"
+        android:clickable="true"/>
+
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_camera_picker"
+        style="@style/OnScreenPickerFixed"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="24dp"
+        android:clickable="true" />
+
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_manual_picker"
+        style="@style/OnScreenPickerButton"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="24dp"
+        android:clickable="true"
+        android:visibility="gone" />
+    
+     <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_facebeauty_picker"
+        style="@style/OnScreenPickerButton"
+         android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:visibility="gone" />
+
+    <!-- <com.android.camera.ui.RotateImageView
+        android:id="@+id/onscreen_back_picker"
+        style="@style/OnScreenPickerButton"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="24dp"
+        android:clickable="true"
+        android:visibility="gone" />
+         -->
+
+</RelativeLayout>
+<LinearLayout 
+    android:id="@+id/facebeautymenu"
+          android:layout_width="match_parent"
+          android:layout_height="190dp"
+          android:orientation="vertical"
+         android:background="#e1000000"
+         android:visibility="invisible"
+          >
+ <LinearLayout 
+         android:layout_width="fill_parent"
+         android:layout_height="170dp"
+         android:orientation="vertical"
+         >
+        <TextView 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textSize="15sp"
+         android:layout_marginTop="24dp"
+         android:layout_marginLeft="24dp"
+         android:textColor="#FFFFFF"
+         android:text="@string/beauty_face_title"
+         />
+	<LinearLayout 
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical"
+          android:gravity="center_vertical"
+          >
+    
+     
+      <FrameLayout 
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+           android:layout_marginLeft="9dp"
+          android:layout_marginRight="9dp"
+          >
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/beauty_face_soften"
+              android:textColor="#BFBFBF"
+              android:textSize="12sp"
+              android:gravity="center_vertical"
+              android:layout_marginLeft="15dp"
+              android:layout_marginRight="15dp"
+          		android:layout_marginTop="10dp"
+              /> 
+	     <com.android.camera.ui.BeautyFaceSeekBar
+	          android:id="@+id/bright"
+	          android:layout_width="match_parent"
+	          android:layout_height="50dp"
+	          android:layout_marginRight="4dp"
+	          android:layout_marginTop="10dp"
+	         />
+      </FrameLayout>
+      
+      <FrameLayout 
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="9dp"
+          android:layout_marginRight="9dp"
+          >
+         <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/beauty_face_bright"
+              android:textColor="#BFBFBF"
+              android:layout_marginLeft="15dp"
+              android:layout_marginRight="15dp"
+              android:textSize="12sp"
+              android:gravity="center_vertical"
+              android:layout_marginTop="10dp"
+              /> 
+	     <com.android.camera.ui.BeautyFaceSeekBar
+	          android:id="@+id/soften"
+	          android:layout_width="match_parent"
+	          android:layout_height="50dp"
+	          android:layout_marginRight="4dp"
+	          android:layout_marginTop="10dp"
+	          
+	         />
+      </FrameLayout>
+      
+      </LinearLayout>
+      </LinearLayout>
+      </LinearLayout>
+</FrameLayout>

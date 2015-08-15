@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+| ============================================================================ |
+|      Modifications on Features list / Changes Request / Problems Report      |
+| **************************************************************************** |
+|    date   |        author        |         Key          |      comment       |
+| **********|**********************|**********************|******************* |
+| 10/15/2013|     wangxiaofei      |        515667        |[Ergo][DEV]Camera   |
+| **********|**********************|**********************|******************* |
+================================================================================
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_gravity="bottom"
+    android:gravity="bottom|center" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+
+        <com.android.camera.ui.RotateImageView
+            android:id="@+id/shutter_button_capture"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="9dp"
+            android:clickable="true"
+            android:focusable="false"
+            android:gravity="center"
+            android:src="@drawable/btn_recording_capture"
+            android:visibility="gone" />
+
+        <com.android.camera.ui.RotateLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" 
+            android:layout_marginRight="10dip">
+
+            <TextView
+                android:id="@+id/txt_record_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+        </com.android.camera.ui.RotateLayout>
+
+        <com.android.camera.ui.ShutterButton
+            android:id="@+id/shutter_button_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/shutter_btn_margin_bottom"
+            android:clickable="true"
+            android:contentDescription="@string/accessibility_shutter_button"
+            android:focusable="false"
+            android:gravity="center"
+            android:src="@drawable/btn_photo" />
+
+        <com.android.camera.ui.RotateLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dip" >
+
+            <TextView
+                android:id="@+id/txt_out_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:visibility="gone"  />
+        </com.android.camera.ui.RotateLayout>
+
+        <com.android.camera.ui.RotateImageView
+            android:id="@+id/shutter_button_pause"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="9dp"
+            android:clickable="true"
+            android:focusable="false"
+            android:gravity="center"
+            android:src="@drawable/btn_recording_pause"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

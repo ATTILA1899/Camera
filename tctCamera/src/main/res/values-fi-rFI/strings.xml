@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kamera"</string>
+	<!---->
+	<string name="video_camera_label">"Videokamera"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Aseta kuva"</string>
+	<!---->
+	<string name="delete">"Poista"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Poistetaanko valittu kohde?"</item>
+		<item quantity="other">"Poistetaanko valitut kohteet?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Jaa"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Poistettu"</string>
+	<!---->
+	<string name="undo">"Kumoa"</string>
+	<!---->
+	<string name="details">"Tiedot"</string>
+	<!---->
+	<string name="close">"Sulje"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Näytä kartalla"</string>
+	<!---->
+	<string name="rotate_left">"Kierrä vastapäivään"</string>
+	<!---->
+	<string name="rotate_right">"Kierrä myötäpäivään"</string>
+	<!---->
+	<string name="edit">"Muokkaa"</string>
+	<!---->
+	<string name="crop_action">"Leikkaa"</string>
+	<!---->
+	<string name="trim_action">"Rajaa"</string>
+	<!---->
+	<string name="set_as">"Aseta"</string>
+	<!---->
+	<string name="video_err">"Videota ei voi toistaa"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Otsikko"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Aika"</string>
+	<!---->
+	<string name="location">"Sijainti"</string>
+	<!---->
+	<string name="path">"Polku"</string>
+	<!---->
+	<string name="width">"Leveys"</string>
+	<!---->
+	<string name="height">"Korkeus"</string>
+	<!---->
+	<string name="orientation">"Suunta"</string>
+	<!---->
+	<string name="duration">"Kesto"</string>
+	<!---->
+	<string name="mimetype">"MIME-tyyppi"</string>
+	<!---->
+	<string name="file_size">"Tiedoston koko"</string>
+	<!---->
+	<string name="maker">"Tekijä"</string>
+	<!---->
+	<string name="model">"Malli"</string>
+	<!---->
+	<string name="flash">"Salama"</string>
+	<!---->
+	<string name="aperture">"Aukko"</string>
+	<!---->
+	<string name="focal_length">"Polttoväli"</string>
+	<!---->
+	<string name="white_balance">"Valkotasapaino"</string>
+	<!---->
+	<string name="exposure_time">"Valotusaika"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Manuaalinen"</string>
+	<!---->
+	<string name="auto">"Automaattinen"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Ei salamaa"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Odota."</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Kameravirhe"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Kameraan yhdistäminen ei onnistu."</string>
+	<!---->
+	<string name="camera_disabled">"Kamera on poistettu käytöstä suojauskäytäntöjen vuoksi."</string>
+	<!---->
+	<string name="wait">"Odota hetki..."</string>
+	<!---->
+	<string name="no_storage">"Liitä SD-kortti ennen kameran käyttöä"</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"SD-kortin käyttö ei onnistunut."</string>
+	<!---->
+	<string name="time_lapse_title">"Intervallikuvauksen tallennus"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Valitse kamera"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Takaisin"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Etupuoli"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Tallennussijainti"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Ajastin"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 sekunti"</item>
+		<item quantity="other">"%d sekuntia"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Piippaus laskennan aikana"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Tallennustila"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Puhelin"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD-kortti"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Videon laatu"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Kameran asetukset"</string>
+	<!---->
+	<string name="pref_camera_settings">"Kameran asetukset"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Videokameran asetukset"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Kuvan koko"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Koko"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Ruudukko"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 megapikseliä"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 megapikseliä"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 megapikseliä"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 megapikseliä"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 megapikseliä"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 megapikseliä (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 megapikseliä"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 megapikseliä"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 megapikseli"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Tarkennustila"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Automaattinen"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Loputon"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"AUTOM."</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Loputon"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Salaman tila"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"SALAMATILA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Automaattinen"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Käytössä"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Pois käytöstä"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Taskulamppu"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"SALAMA AUTOM."</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"SALAMA PÄÄLLÄ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"SALAMA POIS"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Valkotasapaino"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Valkotasapaino"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Autom."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Automaattinen"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Hehkulamppuvalo"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Päivänvalo"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Loisteputkivalo"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Pilvinen"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"AUTO"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Hehkulamppuvalo"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Päivänvalo"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Loisteputkivalo"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Pilvistä"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Kuvaustila"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Automaattinen"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Toiminta"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Yö"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Auringonlasku"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Juhlat"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Yötila"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Autom. aiheen tunnistus"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Optimoi kameran asetukset valokuvien laadun parantamista varten."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Yönäkymä"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Taustavalonäkymä"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Autom. näkymän parannus"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Optimoi kameran asetukset valokuvien laadun parantamista varten."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Hämäränäkymä"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Taustavalonäkymä"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Nopea kasvotarkennus"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Ei valittavissa kuvaustilassa."</string>
+	<!---->
+	<string name="pref_exposure_title">"Valotus"</string>
+	<!---->
+	<string name="pref_exposure_label">"Valotus"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"SD-korttisi tila on vähissä. Vaihda laatuasetusta tai poista kuvia tai muita tiedostoja."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Tallennustilasi on vähissä. Muuta laatuasetusta ja tai poista joitakin kuvia tai muita tiedostoja."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Videon koko on suurin mahdollinen."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Liian nopea"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Valmistellaan panoraamaa"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Panoraaman tallennus ei onnistunut."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panoraama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Panoraamakuvaus"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Odotetaan edellistä panoraamaa"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Tallennetaan..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Panoraamaa hahmonnetaan"</string>
+	<!---->
+	<string name="tap_to_focus">"Tarkenna koskettamalla."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Tehosteet"</string>
+	<!---->
+	<string name="effect_none">"Ei mitään"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Litistetty"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Isot silmät"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Iso suu"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Pieni suu"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Iso nenä"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Pien. silmät"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Avaruus"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Auringonlasku"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Oma videosi"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Ota kuva tallennuksen aikana koskettamalla ruutua."</string>
+	<!---->
+	<string name="video_recording_started">"Videotallennus on aloitettu."</string>
+	<!---->
+	<string name="video_recording_stopped">"Videotallennus on pysäytetty."</string>
+	<!---->
+	<string name="clear_effects">"Tyhjennä tehosteet"</string>
+	<!---->
+	<string name="effect_silly_faces">"HAUSKAT KASVOT"</string>
+	<!---->
+	<string name="effect_background">"TAUSTA"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Valikkonäppäin"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Vaihda kuvatilaan"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Vaihda panoraamatilaan"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Tarkistus valmis"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Uudelleentarkistus"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"POIS PÄÄLTÄ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Pois käytöstä"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 sekunti"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 sekuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 sekuntia"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 minuutti"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 minuuttia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minuuttia"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 tunti"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 tuntia"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 tuntia"</string>
+	<!---->
+	<string name="time_lapse_seconds">"sekuntia"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minuuttia"</string>
+	<!---->
+	<string name="time_lapse_hours">"tuntia"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Määritä aikaväli"</string>
+	<!---->
+	<string name="set_time_interval_help">"Aikaviivetoiminto on poissa käytöstä. Ota se käyttöön aikavälin määritystä varten."</string>
+	<!---->
+	<string name="set_duration">"Määritä kesto sekunteina"</string>
+	<!---->
+	<string name="count_down_title_text">"Ajastinlaskenta valokuvan ottamista varten"</string>
+	<!---->
+	<string name="remember_location_title">"Muistatko valokuvien kuvaamispaikat?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Lisää valokuviin ja videoihin tunniste, joka sisältää kuvaamispaikan tiedot.\n\nMuut sovellukset voivat käyttää näitä tietoja tallennettujen kuvien kanssa."</string>
+	<!---->
+	<string name="remember_location_no">"Ei kiitos."</string>
+	<!---->
+	<string name="remember_location_yes">"Kyllä"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Tallenna"</string>
+	<!---->
+	<string name="cannot_load_image">"Kuvan lataaminen ei onnistu!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Taustakuvan asettaminen"</string>
+	<!---->
+	<string name="tips_done">"Valmis"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Tietoja zoomaamisesta yhdellä sormella"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Lähennä ja loitonna kamerassa kaksoisnapauttamalla ja vetämällä"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS ei käytössä"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Jos haluat merkitä sijainnin valokuviin ja videoihin, ota GPS ja langattomat verkot käyttöön sijaintiasetuksissa."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Peruuta"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Asetukset"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Palauta asetukset"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Haluatko varmasti palauttaa kaikki oletusasetukset?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Valokuva"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Kameran asetus"</string>
+	<!---->
+	<string name="mode_menu_photo">"Automaattitila"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panoraama"</string>
+	<!---->
+	<string name="mode_menu_manual">"Manuaalinen tila"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Aikaviive"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Skanneri"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Kasvonpiirteet"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Kasvonpiirteet"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Asetukset"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Iho"</string>
+	<!---->
+	<string name="beauty_face_soften">"Sävy:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Pinta:"</string>
+	<!---->
+	<string name="asd_night">"Yötila"</string>
+	<!---->
+	<string name="asd_backlight">"Vastavalotila"</string>
+	<!---->
+	<string name="asd_auto">"Automaattitila"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galleria"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"aut."</string>
+	<!---->
+	<string name="disable_night_mode">"Yötila poistettu käytöstä"</string>
+	<!---->
+	<string name="disable_back_light">"Taustavalo poistettu käytöstä"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"ja kasvojentunnistuksen automaattitarkennus (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Nopea tarkennus kasvoihin varmistaa, että kuvat ovat aina teräviä."</string>
+	<!---->
+	<string name="about_two_asd">"Automaattinen näkymän parannus"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Optimoi kameran asetukset valokuvien laadun parantamista varten."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Sarjakuvaustila ei ole käytettävissä, kun Automaattinen näkymän parannus on käytössä."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Kasvonpiirteet"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Voit parantaa muotokuvia säätämällä kasvojen sävyä ja pintaa."</string>
+</resources>

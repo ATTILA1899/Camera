@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Thu Feb 12 17:35:31 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- no translation found for pref_video_time_lapse_frame_interval_entries -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_units -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_labels -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_labels -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoftnight_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_fff_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoftasd_entries -->
+	<skip />
+</resources>

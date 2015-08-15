@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Vrati na početna podešavanja"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Napredno"</string>
+	<!---->
+	<string name="pref_back_detail">"Nazad"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Snimanje zvuka"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Pritisnite taster za poklopac da započnete panoramsko slikanje"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Pomerite telefon u pravcu u kojem želite da fotografišete"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Panorama ne može da se generiše."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Uspori"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Pomeri gore"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Pomeri dole"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normalno"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sportovi"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Lepota lica"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Izraz (4 snimka)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Osmeh"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Rafalno slikanje"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Ručno"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Širok Ugao"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filter"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Slaganje"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Spora akcija"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kolaž"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Noćni"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Nizak"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Visok"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Visok"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Superkval."</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normalna"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Tajmer"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"ISKLJ."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sekunde"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sekundi"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sekundi"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XL"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Veliko"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Srednji"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Маlo"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Čuvanje <xliff:g example="10" id="numbers">%1$d</xliff:g> slike/a"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS označavanje"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS oznaka"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Kvalitet slike"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Zvuk okidanja"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Ceo ekran"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Veliko"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Srednji"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Маlo"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Vratite se na normalni režim za uzastopno slikanje."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Ne pomeraj uređaj tokom HDR fotografisanja"</string>
+	<!---->
+	<string name="tips_title">"Uzastopni snimak"</string>
+	<!---->
+	<string name="tips_content1">"Dugo držite taster za poklopac"</string>
+	<!---->
+	<string name="tips_content2">"ili taster za zvuk za rafalno slikanje"</string>
+	<!---->
+	<string name="expression_guide_capture">"Pritisnite taster za poklopac da biste uslikali 4 različite fotografije"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Malo memorije. Automatsko prekidanje snimanja."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Nema dovoljno memorije, prvo zatvorite neke pokrenute aplikacije."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Skener QR Kodova"</string>
+	<!---->
+	<string name="qrcode_title">"Skener QR Kodova"</string>
+	<!---->
+	<string name="qrcode_type_url">"Internet adresa"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geo lokacija"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi konfiguracija"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontakt"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Broj telefona"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-pošta"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalendar"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"tekst"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Otvaranje linka može dovesti do potrošnje mobilnih podataka na vašem telefonu."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Otvaranje linka može dovesti do potrošnje mobilnih podataka na vašem telefonu."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Otvaranje linka će dodati Wi-Fi konfiguraciju u podešavanja."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Otvaranje linka može otvoriti aplikaciju Beleški na vašem telefonu!"</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Skeniraj iz slika"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Skeniraj istoriju"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Podešavanja"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Strelica miša"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Prikaži strelicu miša tokom skeniranja"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Zvučni signal"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Zvučni signal posle skeniranja koda"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibracija"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibriraj povratne informacije nakon skeniranja"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR Kod nije pronađen"</string>
+	<!---->
+	<string name="qrcode_share">"Deljenje QR Kodova"</string>
+	<!---->
+	<string name="qrcode_history_open">"Otvori"</string>
+	<!---->
+	<string name="qrcode_history_share">"Deli"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Izbriši sve"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"U redu"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Otkaži"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Potvrda brisanja"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Da li želite da obrišete sve stavke sa liste skeniranih?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Nema istorije za skeniranje"</string>
+	<!---->
+	<string name="qrcode_scanning">"Skeniranje QR Koda sa slike..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi konfiguracija dodata"</string>
+	<!---->
+	<string name="setting_photo_title">"Podešavanja fotografije"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filter"</string>
+	<!---->
+	<string name="liveeffect_none">"Ništa"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negativ"</string>
+	<!---->
+	<string name="liveeffect_relief">"Reljef"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Riblje oko"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Nacrt"</string>
+	<!---->
+	<string name="liveeffect_retro">"Instant"</string>
+	<!---->
+	<string name="liveeffect_edge">"Kontura"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Prenos"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Napredna podešavanja"</string>
+	<!---->
+	<string name="manual_manu_title">"Ovo je manuelni niz"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Blenda ostaje otvorena u režimu sijalice.\n Pritisnite taster za slikanje ponovo da zatvorite blendu."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Brzina blende"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Razdaljina fokusa"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Ručni režim isključen."</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Postaviti sva ručna podešavanja na automatski?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Snimanje sijalicom."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Preuzmite punu kontrolu nad vašim fotografijama."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Samo zapamtite da ga ovde isključite."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Osetljivost fotoaparata na svetlo"</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Viši ISO treba manje svetlosti, ali je smanjenog kvaliteta."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Ako vaš fotoaparat izabere ISO ili brzinu blende umesto vas, vaše slike mogu biti mračnije ili svetlije."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Kontrolišete svetlinu vašeg blica."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Baterijska lampa uvek ostaje uključena."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Blic se uključuje samo kada\n fotografišete."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Tri režima fokusiranja su Automatski, Beskonačan i Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Ako je više od pet metara, grupiše se kao \'beskonačno\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Svetlo menja boju zavisno od situacije."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Promenite balans bele boje da biste kontrolisali ovo"</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Visokodinamični opseg zatamnjuje i naglašava detalje, praveći dramatičnu sliku."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Kolaž pravi 4 slike i kombinuje ih u jednu fotografiju."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Uzastopno fotografisanje"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktivirajte rafalno fotografisanje držanjem tastera za fotografisanje."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skener"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Listaje udesno da pristupite režimu skenera."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Režim skeniranja može da skenira"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"-Barkodovi"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"-QR kodovi"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"Posetnice"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Blic"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Nazad"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Resetuj"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Podešavanja video-snimka"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Da li želite da resetujete sva manuelna podešavanja?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Ne pomerajte uređaj tokom HDR fotografisanja."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Nije pronađena nijedna aplikacija koja bi mogla da izvrši ovu radnju."</string>
+	<!---->
+	<string name="battery_is_low">"Baterija je slaba"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Veb-sajt je pronađen"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Tekst je pronađen"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Broj telefona je pronađen"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Adresa e-pošte je pronađena"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kontakt je pronađen"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Wi-Fi podešavanja su pronađena"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignoriši"</string>
+	<!---->
+	<string name="qrcode_button_open">"Otvori"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopiraj"</string>
+	<!---->
+	<string name="qrcode_button_save">"Sačuvaj"</string>
+	<!---->
+	<string name="qrcode_button_call">"Pozovi"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-pošta"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Poveži"</string>
+</resources>

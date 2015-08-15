@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Varsyln GeriYkl"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Gelişmiş"</string>
+	<!---->
+	<string name="pref_back_detail">"Geri"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Ses kaydı"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Panorama çekimini başlatmak için deklanşöre basın"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Telefonu yakalama yönünüze doğru götürün"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Panorama oluşturulamadı"</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Yavaşlat"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Yuk. taşı"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Aşağı taşı"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Spor"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Güzel yüz"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"İfade (4 çekim)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Gülümseme"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Ardışık çekim"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuel"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Geniş Açı"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtreleme"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Oluştur"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Yavaş eylem"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kolaj"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Gece"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Alçak"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Yüksek"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"İyi"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Süper"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Zamanlayıcı"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"KAPALI"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3sn"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5sn"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10sn"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 Saniye"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 Saniye"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 Saniye"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Büyük"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Orta"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Küçük"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"<xliff:g example="10" id="numbers">%1$d</xliff:g> resim kaydediliyor"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS etiketleme"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS etiketi"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Resim Kalitesi"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Deklanşör sesi"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Tam ekran"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Büyük"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Orta"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Küçük"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Lütfen ardışık çekim için normal moda geri dönün."</string>
+	<!---->
+	<string name="hdr_guide_capture">"HDR çekimi sırasında cihazı kıpırdatmayın"</string>
+	<!---->
+	<string name="tips_title">"Sürekli çekim"</string>
+	<!---->
+	<string name="tips_content1">"Arka arkaya çekim için deklanşörü"</string>
+	<!---->
+	<string name="tips_content2">"veya ses tuşunu uzun süre basılı tutun."</string>
+	<!---->
+	<string name="expression_guide_capture">"4 farklı ifade yakalamak için deklanşör düğmesine basın"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Düşük bellek. Kayıt işlemini otomatik olarak durdur."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Yetersiz bellek, lütfen önce çalışmakta olan bazı uygulamaları kapatın."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR Kodu Taraması"</string>
+	<!---->
+	<string name="qrcode_title">"QR Kodu Taraması"</string>
+	<!---->
+	<string name="qrcode_type_url">"Web adresi"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Coğrafi Konum"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi Konfigürasyonu"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kişi"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefon numarası"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-posta"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Takvim"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"metin"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Bağlantının açılmasıyla cep telefonunuzda ağ verileri kullanılabilir."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Bağlantının açılmasıyla cep telefonunuzda ağ verileri kullanılabilir."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Bağlantının açılmasıyla ayarlara Wi-Fi konfigürasyonu eklenir."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Bağlantının açılmasıyla cep telefonunuzda Not uygulaması açılır."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Fotoğraflardan tara"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Tarama geçmişi"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Ayarlar"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Hedef İşareti"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Tarama yapılırken hedef işareti göster"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Bip sesi"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Kodu taradıktan sonra bip sesi çıkar"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Titreşim"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Tarama sonrasında titreşim geri bildirimi"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR Kodu Bulunamadı"</string>
+	<!---->
+	<string name="qrcode_share">"QR Kodu Paylaşımı"</string>
+	<!---->
+	<string name="qrcode_history_open">"Aç"</string>
+	<!---->
+	<string name="qrcode_history_share">"Paylaş"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Tüm. tmzle"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"TAMAM"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"İptal"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Silmeyi Onayla"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Tarama listesindeki tüm öğeleri temizlemek istiyor musunuz?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Tarama geçmişi yok"</string>
+	<!---->
+	<string name="qrcode_scanning">"Resimdeki QR Kodu taranıyor ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi Konfigürasyonu eklendi"</string>
+	<!---->
+	<string name="setting_photo_title">"Fotoğraf Ayarları"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtreleme"</string>
+	<!---->
+	<string name="liveeffect_none">"Hiçbiri"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Kara"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatif"</string>
+	<!---->
+	<string name="liveeffect_relief">"Rölyef"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Balıkgözü"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Eskiz"</string>
+	<!---->
+	<string name="liveeffect_retro">"Anlık"</string>
+	<!---->
+	<string name="liveeffect_edge">"Dış hat"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Aktarma"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Gelişmiş ayarlar"</string>
+	<!---->
+	<string name="manual_manu_title">"Bu manuel bir dizedir"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Lamba modunda deklanşör açıklar.\nDeklanşörü kapatmak için lütfen çekim düğmesine tekrar basın."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Örtücü hızı"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Odak uzaklığı"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Manuel mod kapalı"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Tüm manuel modlar otomatik ayarlansın mı?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Uzun pozlamalı çekim."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Fotoğraflarınızın kontrolünü tam olarak sağlayabilirsiniz."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Bunu buradan kapatmayı unutmayın."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kameranın ışığa karşı duyarlılığı."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Daha yüksek ISO için daha az ışık gerekir, ancak daha düşük kaliteye sahiptir."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Kameranız sizin için ISO veya örtücü hızını seçtiğinde, fotoğraflarınız daha koyu veya açık olur."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Flaşın ne kadar parlak olacağını ayarlayın."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Fener her zaman açık kalır."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Flaş yalnızca fotoğraf\nçektiğinizde yanar."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Otomatik, Sınırsız ve Büyük olmak üzere üç odaklama modu bulunmaktadır."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Beş metreden uzunsa, bu \'sonsuz\' olarak gruplanır."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Duruma bağlı olarak ışık renk değiştirir."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Bunu kontrol etmek için beyaz dengesini değiştirin."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Yüksek Dinamik Aralık, karanlık ve aydınlık ortamlardaki detayları korur ve çarpıcı fotoğraflar çekmenizi sağlar."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Kolaj, dört fotoğrafı tek bir fotoğrafta birleştirir."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Seri Çekim"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Çekim düğmesini basılı tutarak seri çekim özelliğini etkinleştirin."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Tarayıcı"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Tarama moduna girmek için sağa kaydırın"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Tarama modu tarayabilir"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Barkodlar"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- SC kodları"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"Kartvizitler"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flaş"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Geri"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Sıfırla"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Video Ayarları"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Tüm manuel ayarları sıfırlamak istiyor musunuz?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"HDR çekimi sırasında cihazı kıpırdatmayın."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Bu işlemi gerçekleştirecek uygulama bulunamadı."</string>
+	<!---->
+	<string name="battery_is_low">"Pil zayıf"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Web sitesi bulundu"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Metin bulundu"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Telefon numarası bulundu"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"E-posta adresi bulundu"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kişi bulundu"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Wi-Fi ayarları bulundu"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Yoksay"</string>
+	<!---->
+	<string name="qrcode_button_open">"Aç"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopyala"</string>
+	<!---->
+	<string name="qrcode_button_save">"Kaydet"</string>
+	<!---->
+	<string name="qrcode_button_call">"Ara"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-posta"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Bağlan"</string>
+</resources>

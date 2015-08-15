@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+| ============================================================================ |
+|      Modifications on Features list / Changes Request / Problems Report      |
+| **************************************************************************** |
+|    date   |        author        |         Key          |      comment       |
+| **********|**********************|**********************|******************* |
+| 10/15/2013|     wangxiaofei      |        515667        |[Ergo][DEV]Camera   |
+| **********|**********************|**********************|******************* |
+================================================================================
+-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="32dp"
+        android:layout_gravity="bottom"
+        android:gravity="bottom|center"
+        android:layout_width="match_parent" >
+   <RelativeLayout
+       android:id="@+id/shutter_layout"
+       android:layout_width="312dp"
+       android:layout_height="67dp"
+       android:background="@drawable/back_reset"
+       android:gravity="center_vertical"
+       android:layout_centerInParent="true" >
+       <TextView
+           android:id="@+id/back_key"
+           android:layout_width="90dp"
+           android:layout_height="match_parent"
+           android:text="@string/manual_menu_backkey"
+           android:layout_toLeftOf="@id/shutter_button_photo"
+           android:gravity="center"
+           android:visibility="gone"
+       />
+
+       <com.android.camera.ui.ShutterButton
+           android:id="@+id/shutter_button_photo"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:clickable="true"
+           android:focusable="false"
+           android:gravity="center"
+           android:layout_centerInParent="true"
+           android:src="@drawable/btn_photo"
+           android:contentDescription="@string/accessibility_shutter_button"/>
+
+        <TextView
+            android:id="@+id/reset_key"
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/shutter_button_photo"
+            android:gravity="center"
+            android:text="@string/manual_menu_resetkey"
+            android:visibility="gone"
+        />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"คืนค่าเริ่มต้น"</string>
+	<!---->
+	<string name="pref_advanced_detail">"ขั้นสูง"</string>
+	<!---->
+	<string name="pref_back_detail">"ย้อนกลับ"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"บันทึกเสียง"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"กดชัตเตอร์เพื่อเริ่มต้นถ่ายภาพพาโนรามา"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"ย้ายโทรศัพท์ไปในทิศทางที่ต้องการเก็บภาพ"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"ไม่สามารถจัดทำภาพพาโนราม่า"</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"ช้า ๆ"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"เลื่อนขึ้น"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"เลื่อนลง"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"ปกติ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"กีฬา"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"ไมโคร"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"ใบหน้าสวยงาม"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"พาโนรามา"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"พาโนรามา 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"แสดง (4-ภาพ)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"รอยยิ้ม"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"ถ่ายภาพต่อเนื่อง"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"ด้วยตนเอง"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"มุมกว้าง"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"ตัวกรอง"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"เมคอัป"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"การดำเนินการอย่างช้า ๆ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"คอลลาจ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"กลางคืน"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"ต่ำ"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"สูง"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"ละเอียด"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"ละเอียดมาก"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"ปกติ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"ตัวจับเวลา"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"ปิด"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 วินาที"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 วินาที"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10วินาที"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 วินาที"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 วินาที"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 วินาที"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"ขนาดใหญ่"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"ใหญ่"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"ปานกลาง"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"เล็ก"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"กำลังบันทึก <xliff:g example="10" id="numbers">%1$d</xliff:g> ภาพ"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"การแท็ก GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"แท็ก GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"คุณภาพของภาพ"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"เสียงชัตเตอร์"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"เต็มหน้าจอ"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"ใหญ่"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"ปานกลาง"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"เล็ก"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"กรุณากลับไปที่โหมดปกติสำหรับการถ่ายภาพต่อเนื่อง"</string>
+	<!---->
+	<string name="hdr_guide_capture">"อย่าลบอุปกรณ์ระหว่างการบันทึกข้อมูล HDR"</string>
+	<!---->
+	<string name="tips_title">"การถ่ายภาพต่อเนื่อง"</string>
+	<!---->
+	<string name="tips_content1">"กดปุ่มชัตเตอร์ยาว"</string>
+	<!---->
+	<string name="tips_content2">"หรือปุ่มระดับเสียงเพื่อถ่ายภาพต่อเนื่อง"</string>
+	<!---->
+	<string name="expression_guide_capture">"กดปุ่มชัตเตอร์เพื่อเก็บภาพ 4 แอ็ค"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"หน่วยความจำเหลือน้อย หยุดบันทึกอัตโนมัติ"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"หน่วยความจำหมด กรุณาปิดแอพที่ใช้งานบางตัวก่อน"</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"สแกนรหัส QR"</string>
+	<!---->
+	<string name="qrcode_title">"สแกนรหัส QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"ที่อยู่เว็บ"</string>
+	<!---->
+	<string name="qrcode_type_geo">"ตำแหน่งภูมิศาสตร์"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"ค่า Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"รายชื่อ"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"หมายเลขโทรศัพท์"</string>
+	<!---->
+	<string name="qrcode_type_email">"อีเมล"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"ปฏิทิน"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"ข้อความ"</string>
+	<!---->
+	<string name="qrcode_hint_url">"การเปิดลิงค์อาจต้องใช้ข้อมูลเครือข่ายในโทรศัพท์มือถือของคุณ"</string>
+	<!---->
+	<string name="qrcode_hint_geo">"การเปิดลิงค์อาจต้องใช้ข้อมูลเครือข่ายในโทรศัพท์มือถือของคุณ"</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"การเปิดลิงค์เป็นการเพิ่มค่าปรับตั้ง Wi-Fi ในส่วนการตั้งค่า"</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"เปิดลิงค์เพื่อเปิดแอป บันทึก ในโทรศัพท์มือถือของคุณ"</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"สแกนจากภาพ"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"ประวัติการสแกน"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"การตั้งค่า"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"กากบาท"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"แสดงกากบาทขณะสแกน"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"เสียงบี๊บ"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"ส่งเสียงบี๊บหลังจากสแกนรหัส"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"สั่น"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"สั่นหลังจากสแกน"</string>
+	<!---->
+	<string name="qrcode_notfound">"ไม่พบ QR โค้ด"</string>
+	<!---->
+	<string name="qrcode_share">"แชร์รหัส QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"เปิด"</string>
+	<!---->
+	<string name="qrcode_history_share">"แบ่งปัน"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"ล้างทั้งหมด"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"ตกลง"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"ยกเลิก"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"ยืนยันการลบ"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"คุณต้องการลบรายการทั้งหมดในรายการสแกนหรือไม่"</string>
+	<!---->
+	<string name="qrcode_no_history">"ไม่มีประวัติการสแกน"</string>
+	<!---->
+	<string name="qrcode_scanning">"กำลังสแกนรหัส QR ในภาพ...."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"เพิ่มค่า Wi-Fi แล้ว"</string>
+	<!---->
+	<string name="setting_photo_title">"การตั้งค่าภาพถ่าย"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"ตัวกรอง"</string>
+	<!---->
+	<string name="liveeffect_none">"ไม่มี"</string>
+	<!---->
+	<string name="liveeffect_ansel">"นัวร์"</string>
+	<!---->
+	<string name="liveeffect_negative">"สีตรงข้าม"</string>
+	<!---->
+	<string name="liveeffect_relief">"การสับเปลี่ยน"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"ฟิชอาย"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"ภาพร่าง"</string>
+	<!---->
+	<string name="liveeffect_retro">"ทันใจ"</string>
+	<!---->
+	<string name="liveeffect_edge">"เค้าร่าง"</string>
+	<!---->
+	<string name="liveeffect_sepia">"ถ่ายโอน"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"การตั้งค่าขั้นสูง"</string>
+	<!---->
+	<string name="manual_manu_title">"นี่คือสตริงแบบแมนนวล"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"ชัตเตอร์จะเปิดค้างไว้ในโหมดหลอดไฟ\n กดปุ่มถ่ายรูปอีกครั้งเพื่อปิดชัตเตอร์"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"ความเร็วชัตเตอร์"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"ระยะโฟกัส"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"ปิดโหมดแมนนวล"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"ตั้งค่าแมนนวลทั้งหมดเป็นออโต้หรือไม่?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"การถ่ายภาพหลอดไฟ"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"ควบคุมภาพถ่ายของคุณได้อย่างครบถ้วน"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"อย่าลืมปิดที่นี่"</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"ความไวแสงของกล้อง"</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"ค่า ISO ที่สูงขึ้นสามารถถ่ายภาพในที่ๆ มีแสงน้อยได้ดีขึ้น แต่คมชัดของภาพจะน้อยลง"</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"ถ้ากล้องของคุณเลือกค่า ISO หรือความเร็วชัตเตอร์ให้คุณ ภาพถ่ายที่ออกมาอาจจะมืดหรือสว่างกว่าปกติ"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"ควบคุมความสว่างของแฟลช"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"ไฟฉายจะสว่างอยู่ตลอดเวลา"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"แฟลชจะสว่างขึ้นมา\nเมื่อคุณถ่ายรูปเท่านั้น"</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"โหมดระยะโฟกัสทั้งสามโหมดได้แก่ อัตโนมัติ อนันต์ และมาโคร"</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"ถ้าไกลกว่าห้าเมตร จะถูกจัดกลุ่มเป็น \'ระยะอนันต์\'"</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"แสงไฟจะเปลี่ยนสีไปตามสถานการณ์"</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"เปลี่ยนสมดุลแสงขาวเพื่อควบคุมค่านี้"</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"ช่วงไดนามิกสูงจะเก็บรายละเอียดเงาและไฮไลต์ได้ดี ทำให้ภาพมีเรื่องราวมากขึ้น"</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"คอลลาจจะเป็นการถ่ายภาพสี่ภาพ และรวมเข้าเป็นภาพเดียว"</string>
+	<!---->
+	<string name="pref_camera_burst_label">"การถ่ายภาพต่อเนื่อง"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"เปิดใช้งานการถ่ายภาพต่อเนื่องโดยกดปุ่มถ่ายภาพค้างไว้"</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"เครื่องสแกน"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"ปัดนิ้วไปทางขวาเพื่อเข้าสู่โหมดสแกน"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"โหมดสแกนสามารถสแกน"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- บาร์โค้ด"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- รหัส QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- นามบัตรธุรกิจ"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"แฟลช"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"ย้อนกลับ"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"ตั้งค่าใหม่"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"การตั้งค่าวิดีโอ"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"คุณต้องการรีเซ็ตการตั้งค่าแมนนวลทั้งหมดหรือไม่?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"อย่าเคลื่อนไหวอุปกรณ์ระหว่างการถ่ายภาพ HDR"</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"ไม่พบแอปพลิเคชันสำหรับการทำงานนี้"</string>
+	<!---->
+	<string name="battery_is_low">"แบตเตอรี่ต่ำ"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"พบเว็บไซต์"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"พบข้อความ"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"พบหมายเลขโทรศัพท์"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"พบที่อยู่อีเมล"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"พบรายชื่อ"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"พบการตั้งค่า Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"ละเว้น"</string>
+	<!---->
+	<string name="qrcode_button_open">"เปิด"</string>
+	<!---->
+	<string name="qrcode_button_copy">"คัดลอก"</string>
+	<!---->
+	<string name="qrcode_button_save">"บันทึก"</string>
+	<!---->
+	<string name="qrcode_button_call">"โทร"</string>
+	<!---->
+	<string name="qrcode_button_email">"อีเมล"</string>
+	<!---->
+	<string name="qrcode_button_connect">"เชื่อมต่อ"</string>
+</resources>

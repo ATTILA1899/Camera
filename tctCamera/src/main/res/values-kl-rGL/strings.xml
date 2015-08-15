@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Assiliivik"</string>
+	<!---->
+	<string name="video_camera_label">"Camcorder"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Asseq aaqqiguk ima"</string>
+	<!-- no translation found for delete -->
+	<skip />
+	<plurals name="delete_selection">
+		<item quantity="one">"Toqqagaq peerniarpiuk?"</item>
+		<item quantity="other">"Toqqakkat peerniarpigit?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Siammarteruk"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Peerneqarpoq"</string>
+	<!---->
+	<string name="undo">"Utertiguk"</string>
+	<!---->
+	<string name="details">"Paasissutissat"</string>
+	<!---->
+	<string name="close">"Matujuk"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Nunap assingani takutiguk"</string>
+	<!---->
+	<string name="rotate_left">"Saamimmut sammivia inissitsiguk"</string>
+	<!---->
+	<string name="rotate_right">"Talerpimmut sammivileruk"</string>
+	<!---->
+	<string name="edit">"Ilusilersoruk"</string>
+	<!---->
+	<string name="crop_action">"Kisimiitsilerlugu killoruk"</string>
+	<!---->
+	<string name="trim_action">"Killoruk"</string>
+	<!---->
+	<string name="set_as">"Aaqqiguk ima"</string>
+	<!-- no translation found for video_err -->
+	<skip />
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Ateq"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Piffissaq"</string>
+	<!---->
+	<string name="location">"Sumiiffik"</string>
+	<!---->
+	<string name="path">"Path"</string>
+	<!---->
+	<string name="width">"Silissusaa"</string>
+	<!---->
+	<string name="height">"Angissuseq"</string>
+	<!---->
+	<string name="orientation">"Sammivia"</string>
+	<!---->
+	<string name="duration">"Sivisussusaa"</string>
+	<!---->
+	<string name="mimetype">"Fil-i naggateqanngitsoq MIME"</string>
+	<!---->
+	<string name="file_size">"Fil-ip angissusaa"</string>
+	<!---->
+	<string name="maker">"Sanasartoq"</string>
+	<!---->
+	<string name="model">"Model"</string>
+	<!---->
+	<string name="flash">"Flash"</string>
+	<!---->
+	<string name="aperture">"Qaamanermut isaasumut iluarsartuut"</string>
+	<!---->
+	<string name="focal_length">"Isaasaaniit tigooraasuanut takissusaa"</string>
+	<!---->
+	<string name="white_balance">"Qaqortup nammaqatigiissaarnera"</string>
+	<!---->
+	<string name="exposure_time">"Qaamanermik qinngorfigineqarnerata sivisussusaa"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Nammineq aaqqitassamik"</string>
+	<!-- no translation found for auto -->
+	<skip />
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"No Flash"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!-- no translation found for please_wait -->
+	<skip />
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Assiliivimmi ajortoqarpoq"</string>
+	<!-- no translation found for cannot_connect_camera -->
+	<skip />
+	<!---->
+	<string name="camera_disabled">"Isumannaallisaanermut aalajangersakkat pillugit assiliivik atugassaajunnaartinneqarpoq."</string>
+	<!---->
+	<string name="wait">"Utaqqilaarit…"</string>
+	<!-- no translation found for no_storage -->
+	<skip />
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!-- no translation found for access_sd_fail -->
+	<skip />
+	<!---->
+	<string name="time_lapse_title">"Piffissaq sukkalisillugu immiussineq"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Assiliivik toqqaruk"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Uterit"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Saqqaa"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Toqqorfissaa"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Piffissamik kisitsisartoq"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"Sekund 1"</item>
+		<item quantity="other">"%d sekundtit"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Kisitsinerani nipeqartiguk"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Toqqorsivik"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefon-i"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD kort-i"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Aalasuliap pitaassusaa""</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Assiliiviup aaqqinneri"</string>
+	<!---->
+	<string name="pref_camera_settings">"Assiliiviup aaqqinneri"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Camcorder-ip aaqqinneri"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Assip angissusaa""</string>
+	<!---->
+	<string name="pref_camera_size_title">"Angissuseq"</string>
+	<!-- no translation found for pref_camera_grid_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_2mp_wide -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Ersarillisarnera"</string>
+	<!-- no translation found for pref_camera_focusmode_entry_auto -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Killeqanngitsoq"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Qanittumut"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"AUTO"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Killeqanngitsoq"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Qanittumut"</string>
+	<!-- no translation found for pref_camera_flashmode_title -->
+	<skip />
+	<!-- no translation found for pref_camera_flashmode_label -->
+	<skip />
+	<!-- no translation found for pref_camera_flashmode_entry_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_flashmode_entry_on -->
+	<skip />
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Qaminngavoq"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Qaammartartoq"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"QAAMMAALLATTARTUA NAMMINEERTARTOQ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"QAAMMAALLATTAATAA IKIGUK"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"QAAMMAALLATTAATAA QAMIGUK"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Qaqortup nammaqatigiissaarnera"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Qaqortup nammaqatigiissaarnera"</string>
+	<!-- no translation found for pref_camera_iso_s_f_entry_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_whitebalance_entry_auto -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Qalipaataa kialaartoq"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Ullup qaamarnga"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Qinngornilimmik"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Nuiasoq"</string>
+	<!-- no translation found for pref_camera_whitebalance_label_auto -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Qalipaataa kialaartoq"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Ullup qaamarnga"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Qinngornilimmik"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Nuiasoq"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Aaqqeriigaq"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Pisulik"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Unnuaq"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Seqineq tarrilersoq"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Katerisimaarneq"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_night_title -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_asd_title -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_asd_description -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_asd_night_title -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_asd_back_night_title -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_ase_title_new -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_ase_description -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_ase_night_title -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_ase_back_night_title -->
+	<skip />
+	<!-- no translation found for pref_camera_fff_title -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Aaqqeriikkami toqqarneqarsinnaanngilaq"</string>
+	<!---->
+	<string name="pref_exposure_title">"Qaamanermik qinngortitsivigineqarneq"</string>
+	<!---->
+	<string name="pref_exposure_label">"Qaamanermik qinngortitsivigineqarneq"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"SD kort-it inissaarutilerpoq. Pitsaassusaata aaqqinneri allanngortikkit imaluunniit assinik fil-inilluunniit piiaagit."</string>
+	<!-- no translation found for spaceIsLow_content_storage -->
+	<skip />
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Angissutsimut killeq tikinneqarpoq."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Sukkavallaarpoq"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Panorama piareersapaa"</string>
+	<!-- no translation found for pano_dialog_panorama_failed -->
+	<skip />
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Panorama-mik assiliivoq""</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Panorama siulia utaqqivaa"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Toqqorpaa…"</string>
+	<!-- no translation found for pano_review_rendering -->
+	<skip />
+	<!---->
+	<string name="tap_to_focus">"Ersarillisinniarlugu attoruk."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Effekt-it"</string>
+	<!---->
+	<string name="effect_none">"Soqanngilaq"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Eqiteruk"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Isit angisuut"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Qaneq angisooq"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Qaneq mikisoq"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Qingaq angisooq"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Isit mikisut"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Silaannarsuarmi"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Seqineq tarrilersoq"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Film-iutit"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Immiussiutigalutit assiliiniarlutit attoruk."</string>
+	<!---->
+	<string name="video_recording_started">"Video-mik immiussineq aallartippoq."</string>
+	<!---->
+	<string name="video_recording_stopped">"Video-mik immiussineq unippoq."</string>
+	<!---->
+	<string name="clear_effects">"Effekt-it piikkit"</string>
+	<!---->
+	<string name="effect_silly_faces">"KIINNAT MITALLEQQASUT"</string>
+	<!---->
+	<string name="effect_background">"TUNULIAQUT"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Menu-p toortaataa"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Assimut nuuguk"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Panoramamut nuuguk"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Piareertoq takuuk"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Assileqqitaq takuuk"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!-- no translation found for capital_off -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Qaminngavoq"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"Sekund 1"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1.5 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2.5 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 sekundtit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 sekundtit"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 minutsi"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1.5 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2.5 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 minutsit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minutsit"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 tiimi"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 tiimit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"Akunnerit 2.5"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 tiimit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 tiimit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"Akunnerit 5"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 tiimit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"Akunnerit 10"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 tiimit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"Akunnerit 15"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 tiimit"</string>
+	<!---->
+	<string name="time_lapse_seconds">"sekundtit"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minutsit"</string>
+	<!---->
+	<string name="time_lapse_hours">"Akunnerit"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Akunnerit Akulikissusaat aaqqikkit"</string>
+	<!---->
+	<string name="set_time_interval_help">"Piffissap ingerlaffissaanut atortoq qaminngavoq. Piffissap akulikissusaa aaqqinniarlugu ikiguk."</string>
+	<!---->
+	<string name="set_duration">"Sivisussusaa sekundtilersuitiguk"</string>
+	<!---->
+	<string name="count_down_title_text">"Assiliiniarluni kisitsivoq"</string>
+	<!---->
+	<string name="remember_location_title">"Assit sumiissusaat eqqaamassavaa?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Assiutitit video-titillu kinaassusilersuiffigikkit sumiiffii ilanngullugit.\n\nApp-it allat ukununnga paasissutissanut isersinnaapput assinuttaaq toqqukkannut."</string>
+	<!---->
+	<string name="remember_location_no">"Naamik, qujaannarpunga."</string>
+	<!---->
+	<string name="remember_location_yes">"Aap"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Toqqoruk"</string>
+	<!-- no translation found for cannot_load_image -->
+	<skip />
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Tunuliaqut aaqqippaa"</string>
+	<!---->
+	<string name="tips_done">"Naammassivoq"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Inuaq ataaseq atorlugu zoom-erneq ilinniaruk"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Marloriarlugu tuullatsiaruk sisoortiffigitillugulu assiisivimmi zoom-ertinniarlugu"</string>
+	<!-- no translation found for location_service_dialog_title -->
+	<skip />
+	<!---->
+	<string name="location_service_dialog_msg">"Assit video-llu sumiissutsit ilanngullugit kinaassusilersuiffigissallugit, GPS silaannakkoortumillu netværk-it Sumiissutsimut Aaqqiinerni ikikkit."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Sussaaruk"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Aaqqiinerit"</string>
+	<!-- no translation found for restore_settings_dialog_title -->
+	<skip />
+	<!-- no translation found for restore_settings_dialog_msg -->
+	<skip />
+	<!---->
+	<string name="advance_setting_group_photo">"Asseq"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!-- no translation found for advance_setting_group_camera -->
+	<skip />
+	<!-- no translation found for mode_menu_photo -->
+	<skip />
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!-- no translation found for mode_menu_panorama -->
+	<skip />
+	<!-- no translation found for mode_menu_manual -->
+	<skip />
+	<!-- no translation found for mode_menu_timelapse -->
+	<skip />
+	<!-- no translation found for mode_menu_scaner -->
+	<skip />
+	<!---->
+	<string name="mode_menu_facebeauty">"Face beauty"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Face beauty"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Aaqqiinerit"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!-- no translation found for beauty_face_title -->
+	<skip />
+	<!-- no translation found for beauty_face_soften -->
+	<skip />
+	<!-- no translation found for beauty_face_bright -->
+	<skip />
+	<!---->
+	<string name="asd_night">"Unnuamiinneq"</string>
+	<!-- no translation found for asd_backlight -->
+	<skip />
+	<!-- no translation found for asd_auto -->
+	<skip />
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Assiisivik"</string>
+	<!-- no translation found for manualseekbar_up_auto -->
+	<skip />
+	<!-- no translation found for disable_night_mode -->
+	<skip />
+	<!-- no translation found for disable_back_light -->
+	<skip />
+	<!-- no translation found for about_one_life_focus -->
+	<skip />
+	<!-- no translation found for about_one_TM -->
+	<skip />
+	<!-- no translation found for about_one_fdaf -->
+	<skip />
+	<!-- no translation found for about_one_fast_face_sharp -->
+	<skip />
+	<!-- no translation found for about_two_asd -->
+	<skip />
+	<!-- no translation found for about_two_optimizes_photos -->
+	<skip />
+	<!-- no translation found for about_two_burst_asd -->
+	<skip />
+	<!---->
+	<string name="about_three_face_beauty">"Face beauty"</string>
+	<!-- no translation found for about_three_enhance_portraits -->
+	<skip />
+</resources>

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"กล้องถ่ายรูป"</string>
+	<!---->
+	<string name="video_camera_label">"กล้องวิดีโอ"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"ตั้งค่ารูปภาพเป็น"</string>
+	<!---->
+	<string name="delete">"ลบ"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"ลบรายการที่เลือกหรือไม่?"</item>
+		<item quantity="other">"ลบรายการที่เลือกหรือไม่?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"แบ่งปัน"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"ลบแล้ว"</string>
+	<!---->
+	<string name="undo">"เลิกทำ"</string>
+	<!---->
+	<string name="details">"รายละเอียด"</string>
+	<!---->
+	<string name="close">"ปิด"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"แสดงบนแผนที่"</string>
+	<!---->
+	<string name="rotate_left">"หมุนไปทางซ้าย"</string>
+	<!---->
+	<string name="rotate_right">"หมุนไปทางขวา"</string>
+	<!---->
+	<string name="edit">"แก้ไข"</string>
+	<!---->
+	<string name="crop_action">"ตัดภาพ"</string>
+	<!---->
+	<string name="trim_action">"ตัดทอน"</string>
+	<!---->
+	<string name="set_as">"ตั้งค่าเป็น"</string>
+	<!---->
+	<string name="video_err">"ไม่สามารถเล่นวิดีโอ"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"ชื่อ"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"เวลา"</string>
+	<!---->
+	<string name="location">"สถานที่"</string>
+	<!---->
+	<string name="path">"เส้นทาง"</string>
+	<!---->
+	<string name="width">"ความกว้าง"</string>
+	<!---->
+	<string name="height">"ความสูง"</string>
+	<!---->
+	<string name="orientation">"การวางแนว"</string>
+	<!---->
+	<string name="duration">"ระยะเวลา"</string>
+	<!---->
+	<string name="mimetype">"ประเภท MIME"</string>
+	<!---->
+	<string name="file_size">"ขนาดไฟล์"</string>
+	<!---->
+	<string name="maker">"ยี่ห้อ"</string>
+	<!---->
+	<string name="model">"รุ่น"</string>
+	<!---->
+	<string name="flash">"แฟลช"</string>
+	<!---->
+	<string name="aperture">"ช่องรับแสง"</string>
+	<!---->
+	<string name="focal_length">"ระยะโฟกัส"</string>
+	<!---->
+	<string name="white_balance">"ไวท์บาลานซ์"</string>
+	<!---->
+	<string name="exposure_time">"เวลารับแสง"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"ด้วยตนเอง"</string>
+	<!---->
+	<string name="auto">"อัตโนมัติ"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"ไม่เปิดแฟลช"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"โปรดรอสักครู่!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"ข้อผิดพลาดกล้องถ่ายรูป"</string>
+	<!---->
+	<string name="cannot_connect_camera">"ไม่สามารถเชื่อมต่อกับกล้องได้"</string>
+	<!---->
+	<string name="camera_disabled">"กล้องถ่ายรูปถูกปิดใช้งานเนื่องจากนโยบายด้านความปลอดภัย"</string>
+	<!---->
+	<string name="wait">"โปรดรอ..."</string>
+	<!---->
+	<string name="no_storage">"ใส่การ์ด SD ก่อนใช้กล้องถ่ายรูป"</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"ไม่สามารถเข้าถึงการ์ด SD"</string>
+	<!---->
+	<string name="time_lapse_title">"การบันทึกเป็นช่วงเวลา"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"เลือกกล้องถ่ายรูป"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"ย้อนกลับ"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"ด้านหน้า"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"ตำแหน่งจัดเก็บ"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"ตัวนับถอยหลัง"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 วินาที"</item>
+		<item quantity="other">"%d วินาที"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"ดังระหว่างนับถอยหลัง"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"ที่เก็บข้อมูล"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"โทรศัพท์"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"การ์ด SD"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"คุณภาพวิดีโอ"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"การตั้งค่ากล้องถ่ายรูป"</string>
+	<!---->
+	<string name="pref_camera_settings">"การตั้งค่ากล้อง"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"การตั้งค่ากล้องวิดีโอ"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"ขนาดภาพ"</string>
+	<!---->
+	<string name="pref_camera_size_title">"ขนาด"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"กริด"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 ล้านพิกเซล"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 ล้านพิกเซล"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 ล้านพิกเซล"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 ล้านพิกเซล"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 ล้านพิกเซล"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 ล้านพิกเซล (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1.5 ล้านพิกเซล"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1.3 ล้านพิกเซล"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 ล้านพิกเซล"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"โหมดโฟกัส"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"อัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"ไม่สิ้นสุด"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"มาโคร"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"อัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"ไม่มีที่สิ้ินสุด"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"มาโคร"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"โหมดแฟลช"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"โหมดแฟลช"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"อัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"เปิด"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"ปิด"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"ไฟฉาย"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"แฟลชอัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"เปิดแฟลช"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"ปิดแฟลช"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"ไวท์บาลานซ์"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"ไวท์บาลานซ์"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"ออโต้"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"อัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"หลอดไส้"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"กลางวัน"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"ฟลูออเรสเซนต์"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"เมฆมาก"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"อัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"หลอดไส้"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"กลางวัน"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"ฟลูออเรสเซนต์"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"มีเมฆเป็นส่วนมาก"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"โหมดฉาก"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"อัตโนมัติ"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"ถ่ายภาพ"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"กลางคืน"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"ตะวันตกดิน"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"งานเลี้ยง"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"โหมดกลางคืน"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"การตรวจจับฉากอัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"ปรับการตั้งค่ากล้องเพื่อให้รูปภาพมีคุณภาพดีขึ้น"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"ฉากกลางคืน"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"ฉากแบ็คไลต์"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"การปรับปรุงฉากหลังอัตโนมัติ"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"ปรับการตั้งค่ากล้องเพื่อให้รูปภาพมีคุณภาพดีขึ้น"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"ฉากแสงน้อย"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"ฉากที่มีแบ็คไลต์"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"โฟกัสใบหน้าแบบเร็ว"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"ไม่สามารถเลือกได้ในโหมดสำเร็จรูป"</string>
+	<!---->
+	<string name="pref_exposure_title">"การรับแสง"</string>
+	<!---->
+	<string name="pref_exposure_label">"การรับแสง"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"ตกลง"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"การ์ด SD ของคุณไม่มีพื้นที่เหลือ ให้เปลี่ยนการตั้งค่าคุณภาพหรือลบบางภาพหรือไฟล์อื่นๆ"</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"อุปกรณ์เก็บข้อมูลของคุณใกล้เต็มแล้ว เปลี่ยนการตั้งค่าคุณภาพหรือลบภาพหรือไฟล์บางส่วนออก"</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"ขนาดถึงขีดจำกัดแล้ว"</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"เร็วเกินไป"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"กำลังสร้างพาโนรามา"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"ไม่สามารถบันทึกภาพพาโนรามา"</string>
+	<!---->
+	<string name="pano_dialog_title">"พาโนรามา"</string>
+	<!---->
+	<string name="pano_capture_indication">"กำลังจับภาพพาโนรามา"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"กำลังรอภาพพาโนรามาก่อนหน้า"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"กำลังบันทึก…"</string>
+	<!---->
+	<string name="pano_review_rendering">"กำลังแสดงภาพพาโนรามา"</string>
+	<!---->
+	<string name="tap_to_focus">"แตะเพื่อโฟกัส"</string>
+	<!---->
+	<string name="pref_video_effect_title">"เอฟเฟ็กต์"</string>
+	<!---->
+	<string name="effect_none">"ไม่มี"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"บีบ"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"ตาโต"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"ปากใหญ่"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"ปากเล็ก"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"จมูกโต"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"ตาเล็ก"</string>
+	<!---->
+	<string name="effect_backdropper_space">"ในอวกาศ"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"ตะวันตกดิน"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"วิดีโอของคุณ"</string>
+	<!---->
+	<string name="video_snapshot_hint">"แตะเพื่อถ่ายภาพในขณะบันทึก"</string>
+	<!---->
+	<string name="video_recording_started">"เริ่มการบันทึกวิดีโอแล้ว"</string>
+	<!---->
+	<string name="video_recording_stopped">"หยุดการบันทึกวิดีโอแล้ว"</string>
+	<!---->
+	<string name="clear_effects">"ล้างเอฟเฟ็กต์"</string>
+	<!---->
+	<string name="effect_silly_faces">"หน้าตลก"</string>
+	<!---->
+	<string name="effect_background">"พื้นหลัง"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"ปุ่มเมนู"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"เปลี่ยนเป็นภาพถ่าย"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"เปลี่ยนเป็นภาพมุมกว้าง"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"ทบทวนเสร็จสิ้น"</string>
+	<!---->
+	<string name="accessibility_review_retake">"ทดสอบอีกครั้ง"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"ปิด"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"ปิด"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 วินาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 วินาที"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1.5 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2.5 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 นาที"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 นาที"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 ชั่วโมง"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2.5 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 ชั่วโมง"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 ชั่วโมง"</string>
+	<!---->
+	<string name="time_lapse_seconds">"วินาที"</string>
+	<!---->
+	<string name="time_lapse_minutes">"นาที"</string>
+	<!---->
+	<string name="time_lapse_hours">"ชั่วโมง"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"กำหนดช่วงเวลา"</string>
+	<!---->
+	<string name="set_time_interval_help">"ปิดคุณสมบัติจับเวลา เปิดเพื่อกำหนดการจับเวลา"</string>
+	<!---->
+	<string name="set_duration">"ตั้งค่าระยะเวลาเป็นวินาที"</string>
+	<!---->
+	<string name="count_down_title_text">"นับถอยหลังเพื่อถ่ายภาพ"</string>
+	<!---->
+	<string name="remember_location_title">"จำตำแหน่งภาพถ่ายหรือไม่?"</string>
+	<!---->
+	<string name="remember_location_prompt">"ทำหมายเหตุกำกับภาพและวิดีโอพร้อมสถานที่ที่ถ่าย\n\nแอพอื่น ๆ สามารถสืบค้นข้อมูลนี้ได้พร้อมกับภาพที่คุณบันทึกไว้"</string>
+	<!---->
+	<string name="remember_location_no">"ไม่ ขอบคุณ"</string>
+	<!---->
+	<string name="remember_location_yes">"ใช่"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"บันทึก"</string>
+	<!---->
+	<string name="cannot_load_image">"ไม่สามารถโหลดภาพได้!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"การตั้งวอลเปเปอร์"</string>
+	<!---->
+	<string name="tips_done">"เสร็จสิ้น"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"เรียนรู้เกี่ยวกับการซูมด้วยนิ้วเดียว"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"แตะสองครั้งและเลื่อนเพื่อซูมเข้า/ซูมออกกล้องถ่ายรูป"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS ปิด"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"แท็กภาพและวิดีโอพร้อมสถานที่โดยเปิด GPS และเครือข่ายไร้สายใน การตั้งค่าสถานที่"</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"ยกเลิก"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"การตั้งค่า"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"เรียกคืนการตั้งค่า"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"แน่ใจหรือว่าคุณต้องการเรียกคืนค่าเริ่มต้นทั้งหมด?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"รูปภาพ"</string>
+	<!---->
+	<string name="advance_setting_group_video">"วิดีโอ"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"การตั้งค่ากล้องถ่ายรูป"</string>
+	<!---->
+	<string name="mode_menu_photo">"โหมดอัตโนมัติ"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"พาโนรามา"</string>
+	<!---->
+	<string name="mode_menu_manual">"โหมดแมนนวล"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"เร่งเวลาต่อเนื่อง"</string>
+	<!---->
+	<string name="mode_menu_scaner">"เครื่องสแกน"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"ใบหน้าสวยงาม"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"ใบหน้าสวยงาม"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"การตั้งค่า"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"สกิน"</string>
+	<!---->
+	<string name="beauty_face_soften">"โทน:"</string>
+	<!---->
+	<string name="beauty_face_bright">"พื้นผิว:"</string>
+	<!---->
+	<string name="asd_night">"โหมดกลางคืน"</string>
+	<!---->
+	<string name="asd_backlight">"โหมดแบ็คไลต์"</string>
+	<!---->
+	<string name="asd_auto">"โหมดอัตโนมัติ"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"แกลเลอรี"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"อัตโนมัติ"</string>
+	<!---->
+	<string name="disable_night_mode">"โหมดกลางคืนปิดทำงาน"</string>
+	<!---->
+	<string name="disable_back_light">"แบ็คไลต์ปิดทำงาน"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"พร้อมการโฟกัสตรวจจับใบหน้าอัตโนมัติ (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"การโฟกัสใบหน้าอย่างรวดเร็วช่วยให้ทุกช่วงเวลามีความคมชัด"</string>
+	<!---->
+	<string name="about_two_asd">"การปรับปรุงฉากหลังอัตโนมัติ"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"ปรับการตั้งค่ากล้องเพื่อให้รูปภาพมีคุณภาพดีขึ้น"</string>
+	<!---->
+	<string name="about_two_burst_asd">"ไม่สามารถใช้โหมดถ่ายภาพต่อเนื่องขณะเปิดใช้การปรับปรุงฉากหลังอัตโนมัติได้"</string>
+	<!---->
+	<string name="about_three_face_beauty">"ใบหน้าสวยงาม"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"ปรับปรุงรูปภาพบุคคลโดยปรับผิวและโทนสีของใบหน้า"</string>
+</resources>

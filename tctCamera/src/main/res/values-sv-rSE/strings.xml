@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kamera"</string>
+	<!---->
+	<string name="video_camera_label">"Videokamera"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Använd bild som"</string>
+	<!---->
+	<string name="delete">"Ta bort"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Ta bort markerat objekt?"</item>
+		<item quantity="other">"Radera markerade objekt?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Dela"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Borttagen"</string>
+	<!---->
+	<string name="undo">"Ångra"</string>
+	<!---->
+	<string name="details">"Information"</string>
+	<!---->
+	<string name="close">"Nära"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Visa på karta"</string>
+	<!---->
+	<string name="rotate_left">"Rotera vänst"</string>
+	<!---->
+	<string name="rotate_right">"Rotera hög."</string>
+	<!---->
+	<string name="edit">"Redigera"</string>
+	<!---->
+	<string name="crop_action">"Beskära"</string>
+	<!---->
+	<string name="trim_action">"Klipp"</string>
+	<!---->
+	<string name="set_as">"Använd som"</string>
+	<!---->
+	<string name="video_err">"Det går inte att spela upp videon"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Titel"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Tid"</string>
+	<!---->
+	<string name="location">"Plats"</string>
+	<!---->
+	<string name="path">"Sökväg"</string>
+	<!---->
+	<string name="width">"Bredd"</string>
+	<!---->
+	<string name="height">"Höjd"</string>
+	<!---->
+	<string name="orientation">"Riktning"</string>
+	<!---->
+	<string name="duration">"Varaktighet"</string>
+	<!---->
+	<string name="mimetype">"MIME-typ"</string>
+	<!---->
+	<string name="file_size">"Filstorlek"</string>
+	<!---->
+	<string name="maker">"Upphovsman"</string>
+	<!---->
+	<string name="model">"Modell"</string>
+	<!---->
+	<string name="flash">"Flash"</string>
+	<!---->
+	<string name="aperture">"Bländare"</string>
+	<!---->
+	<string name="focal_length">"Fokuslängd"</string>
+	<!---->
+	<string name="white_balance">"Vitbalans"</string>
+	<!---->
+	<string name="exposure_time">"Exponeringstid"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Manuellt"</string>
+	<!---->
+	<string name="auto">"Automatiskt"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Ingen blixt"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Vänta!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Kamerafel"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Kan inte ansluta till kameran."</string>
+	<!---->
+	<string name="camera_disabled">"Kameran har inaktiverats på grund av säkerhetspolicys."</string>
+	<!---->
+	<string name="wait">"Vänta medan telefonen programmeras."</string>
+	<!---->
+	<string name="no_storage">"Sätt i SD-kort innan kameran används."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Det gick inte att komma åt SD-kortet."</string>
+	<!---->
+	<string name="time_lapse_title">"Tidsintervallinspelning"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Välj kamera"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Tillbaka"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Framsida"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Spara plats"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Nedräkningstimer"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 sekund"</item>
+		<item quantity="other">"%d sekunder"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Pip under nedräkning"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Lagring"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefon"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD-kort"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Videokvalitet"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Kamerainställningar"</string>
+	<!---->
+	<string name="pref_camera_settings">"Kamerainställningar"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Videokamerainställningar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Bildstorlek"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Vänta…"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Rutnät"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M pixlar"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M pixlar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M pixlar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M pixlar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M pixlar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M-pixlar (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 M pixlar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 M pixlar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 M pixlar"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Fokusläge"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Automatiskt"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Oändligt"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"AUTO"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Oändligt"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Blixtläge"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"FLASH MODE"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Automatiskt"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"På"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Av"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Ficklampa"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"AUTOBLIXT"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"BLIXT PÅ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"BLIXT AV"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Vitbalans"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Vitbalans"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Automatiskt"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Självlysande"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Dagsljus"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescerande"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Molnigt"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"AUTO"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Självlysande"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Dagsljus"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Fluorescerande"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Molnigt"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Scenläge"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Automatiskt"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Åtgärd"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Natt"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Solnedgång"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Fest"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Nattläge"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Automatisk scenupptäckt"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Optimerar dina kamerainställningar för bättre fotokvalitet."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Nattmotiv"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Bakgrundsupplyst motiv"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Aut. motivförbättring"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Optimerar dina kamerainställningar för bättre fotokvalitet."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Motiv med dåligt ljus"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Bakgrundsupplyst motiv"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Snabbt ansiktsfokus"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Går inte att välja i scenläge."</string>
+	<!---->
+	<string name="pref_exposure_title">"Exponering"</string>
+	<!---->
+	<string name="pref_exposure_label">"Exponering"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Ditt SD-kort håller på att bli fullt. Ändra kvalitetsinställning eller ta bort några bilder eller andra filer."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Ditt telefonminne börjar bli fullt. Ändra kvalitetsinställning eller ta bort några bilder eller filer."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Storleksgränsen nådd."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"För snabbt"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Förbereder panorama"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Kan inte spara panorama."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Fångar panorama"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Väntar på föregående panoramabild"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Sparar..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Renderar panorama"</string>
+	<!---->
+	<string name="tap_to_focus">"Tryck för fokus."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Effekter"</string>
+	<!---->
+	<string name="effect_none">"Inga"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Kläm"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Stora ögon"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Stor mun"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Liten mun"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Stor näsa"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Små ögon"</string>
+	<!---->
+	<string name="effect_backdropper_space">"I rymden"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Solnedgång"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Din video"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Tryck om du vill ta ett foto medan du spelar in."</string>
+	<!---->
+	<string name="video_recording_started">"Videoinspelning har börjat."</string>
+	<!---->
+	<string name="video_recording_stopped">"Videoinspelning har stoppats."</string>
+	<!---->
+	<string name="clear_effects">"Rensa effekter"</string>
+	<!---->
+	<string name="effect_silly_faces">"KNASIGA ANSIKTEN"</string>
+	<!---->
+	<string name="effect_background">"BAKGRUND"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Menyknapp"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Byt till kameraläge"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Växla till panorama"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Granskningen är klar"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Omtagning av granskning"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"AV"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Av"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 sekund"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 sekunder"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 sekunder"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 minuter"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minuter"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 timme"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 timmar"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 timmar"</string>
+	<!---->
+	<string name="time_lapse_seconds">"sekunder"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minuter"</string>
+	<!---->
+	<string name="time_lapse_hours">"timmar"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Ställ in tidsintervall"</string>
+	<!---->
+	<string name="set_time_interval_help">"Funktion för passerad tid är avstängd. Sätt på den för att ange tidsintervall."</string>
+	<!---->
+	<string name="set_duration">"Ställ in löptiden i sekunder"</string>
+	<!---->
+	<string name="count_down_title_text">"Räknar ner för att ta ett foto"</string>
+	<!---->
+	<string name="remember_location_title">"Minnas fotoplatser?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Tagga dina foton och videoklipp med platserna där de togs.\n\nAndra appar kan komma åt den här informationen tillsammans med dina sparade bilder."</string>
+	<!---->
+	<string name="remember_location_no">"Nej, tack"</string>
+	<!---->
+	<string name="remember_location_yes">"Ja"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Spara"</string>
+	<!---->
+	<string name="cannot_load_image">"Kan inte ladda bilden!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Ställer in bakgrundsbild"</string>
+	<!---->
+	<string name="tips_done">"Färdig"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Läs om zoomning med ett finger"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Peka två gånger och skjut för att zooma in/ut i kameran"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS av"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Aktivera GPS och trådlösa nätverk i Platsinställningar för att tagga foton och videofilmer med platser."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Avbryt"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Inställningar"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Återställ inställningar"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Är du säker på att du vill återställa standardinställningar?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Foto"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Kamerainställning"</string>
+	<!---->
+	<string name="mode_menu_photo">"Automatiskt läge"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panorama"</string>
+	<!---->
+	<string name="mode_menu_manual">"Manuellt läge"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Tidsintervall"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Skanner"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Ansiktsskönhet"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Ansiktsskönhet"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Inställningar"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Hud"</string>
+	<!---->
+	<string name="beauty_face_soften">"Ton:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Struktur:"</string>
+	<!---->
+	<string name="asd_night">"Nattläge"</string>
+	<!---->
+	<string name="asd_backlight">"Bakgrundsljusläge"</string>
+	<!---->
+	<string name="asd_auto">"Automatiskt läge"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galleri"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"auto"</string>
+	<!---->
+	<string name="disable_night_mode">"Nattläge inaktiverat"</string>
+	<!---->
+	<string name="disable_back_light">"Bakgrundsljus inaktiverat"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"med autofokus vid ansiktsupptäckt (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Snabbt ansiktsfokus innebär att dina ögonblick alltid är skarpa."</string>
+	<!---->
+	<string name="about_two_asd">"Aut. motivförbättring"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Optimerar dina kamerainställningar för bättre fotokvalitet."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Kontinuerligt läge ej tillgängligt när automatiskt motivförbättring är på."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Ansiktsskönhet"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Förbättra dina porträtt genom att justera ansiktston och yta."</string>
+</resources>

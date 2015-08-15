@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Rétablir les paramètres par défaut"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Options avancées"</string>
+	<!---->
+	<string name="pref_back_detail">"Retour"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Enregistrement du son"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"Stabilisateur"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Appuyez sur l\'obturateur pour commencer la prise en panorama."</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Pointez l’appareil en direction de la prise de vue."</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Impossible de générer le panoramique."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Ralentir"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Déplacer vers le haut"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Dépla. vers bas"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normale"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sports"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Micro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Beauté"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoramique"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Panorama 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Expression (4-poses)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Sourire"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Prise en rafale"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuel"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Grand angle"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtrer"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Composer"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Action lente"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Collage"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Nuit"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Faible"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Élevée"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Haute"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Superfine"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normale"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Retardateur"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"Non"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 s."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 secondes"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 secondes"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 secondes"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Grande"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Moyenne"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Petite"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Enregistrement de <xliff:g example="10" id="numbers">%1$d</xliff:g> images"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Géotagage"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Étiquette GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Qualité d\'image"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Son obturateur"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Plein écran"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Grande"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Moyenne"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Petite"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Repassez en mode normal pour la prise en rafale."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Ne faites pas bouger l\'appareil lors de la prise de vue HDR."</string>
+	<!---->
+	<string name="tips_title">"Photos en continu"</string>
+	<!---->
+	<string name="tips_content1">"Prise de vue répétée Appui long"</string>
+	<!---->
+	<string name="tips_content2">"ou sur la touche du volume pour la prise en rafale."</string>
+	<!---->
+	<string name="expression_guide_capture">"Appuyez sur l\'obturateur pour prendre 4 expressions d\'une même photo."</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Mémoire faible. Arrêt automatique de l’enregistrement."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Mémoire insuffisante. Veuillez fermer des applications."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Lecture du code QR"</string>
+	<!---->
+	<string name="qrcode_title">"Lecture du code QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"Adresse Web"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Géolocalisation"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Configuration Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Contact"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Numéro de téléphone"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Agenda"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"texte"</string>
+	<!---->
+	<string name="qrcode_hint_url">"L’ouverture du lien peut entraîner l’usage de données réseau de votre forfait."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"L’ouverture du lien peut entraîner l’usage de données réseau de votre forfait."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"L’ouverture du lien ajoutera la configuration Wi-Fi dans les paramètres."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"L’ouverture du lien entraînera le lancement de l’application Note sur votre téléphone portable."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Lire depuis des photos"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Historique de lecture"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Paramètres"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Réticule"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Afficher le réticule pendant la lecture"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Bip"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Bip après la lecture d’un code"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibreur"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibrer après la lecture"</string>
+	<!---->
+	<string name="qrcode_notfound">"Code QR introuvable"</string>
+	<!---->
+	<string name="qrcode_share">"Partage du code QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Ouvrir"</string>
+	<!---->
+	<string name="qrcode_history_share">"Partager"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Tout effacer"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Annuler"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Confirmer la suppression"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Voulez-vous effacer tous les éléments de la liste des lectures ?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Aucun historique de lecture"</string>
+	<!---->
+	<string name="qrcode_scanning">"Lecture du code QR dans l’image…"</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Configuration Wi-Fi ajoutée"</string>
+	<!---->
+	<string name="setting_photo_title">"Paramètres photo"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtrer"</string>
+	<!---->
+	<string name="liveeffect_none">"Aucun"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Négatif"</string>
+	<!---->
+	<string name="liveeffect_relief">"Relief"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Objectif fisheye"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Esquisse"</string>
+	<!---->
+	<string name="liveeffect_retro">"Instantané"</string>
+	<!---->
+	<string name="liveeffect_edge">"Contour"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Transférer"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Paramètres avancés"</string>
+	<!---->
+	<string name="manual_manu_title">"Chaîne manuelle"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"L’obturateur reste ouvert en mode Ampoule.\n Appuyez à nouveau sur le bouton de prise de vue pour fermer l’obturateur."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Vitesse obturat."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Distance focale"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Mode Manuel désactivé"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Faire passer tous les paramètres manuels en automatique ?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Prise de vue Ampoule."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Contrôlez finement la prise de vos photos."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Rappelez-vous simplement de désactiver la fonction ici."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Sensibilité de l’appareil photo à la lumière."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Une valeur ISO supérieure nécessite moins de lumière mais réduit la qualité de la prise."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Si l’appareil photo sélectionne automatiquement un réglage ISO ou une vitesse d’obturation, cela vous permet d’assombrir ou d’éclaircir vos photos."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Contrôle la puissance du flash."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"La lampe reste allumée."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Le flash ne s’allume que si \nvous prenez une photo."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Les trois modes de mise au point sont Automatique, Infini et Macro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Pour les distances supérieures à cinq mètres, l’option utilise la valeur « infini »."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"La lumière influe sur la couleur selon les conditions de prise."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Réglez au besoin la balance des blancs."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Une plage dynamique ample permet de conserver les détails des ombres et des zones de lumière, créant ainsi une photo plus saisissante."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Le collage prend quatre photos et les combine en une seule."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Photos en continu"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Activez la prise de photos en continu en maintenant le déclencheur."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Code-barres"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Balayez vers la droite pour activer le mode Lecture."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Le mode Lecture peut lire"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Codes-barres"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- Codes QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Cartes de visite"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flash"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Retour"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Réinitialiser"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Paramètres vidéo"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Voulez-vous rétablir tous les paramètres manuels ?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Ne faites pas bouger l’appareil lors de la prise de vue HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Aucune application pouvant gérer cette action n’a été trouvée."</string>
+	<!---->
+	<string name="battery_is_low">"Batterie faible"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Site Web trouvé"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Texte trouvé"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Numéro de téléphone trouvé"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Adresse e-mail trouvée"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Contact trouvé"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Paramètres Wi-Fi trouvés"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignorer"</string>
+	<!---->
+	<string name="qrcode_button_open">"Ouvrir"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Copier"</string>
+	<!---->
+	<string name="qrcode_button_save">"Enregistrer"</string>
+	<!---->
+	<string name="qrcode_button_call">"Appeler"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Se connecter"</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.InLineSettingToggleSwitch xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_setting_toggle"
+    android:background="@drawable/click_ripple"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        style="@android:style/Theme.Material"
+        android:padding="@dimen/setting_item_list_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    	<TextView android:id="@+id/title"
+    	    android:textSize="@dimen/setting_item_text_size_xlarge"
+	        style="@style/SettingItemTitle"
+	        android:layout_alignParentStart="true"
+	        android:layout_centerVertical="true"
+	        android:layout_marginStart="13dp"
+	         />
+	    <Switch
+	        android:id="@+id/setting_toggle"
+		    android:layout_width="60dp"
+	        android:layout_height="25dp"
+	        android:layout_marginEnd="13dp"
+	        android:layout_alignParentEnd="true"
+	        android:layout_centerVertical="true"
+	        />    
+    </RelativeLayout>
+    
+    <TextView 
+        android:id="@+id/description_switch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/setting_item_text_size"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginRight="27dp"
+        android:visibility="gone"
+        />
+    
+    <View 
+        android:id="@+id/border"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="1.5dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:background="#99444444"></View>
+    
+    
+</com.android.camera.ui.InLineSettingToggleSwitch>

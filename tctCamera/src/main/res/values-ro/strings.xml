@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Aparat foto"</string>
+	<!---->
+	<string name="video_camera_label">"Cameră video"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Setați imaginea ca"</string>
+	<!---->
+	<string name="delete">"Şterge"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Ştergeţi elementul selectat?"</item>
+		<item quantity="other">"Ştergeţi elementele selectate?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Distribuiţi"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Şters"</string>
+	<!---->
+	<string name="undo">"Anulare"</string>
+	<!---->
+	<string name="details">"Detalii"</string>
+	<!---->
+	<string name="close">"Închideți"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Afişaţi pe hartă"</string>
+	<!---->
+	<string name="rotate_left">"Rotiţi spre stânga"</string>
+	<!---->
+	<string name="rotate_right">"Rotiţi spre dreapta"</string>
+	<!---->
+	<string name="edit">"Modificare"</string>
+	<!---->
+	<string name="crop_action">"Decupaţi"</string>
+	<!---->
+	<string name="trim_action">"Decupare"</string>
+	<!---->
+	<string name="set_as">"Setaţi ca"</string>
+	<!---->
+	<string name="video_err">"Videoclipul nu poate fi redat"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Titlu"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Ora"</string>
+	<!---->
+	<string name="location">"Locaţie"</string>
+	<!---->
+	<string name="path">"Cale"</string>
+	<!---->
+	<string name="width">"Lăţime"</string>
+	<!---->
+	<string name="height">"Înălţime"</string>
+	<!---->
+	<string name="orientation">"Orientare"</string>
+	<!---->
+	<string name="duration">"Durată"</string>
+	<!---->
+	<string name="mimetype">"Tip MIME"</string>
+	<!---->
+	<string name="file_size">"Dimens. fişier"</string>
+	<!---->
+	<string name="maker">"Producător"</string>
+	<!---->
+	<string name="model">"Model"</string>
+	<!---->
+	<string name="flash">"Bliţ"</string>
+	<!---->
+	<string name="aperture">"Diafragmă"</string>
+	<!---->
+	<string name="focal_length">"Dist. focală"</string>
+	<!---->
+	<string name="white_balance">"Balans de alb"</string>
+	<!---->
+	<string name="exposure_time">"Timp expunere"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Manual"</string>
+	<!---->
+	<string name="auto">"Automat"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Fără bliţ"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Aşteptaţi..."</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Eroare cameră foto"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Conectarea la aparatul foto nu a fost posibilă."</string>
+	<!---->
+	<string name="camera_disabled">"Camera foto a fost dezactivată din cauza politicilor de securitate."</string>
+	<!---->
+	<string name="wait">"Aşteptaţi..."</string>
+	<!---->
+	<string name="no_storage">"Introduceţi cartela SD înainte de a utiliza aparatul foto."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Nu s-a putut accesa cartela SD."</string>
+	<!---->
+	<string name="time_lapse_title">"Înregistrare cu filmare lentă"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Alegeţi camera foto"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Spate"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Faţă"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Stocare poziție"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Temporizator cu numărătoare inversă"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 secundă"</item>
+		<item quantity="other">"%d secunde"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Bip în timpul numărătorii inverse"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Mediu de stocare"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefon"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Card SD"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Calitate video"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Setări aparat foto"</string>
+	<!---->
+	<string name="pref_camera_settings">"Setări ale camerei foto"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Setări cameră video"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Dimens. imag."</string>
+	<!---->
+	<string name="pref_camera_size_title">"Dimensiune"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Grilă"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 MP"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 MP"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 MP"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 MP"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 MP"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 MP (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 MP"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 MP"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 MP"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Mod focalizare"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Automat"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Infinit"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Macro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"AUTOMAT"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Infinit"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Macro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Mod flash"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"MOD BLIȚ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Automat"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Activat"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Dezactivare"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Lanternă"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"BLIȚ AUTOMAT"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"BLIȚ PORNIT"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"PLIȚ OPRIT"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Balans de alb"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Balans de alb"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Autom"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Incandescent"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Lumină diurnă"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescent"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Înnorat"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"AUTOM."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Incandescent"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Lumină diurnă"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Fluorescent"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Noros"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Mod scenă"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Autom"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Acţiune"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Noapte"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Apus"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Petrecere"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Mod nocturn"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Detectare autom. a scenei"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Optimizează setările privind aparatul foto, pentru a realiza fotografii de calitate mai bună."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Mediu nocturn"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Mediu cu lumină de fundal"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Optimizare automată scenă"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Optimizează setările privind aparatul foto, pentru a realiza fotografii de calitate mai bună."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Lumină slabă"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Lumină de fundal"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Focalizare facială rapidă"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Nu este selectabil în modul scenă."</string>
+	<!---->
+	<string name="pref_exposure_title">"Expunere"</string>
+	<!---->
+	<string name="pref_exposure_label">"Expunere"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Cardul SD rămâne fără spaţiu de stocare. Editaţi setarea de calitate sau ştergeţi câteva imagini sau alte fişiere."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Se termină spațiul de stocare din mediul de stocare. Modificați setările privind calitatea imaginii sau ștergeți câteva imagini sau alte fișiere."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Limită dimensiune atinsă."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Prea repede"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Se pregăteşte panorama"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Nu s-a putut salva fotografia panoramică."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panoramă"</string>
+	<!---->
+	<string name="pano_capture_indication">"Se capturează panorama"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Se aşteaptă panorama anterioară"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Se salvează..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Se redă panorama"</string>
+	<!---->
+	<string name="tap_to_focus">"Atingeţi pentru a focaliza."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Efecte"</string>
+	<!---->
+	<string name="effect_none">"Niciunul"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Comprim."</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Ochi mari"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Gură mare"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Gură mică"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Nas mare"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Ochi mici"</string>
+	<!---->
+	<string name="effect_backdropper_space">"În spaţiu"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Apus"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Videocl. dvs."</string>
+	<!---->
+	<string name="video_snapshot_hint">"Atingeţi pentru a realiza fotografie în timpul înregistrării."</string>
+	<!---->
+	<string name="video_recording_started">"Înregistrarea video a început."</string>
+	<!---->
+	<string name="video_recording_stopped">"Înregistrarea video s-a încheiat."</string>
+	<!---->
+	<string name="clear_effects">"Ştergeţi efectele"</string>
+	<!---->
+	<string name="effect_silly_faces">"FEŢE PROSTUŢE"</string>
+	<!---->
+	<string name="effect_background">"FUNDAL"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Buton meniu"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Comutaţi la camera foto"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Comutaţi la panoramă"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Examinare realizată"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Reluarea examinării"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"OPRIT"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Off"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 secundă"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 secunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 secunde"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minute"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 oră"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 ore"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 de ore"</string>
+	<!---->
+	<string name="time_lapse_seconds">"secunde"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minute"</string>
+	<!---->
+	<string name="time_lapse_hours">"ore"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Setați intervalul de timp"</string>
+	<!---->
+	<string name="set_time_interval_help">"Funcția interval de timp este dezactivată. Activați funcția pentru a seta intervalul de timp."</string>
+	<!---->
+	<string name="set_duration">"Setați durata în secunde"</string>
+	<!---->
+	<string name="count_down_title_text">"Numărătoarea inversă până la efectuarea unei fotografii în curs"</string>
+	<!---->
+	<string name="remember_location_title">"Doriți să memorați locația în care s-a făcut fotografia?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Etichetați fotografiile și videoclipurile cu locațiile în care au fost făcute.\n\nAlte aplicații au acces la aceste informații, precum și la imaginile salvate."</string>
+	<!---->
+	<string name="remember_location_no">"Nu, mulțumesc."</string>
+	<!---->
+	<string name="remember_location_yes">"Da"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Salvare"</string>
+	<!---->
+	<string name="cannot_load_image">"Imaginea nu poate fi încărcată!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Setarea imaginii de fundal"</string>
+	<!---->
+	<string name="tips_done">"Terminat"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Aflați mai multe despre mărirea/micşorarea cu un singur deget"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Atingeți de două ori și glisați pentru a mări sau micșora în ecranul Aparat foto."</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS dezactivat"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Pentru a eticheta fotografii și fișiere video cu locuri, porniți funcția GPS și rețelele wireless în Setări de poziţie."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Anulare"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Setări"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Restabilire setări"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Sigur doriți să restabiliți toate setările implicite?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Fotografie"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Setare aparat foto"</string>
+	<!---->
+	<string name="mode_menu_photo">"Mod automat"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panoramă"</string>
+	<!---->
+	<string name="mode_menu_manual">"Mod manual"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Foto time-lapse"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Modul de scanare"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Frumuseţe faţă"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Frumusețe facială"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Setări"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Fațetă"</string>
+	<!---->
+	<string name="beauty_face_soften">"Ton:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Textură:"</string>
+	<!---->
+	<string name="asd_night">"Mod nocturn"</string>
+	<!---->
+	<string name="asd_backlight">"Mod cu iluminare de fundal"</string>
+	<!---->
+	<string name="asd_auto">"Mod automat"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galerie"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"auto"</string>
+	<!---->
+	<string name="disable_night_mode">"Mod nocturn dezactivat"</string>
+	<!---->
+	<string name="disable_back_light">"Lumină de fundal dezactivată"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"cu focalizare automat cu detectare facială (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Cu ajutorul focalizării faciale rapide, aveți certitudinea că momentele importante sunt întotdeauna clare."</string>
+	<!---->
+	<string name="about_two_asd">"Optimizare automată scenă"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Optimizează setările privind aparatul foto, pentru a realiza fotografii de calitate mai bună."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Modul de fotografiere în rafală nu poate fi utilizat când optimizarea automată a scenei este activată."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Frumusețe facială"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Optimizați portretele prin ajustarea tonului și texturii feței."</string>
+</resources>

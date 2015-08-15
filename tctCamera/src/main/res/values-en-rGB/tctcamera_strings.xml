@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Sat Jan 10 14:31:48 CST 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- [FEATURE]-Add-BEGIN by TCTNB(Mingchun.Li), 2013/10/11, FR-473251,Camera ergo-->
+    <!-- exposure entry values. Do not translate. -->
+
+    <!-- ModeSettingListLayout name-->
+    <string name="pref_restore_detail">"Reset to factory settings"</string>
+    <string name="pref_advanced_detail">"Advanced"</string>
+    <string name="pref_back_detail">"Back"</string>
+
+    <!--sound recording-->
+    <!--[BUGFIX-MOD by jian.zhang1 for PR772716 2014.08.27 Begin]-->
+    <string name="pref_sound_recording_def_value">on</string>
+    <!--[BUGFIX-MOD by jian.zhang1 for PR772716 2014.08.27 End]-->
+    <string name="pref_sound_recording_title">"Sound recording"</string>
+
+    <!--video eis-->
+    <string name="pref_video_eis_default">on</string>
+    <string name="pref_video_eis_title">"EIS"</string>
+    
+    <!--limit for mms-->
+    <string name="pref_video_limit_for_mms_default">off</string>
+    <string name="pref_video_limit_for_mms_title">Limit for MMS</string>
+
+    <string name="accessibility_switch">%1$s switch</string>
+
+    <!-- panorama -->
+    <string name="panorama_guide_shutter">"Press shutter to start capture panorama"</string>
+    <!-- [BUGFIX]-Mod By TCTNB(Hui.Shen), 12/30/2013, PR580217,Panorama mode pop up info is not right. -->
+    <!-- <string name="panorama_guide_choose_direction">Move device towards your capture direction</string> -->
+    <string name="panorama_guide_toward_direction">"Move phone toward to your capture direction"</string>
+    <string name="pano_dialog_panorama_generate_failed">"Couldn\'t generate panorama."</string>
+    <string name="pano_slow_down_prompt">"Slow down"</string>
+    <string name="pano_move_up_prompt">"Move up"</string>
+    <string name="pano_move_down_prompt">"Move down"</string>
+
+    <!--[BUGFIX]-Mod by TCBNB(Hui.Shen), 11/28/2013, PR548457, [Ergo][Camera]Camera shutter_sound should be in default.-->
+    <!-- <string name="pref_camera_capturesound_default" translateable="false">off</string> -->
+    <string name="pref_camera_capturesound_default" translateable="false">on</string>
+
+    <string name="pref_auto_exposure_lock_default" translateable="false">off</string>
+    <string name="pref_camera_wav_denoise_default" translateable="false">denoise-off</string>
+    <string name="pref_camera_capturemode_entry_normal">"Normal"</string>
+    <string name="pref_camera_capturemode_entry_sports">"Sports"</string>
+    <string name="pref_camera_capturemode_entry_micro">"Micro"</string>
+    <string name="pref_camera_capturemode_enrty_hdr">HDR</string>
+    <string name="pref_camera_capturemode_enrty_facebeauty">"Face beauty"</string>
+    <string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+    <string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+    <string name="pref_camera_capturemode_enrty_expression4">"Expression (4-shot)"</string>
+    <string name="pref_camera_capturemode_enrty_smile">"Smile"</string>
+    <string name="pref_camera_burstshot_title">"Burst shot"</string>
+    <string name="pref_camera_capturemode_enrty_manual">"Manual"</string>
+    <string name="pref_camera_capturemode_enrty_wideangle">"Wide Angle"</string>
+    <string name="pref_camera_capturemode_enrty_filter">"Filter"</string>
+    <string name="pref_camera_capturemode_enrty_makeup">"Make up"</string>
+    <string name="pref_camera_capturemode_enrty_slowmotion">"Slow Motion"</string>
+    <string name="pref_camera_capturemode_enrty_collage">"Collage"</string>
+    <!-- [BUGFIX]-Mod-BEGIN by TCTNB.hui.shen,11/05/2013, PR-548457,night mode is different from UI-->
+    <!-- <string name="pref_camera_capturemode_entry_nightmode">Night mode</string> -->
+    <string name="pref_camera_capturemode_entry_nightmode">"Night"</string>
+    <!--[BUGFIX]-Mod-END by TCTNB.hui.shen,11/05/2013, PR-548457 -->
+    <string name="pref_camera_capturemode_enrty_raw">Raw</string>
+
+    <!-- Default Night entry value -->
+    <string name="pref_camera_night_default">@string/setting_off_value</string>
+    <!-- Default Sports entry value -->
+    <string name="pref_camera_sports_default">@string/setting_off_value</string>
+    <!-- [BUGFIX]-Mod by TCTNB.Shangyong.Zhang, 01/02/2014, PR-576361-->
+    <string name="pref_tctcamera_antibanding_default">50hz</string>
+    <string name="pref_video_quality_entry_low">"Low"</string>
+    <string name="pref_video_quality_entry_medium">Medium</string>
+    <string name="pref_video_quality_entry_high">"High"</string>
+    <string name="pref_video_quality_entry_fine">Fine</string>
+    <string name="pref_video_quality_entry_superfine">SuperFine</string>
+    <string name="pref_video_quality_entry_normal">Normal</string>
+
+    <!-- self timer -->
+    <string name="pref_camera_selftimer_default" >0</string>
+    <string name="pref_camera_selftimer_title">"Timer"</string>
+    <string name="pref_camera_selftimer_entry_off">"OFF"</string>
+    <string name="pref_camera_selftimer_entry_3">3s</string>
+    <string name="pref_camera_selftimer_entry_5">5s</string>
+    <string name="pref_camera_selftimer_entry_10">10s</string>
+    <!-- picturesizeflag-->
+    <string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+    <string name="pref_camera_picturesize_entry_large">"Large"</string>
+    <string name="pref_camera_picturesize_entry_medium">"Medium"</string>
+    <string name="pref_camera_picturesize_entry_small">"Small"</string>
+    
+    <string name="pref_camera_picturesize_entry_one">one</string>
+    <string name="pref_camera_picturesize_entry_two">two</string>
+    <string name="pref_camera_picturesize_entry_three">three</string>
+    <string name="pref_camera_picturesize_entry_four">four</string>
+    <string name="pref_camera_picturesize_entry_five">five</string>
+    <string name="pref_camera_picturesize_entry_six">six</string>
+    <string name="pref_camera_picturesize_entry_seven">seven</string>
+    <string name="pref_camera_picturesize_entry_eight">eight</string>
+    <string name="pref_camera_picturesize_entry_nine">nine</string>
+    <string name="pref_camera_picturesize_entry_ten">ten</string>
+    
+
+    <string name="continuous_saving_pictures">"Saving <xliff:g example="10" id="numbers">%1$d</xliff:g> pictures"</string>
+
+    <string name="pref_gps_tagging_title">"GPS tagging"</string>
+    <string name="pref_gps_tag_title">"GPS tag"</string>
+    <string name="pref_gps_tag_default">off</string>
+    <string name="pref_picture_quality_title">"Picture quality"</string>
+    <string name="pref_picture_quality_default">normal</string>
+    <string name="pref_camera_cap_mode_default">normal</string>
+    <!-- <string name="pref_camera_picture_ratio_default">off</string>-->
+    <string name="pref_camera_picture_ratio_default">1.3334</string>
+    <string name="pref_continuous_num_default" >10</string>
+    <string name="pref_camera_sound_title">"Shutter sound"</string>
+    <string name="pref_auto_exposure_lock_title">Exposure lock</string>
+    <string name="pref_camera_wav_denoise_title">Wav denoise</string>
+    <string name="pref_camera_picturesize_ratio_title">"Full screen"</string>
+    <string name="pref_picture_quality_entry_best">"Large"</string>
+    <string name="pref_picture_quality_entry_good">"Medium"</string>
+    <string name="pref_picture_quality_entry_normal">"Small"</string>
+    <string name="pref_camera_picturesize_ratio_entry_4_3">4:3</string>
+    <string name="pref_camera_picturesize_ratio_entry_16_9">16:9</string>
+    <string name="normal_camera_continuous_not_supported">"Please switch back to normal mode for burst shooting."</string>
+    <string name="hdr_guide_capture">"Do not move device during HDR capturing"</string>
+    <string name="tips_title">"Continuous shot"</string>
+    <string name="tips_content1">"Long press shutter button"</string>
+    <string name="tips_content2">"or volume key for burst shot."</string>
+    <string name="expression_guide_capture">"Press the shutter button to capture 4 different expressions"</string>
+<!-- [FEATURE]-add-end by TCT.(Mingchun.Li)-->
+  <string name="video_bad_performance_auto_stop">"Low memory. Auto stop recording."</string>
+  <string name="burstshot_low_memory_auto_stop">"Out of memory, please close some running Apps first."</string>
+
+<!-- [FEATURE]-Add-BEGIN by TCTNB.(Liu Jie),12/18/2013,550519,VoiceShooting -->
+  <string name="pref_camera_voiceshutter_title">Voice shooting</string>
+  <string name="pref_camera_voiceshutter_entry_off" translateable="false">off</string>
+  <string name="pref_camera_voiceshutter_entry_on" translateable="false">on</string>
+  <string name="camera_voiceshutter_tip_before_shooting" translateable="false">即将为您拍照</string>
+  <string name="camera_voiceshutter_tip_for_cmd">Please try to pronounce \'pai zhao\' to take a photo</string>
+  <string name="camera_voiceshutter_tip_for_open" translateable="false">请开启语音拍照</string>
+  <string name="camera_voiceshutter_no_voiceinput_apk" translateable="false">语音识别包未安装</string>
+<!-- [FEATURE]-Add-BEGIN by TCTNB.(Liu Jie) -->
+
+  <string name="pref_camera_picturesize_13mp">13M</string>
+  <string name="pref_camera_picturesize_8mp">8M</string>
+  <string name="pref_camera_picturesize_6_4mp">6.4M</string>
+  <string name="pref_camera_picturesize_6mp">6M</string>
+  <string name="pref_camera_picturesize_5mp">5M</string>
+  <string name="pref_camera_picturesize_4mp">4M</string>
+  <string name="pref_camera_picturesize_3_8mp">3.8M</string>
+  <string name="pref_camera_picturesize_3_2mp">3.2M</string>
+  <string name="pref_camera_picturesize_2_5mp">2.5M</string>
+  <string name="pref_camera_picturesize_2_4mp">2.4M</string>
+  <string name="pref_camera_picturesize_1_3mp">1.3M</string>
+  <string name="pref_camera_picturesize_1mp">1M</string>
+
+  <string name="pref_camera_capturemode_entry_qrcode">"QR Code Scan"</string>
+  <string name="qrcode_title">"QR Code Scan"</string>
+
+    <string name="qrcode_type_url">"Web address"</string>
+    <string name="qrcode_type_geo">"Geo Location"</string>
+    <string name="qrcode_type_wifi">"Wi-Fi Configuration"</string>
+    <string name="qrcode_type_contact">"Contact"</string>
+    <string name="qrcode_type_phonenumber">"Phone number"</string>
+    <string name="qrcode_type_email">"Email"</string>
+    <string name="qrcode_type_calendar">"Calendar"</string>
+    <string name="qrcode_type_sms">"SMS"</string>
+    <string name="qrcode_type_plaintext">"text"</string>
+    <string name="qrcode_hint_url">"Open the link may consume the network data in your mobile phone."</string>
+    <string name="qrcode_hint_geo">"Open the link may consume the network data in your mobile phone."</string>
+    <string name="qrcode_hint_wifi">"Open the link will add Wi-Fi configuration in settings."</string>
+    <string name="qrcode_hint_contact"/>
+
+    <string name="qrcode_hint_phonenumber"/>
+    <string name="qrcode_hint_email"/>
+    <string name="qrcode_hint_calendar"/>
+    <string name="qrcode_hint_sms"/>
+    <string name="qrcode_hint_plaintext">"Open the link will open Note app in your mobile phone."</string>
+    <string name="qrcode_menu_scanfromphotos">"Scan from photos"</string>
+
+    <string name="qrcode_menu_scanhistory">"Scan history"</string>
+    <string name="qrcode_menu_settings">"Settings"</string>
+    <string name="qrcode_settings_crosshairs">Cross Hairs</string>
+    <string name="qrcode_settings_crosshairs_detail">"Show Cross Hairs while scanning"</string> <string name="qrcode_settings_beep">"Beep"</string>
+
+    <string name="qrcode_settings_beep_detail">"Beep after scanning a code"</string>
+<string name="qrcode_settings_vibrate">"Vibrate"</string>
+
+    <string name="qrcode_settings_vibrate_detail">"Vibrate feedback after scanning"</string>
+    <string name="qrcode_notfound">"QR Code Not Found"</string>
+
+    <string name="qrcode_share">"QR Code Share"</string>
+    <string name="qrcode_history_open">"Open"</string>
+    <string name="qrcode_history_share">"Share"</string>
+    <string name="qrcode_history_clearall">"Clear all"</string>
+    <string name="qrcode_dialog_ok">"OK"</string>
+    <string name="qrcode_dialog_cancel">"Cancel"</string>
+    <string name="qrcode_dialog_deletetitle">"Confirm Delete"</string>
+    <string name="qrcode_dialog_confirmdelete">"Do you want to clear all the items in scan list?"</string>
+    <string name="qrcode_no_history">"No scan history"</string>
+
+    <string name="qrcode_scanning">"Scanning QR Code in image ..."</string>
+    <string name="qrcode_toast_wifi">"Wi-Fi Configuration added"</string>
+
+    <string name="setting_photo_title">"Photo Settings"</string>
+<!-- [FEATURE]-Add-BEGIN by TCTNB.(Xutao.Wu) for bug 635962-->
+    <string name="pref_camera_capturemode_entry_filter">"Filter"</string>
+    <string name="liveeffect_none">"None"</string>
+    <string name="liveeffect_ansel">"Noir"</string>
+    <string name="liveeffect_negative">"Negative"</string>
+    <string name="liveeffect_relief">"Relief"</string>
+    <string name="liveeffect_fisheye">"Fisheye"</string>
+    <string name="liveeffect_charcoal">"Sketch"</string>
+    <string name="liveeffect_retro">"Instant"</string>
+    <string name="liveeffect_edge">"Outline"</string>
+    <string name="liveeffect_sepia">"Transfer"</string>
+<!-- [FEATURE]-Add-END by TCTNB.(Xutao.Wu) for bug 635962-->
+<string name="setting_photo_advanced_title">"Advanced settings"</string>
+    <string name="manual_manu_title">"This is a manual string"</string>
+
+    <string name="manual_manu_iso">1600</string>
+    <string name="manual_manu_exposure">0</string>
+    <string name="manual_manu_flash">on</string>
+    <string name="manual_manu_wb">Tungsten</string>
+    <string name="manual_manu_focus">50 mm</string>
+
+    <string name="manual_manu_title_iso">ISO</string>
+    <string name="manual_manu_title_exposure">S</string>
+    <string name="manual_manu_title_wb">WB</string>
+    <string name="manual_manu_title_focus">F</string>
+
+     <string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"The shutter stays open in bulb mode.\n Press capture button again to close shutter."</string>
+     <string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Shutter speed"</string>
+     <string name="pref_camera_capturemode_enrty_manual_focusvalue">"Focus distance"</string> <!-- PR861295-lan.shan-001 Modify -->
+     <string name="pref_camera_manual_mode_reset">"Manual mode off"</string>
+     <string name="pref_camera_manual_mode_reset_toast_hint">"Set all manual settings to auto?"</string>
+     <string name="pref_camera_manual_mode_capturing_hint">"Bulb shooting."</string>
+     
+     <!-- manual focus value -->
+     <string name="pref_manual_mode_focus_value_default" >auto</string>
+     <string name="mmode_manual_mode_first_time_tip_content1">"Take full control over your photos."</string>
+     <string name="mmode_manual_mode_first_time_tip_content2">"Just remember to turn it off here."</string>
+     <string name="mmode_iso_first_time_tip_content1">"The camera\'s sensitivity to light."</string>
+     <string name="mmode_iso_first_time_tip_content2">"Higher ISO needs less light, but has reduced quality."</string>
+     <string name="mmode_exposure_first_time_tip_content1">"If your camera chooses ISO or shutter speed for you, this make your photos darker or lighter."</string>
+     <string name="mmode_flash_first_time_tip_content1">"Control how bright your flash is."</string>
+     <string name="mmode_flash_first_time_tip_content2">"The torch always stays on."</string>
+     <string name="mmode_flash_first_time_tip_content3">"The flash only lights up when\nyou take a photo."</string>
+     <string name="mmode_focus_distance_first_time_tip_content1">"The three focus modes are Auto, Infinity, and Macro."</string> <!-- PR861295-lan.shan-001 Modify -->
+     <string name="mmode_focus_distance_first_time_tip_content2">"If more than five meter, this is grouped as \'infinite\'."</string>
+     <string name="mmode_wb_first_time_tip_content1">"Light changes color depending on a situation."</string>
+     <string name="mmode_wb_first_time_tip_content2">"Change white balance to control this."</string>
+
+     <string name="mode_hdr_first_time_tip">"High Dynamic Range keeps details in shadows and highlights, creating a dramatic photo."</string>
+     <!-- PR873260-lan.shan-001 Add begin -->
+     <string name="mode_collage_first_time_tip">"Collage takes four pictures and combines them into one photo."</string>
+     <!-- PR873260-lan.shan-001 Add end -->
+     
+     <!-- Burst Shooting and Scanner-->
+     <string name="pref_camera_burst_label">Burst Shooting</string>
+     <string name="mode_burst_first_time_tip">Activate burst shooting by pressing and holding the capture button.</string>
+     
+     <string name="pref_camera_scanner_label">Scanner</string>
+     <string name="mode_scanner_first_time_tip_content1">Swipe to the right to enter Scan mode.</string>
+     <string name="mode_scanner_first_time_tip_content2">Scan mode can scan</string>
+     <string name="mode_scanner_first_time_tip_content3">- Bar codes</string>
+     <string name="mode_scanner_first_time_tip_content4">- QR codes</string>
+     <string name="mode_scanner_first_time_tip_content5">- Business cards</string>
+     
+
+     <!-- manual flash duty -->
+     <string name="pref_camera_flash_duty_title">"Flash"</string>
+     <string name="pref_manual_mode_flash_duty_value_default" >off</string>
+     <string name="pref_manual_mode_flash_duty_value_off">Off</string>
+     <string name="pref_manual_mode_flash_duty_value_auto">Auto</string>
+     <string name="pref_manual_mode_flash_duty_value_flash_low">Flash-Low</string>
+     <string name="pref_manual_mode_flash_duty_value_flash_medium">Flash-Medium</string>
+     <string name="pref_manual_mode_flash_duty_value_flash_high">Flash-High</string>
+     <string name="pref_manual_mode_flash_duty_value_flash_full">Flash-Full</string>
+     <string name="pref_manual_mode_flash_duty_value_torch_low">Torch-Low</string>
+     <string name="pref_manual_mode_flash_duty_value_torch_medium">Torch-Medium</string>
+     <string name="pref_manual_mode_flash_duty_value_torch_high">Torch-High</string>
+     <string name="pref_manual_mode_flash_duty_value_torch_full">Torch-Full</string>
+
+     <string name="manual_menu_backkey">"Back"</string>
+     <string name="manual_menu_resetkey">"Reset"</string>
+     <string name="pref_camera_focusmode_default">continuous-picture</string>
+     <string name="setting_video_title">"Video Settings"</string>
+     <string name="confirm_restore_toauto_message">"Do you want to reset all \nmanual settings?"</string>
+     <string name="photo_hdr_toast">"Do not move device during HDR capturing."</string>
+     <!-- String for expression -->
+     <string name="expression_text_1">"1"</string>
+     <string name="expression_text_2">"2"</string>
+     <string name="expression_text_3">"3"</string>
+     <string name="expression_text_4">"4"</string>
+     <string name="missing_app">"No app was found to handle this action."</string>
+</resources>

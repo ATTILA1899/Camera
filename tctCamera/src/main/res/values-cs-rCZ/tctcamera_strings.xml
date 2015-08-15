@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Obnovit výchozí nastavení"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Pokročilé"</string>
+	<!---->
+	<string name="pref_back_detail">"Zpět"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Záznam zvuku"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"El. stab. obr."</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Stisknutím spouště zahajte pořízení panoramatického snímku."</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Umístěte telefon do směru snímání"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Nelze vygenerovat panorama."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Zpomalit"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Přesunout nahoru"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Přesunout dolů"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normální"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Krásná tvář"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360° panor."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Výraz (4 sním.)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Úsměv"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Sériové snímání"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Ručně"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Širokoúhlé"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtrovat"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Krása tváře"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Pomalá akce"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Koláž"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Noc"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Nízká"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Vysoká"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Jemná"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Nejvyšší"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normální"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Časovač"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"VYP."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 s"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Velký"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Střední"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Malý"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Ukládání <xliff:g example="10" id="numbers">%1$d</xliff:g> obrázků"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Označování souřadnicemi GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Značka GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Kvalita obrazu"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Zvuk závěrky"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Celá obrazovka"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Velký"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Střední"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Malý"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Chcete-li fotit v rychlé sekvenci za sebou, vraťte se do normálního režimu."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Během HDR záznamu nehýbejte prosím se zařízením"</string>
+	<!---->
+	<string name="tips_title">"Kontinuální snímání"</string>
+	<!---->
+	<string name="tips_content1">"Dlouhým stisknutím spouště"</string>
+	<!---->
+	<string name="tips_content2">"nebo tlačítka hlasitosti pořídíte sériový snímek."</string>
+	<!---->
+	<string name="expression_guide_capture">"Stisknutím tlačítka spouště pořídíte 4 různé výrazy."</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Nemáte dostatek paměti. Automaticky zastavit záznam."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Nedostatek paměti. Nejprve zavřete některé spuštěné aplikace."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Sejmutí kódu QR"</string>
+	<!---->
+	<string name="qrcode_title">"Sejmutí kódu QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"Webová adresa"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Zeměpisná poloha"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Konfigurace připojení Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontakt"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefonní číslo"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalendář"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"text"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Po otevření odkazu může mobilní telefon uskutečnit datové přenosy."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Po otevření odkazu může mobilní telefon uskutečnit datové přenosy."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Po otevření odkazu se v nastaveních přidá konfigurace sítě Wi-Fi."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Po otevření odkazu se v mobilním telefonu spustí aplikace Poznámky."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Sejmout z fotografií"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Historie snímání"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Nastavení"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Zaměřovací kříže"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Zobrazit zaměřovací kříže při snímání"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Pípnout"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Pípnout po sejmutí kódu"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibrovat"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibrační odezva po sejmutí"</string>
+	<!---->
+	<string name="qrcode_notfound">"Kód QR nebyl nalezen"</string>
+	<!---->
+	<string name="qrcode_share">"Sdílení kódu QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Otevřít"</string>
+	<!---->
+	<string name="qrcode_history_share">"Sdílet"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Vymazat vše"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Zrušit"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Potvrdit odstranění"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Chcete vymazat všechny položky v seznamu snímání?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Žádná historie snímání"</string>
+	<!---->
+	<string name="qrcode_scanning">"Snímání kódu QR v obrázku…"</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Byla přidána konfigurace připojení Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"Nastavení fotoaparátu"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtrovat"</string>
+	<!---->
+	<string name="liveeffect_none">"Žádné"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Černý"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negativ"</string>
+	<!---->
+	<string name="liveeffect_relief">"Reliéf"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Rybí oko"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Skica"</string>
+	<!---->
+	<string name="liveeffect_retro">"Momentka"</string>
+	<!---->
+	<string name="liveeffect_edge">"Obrysy"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Přenos"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Pokročilá nastavení"</string>
+	<!---->
+	<string name="manual_manu_title">"Toto je manuální řetězec"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"V režimu žárovky zůstává závěrka otevřená.\n Zavřete ji opětovným stisknutím tlačítka."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Rychlost závěrky"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Ohnisk. vzdál."</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Ruční režim vypnut"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Chcete nastavit všechna ruční nastavení na automatická?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Fotografování při osvětlení žárovkou."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Získejte plnou kontrolu nad svými fotografiemi."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Jednoduše si zapamatujte, že zde funkci vypnete."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Citlivost fotoaparátu na světlo."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Vyšší hodnota ISO vyžaduje méně světla, ale dochází ke snížení kvality."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Pokud za vás fotoaparát nastaví ISO nebo rychlost závěrky, budou fotografie ztmaveny nebo zesvětleny."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Ovládání světlosti blesku."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Svítilna zůstane vždy zapnuta."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Blesk se spustí pouze\npři pořízení fotografie."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"K dispozici jsou tři režimy zaostření: Automatický, Nekonečno a Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Je-li vzdálenost delší než pět metrů, bude seskupena jako \'nekonečno\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Světlo mění barvu v závislosti na situaci."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Úpravu provedete změnou vyvážení bílé."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Pomocí funkce HDR zachováte detaily stínů a zvýrazněných partií a vytvoříte dramatickou fotografii."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Pomocí funkce Koláž lze pořídit čtyři snímky a zkombinovat je do jedné fotografie."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Nepřetržité snímání"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Sériové snímání aktivujete stisknutím a podržením tlačítka závěrky."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Snímač"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Přejetím prstem vpravo přejdete do režimu snímání."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Pomocí režimu snímání můžete snímat"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"– Čárové kódy"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"– Kódy QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Vizitky"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Blesk"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Zpět"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Resetovat"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Nastavení videa"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Přejete se zrušit všechna ruční nastavení?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Během záznamu HDR nehýbejte se zařízením."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Aplikace potřebná k provedení této akce nebyla nalezena."</string>
+	<!---->
+	<string name="battery_is_low">"Baterie je málo nabitá"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Webová stránka byla nalezena"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Textová zpráva byla nalezena"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Telefonní číslo bylo nalezeno"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"E-mailová adresa byla nalezena"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kontakt byl nalezen"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Nastavení připojení Wi-Fi byla nalezena"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignorovat"</string>
+	<!---->
+	<string name="qrcode_button_open">"Otevřít"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopírovat"</string>
+	<!---->
+	<string name="qrcode_button_save">"Uložit"</string>
+	<!---->
+	<string name="qrcode_button_call">"Volat"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Připojit"</string>
+</resources>

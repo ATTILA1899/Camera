@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+===============================================================================
+|      Modifications on Features list / Changes Request / Problems Report      |
+| **************************************************************************** |
+|     date   |        Author        |         Key          |     comment       |
+| ***********|**********************|**********************|****************** |
+|  10/22/2013|Mingchun.Li           |FR-473251             |camera ergo        |
+| **************************************************************************** |
+===============================================================================
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="ModeSettingItemList">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:divider">@null</item>
+        <item name="android:scrollbarFadeDuration">0</item>
+        <item name="android:fadeScrollbars">false</item>
+    </style>
+
+    <style name="ReviewExpressionThumbnailGroup">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/thumbnail_margin</item>
+    </style>
+
+    <style name="ReviewThumbnail">
+        <item name="android:layout_width">36dp</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="SettingItemRestore">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/setting_row_height</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/setting_item_list_margin</item>
+        <item name="android:layout_marginRight">@dimen/setting_item_list_margin</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/primary_text</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="SettingRowSingleChoice">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">39dp</item>
+    </style>
+
+    <style name="SettingItemTitle_SingleChoice">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_marginLeft">@dimen/setting_item_list_margin</item>
+        <item name="android:layout_marginRight">@dimen/setting_item_list_margin</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/setting_item_text_color_normal</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="MenuManagerGroup">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">180dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="OnScreenPickerGroup">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:visibility">visible</item>
+    </style>
+    
+    <style name="OnScreenPickerGroup_landscape">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:visibility">visible</item>
+    </style>
+
+    <style name="ShutterGroup" parent="ScreenMargin">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">horizontal</item> </style>
+    <style name="ShutterButton">
+        <item name="android:layout_height">@dimen/shutter_size</item>
+        <item name="android:layout_width">@dimen/shutter_size</item>
+        <item name="android:layout_marginTop">2.5dp</item>
+        <item name="android:layout_marginRight">2.5dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item> </style>
+    <style name="OnScreenPickerFixed">
+       <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/common_view_margin</item>
+        <item name="android:focusable">true</item>
+        <item name="android:visibility">visible</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="ShutterButtonSeperator">
+        <item name="android:layout_height">@dimen/shutter_size</item>
+        <item name="android:layout_width">@dimen/shutter_sperator</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="ScreenMargin">
+        <item name="android:layout_marginTop">@dimen/screen_margin_left</item>
+        <item name="android:layout_marginBottom">@dimen/screen_margin_right</item>
+        <item name="android:layout_marginLeft">@dimen/screen_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/screen_margin_bottom</item>
+    </style>
+    <style name="ReviewIconGroup">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="OnScreenInfoLayout">
+        <item name="android:layout_marginTop">66dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginBottom">80dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="OnScreenInfoGroup">
+        <!-- Here set height "match_parent" to rotate 4 side. if "wrap_content" will rotate 2 side. -->
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_gravity">top</item>
+        <item name="android:gravity">bottom</item><!--PR919415,v-nj-feiqiang.cheng-->
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="OnScreenInfoText"><!--PR919415,v-nj-feiqiang.cheng-->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+         <item name="android:textSize">14sp</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:textColor">@color/setting_item_text_color_normal</item>
+    </style> 
+     <style name="OnScreenInfoUndo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">5dip</item>
+        <item name="android:text">@string/undo</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:textColor">#0DB6FF</item>
+        <item name="android:layout_marginRight">24dp</item>
+    </style>
+<!-- [FEATURE]-Add-BEGIN by TCTNB.(Xutao.Wu) for bug 635962-->
+    <style name="LiveFilterSettingItem">
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_width">93dp</item>
+        <item name="android:visibility">visible</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:clickable">true</item>
+        <item name="android:duplicateParentState">false</item>
+    </style>
+    <style name="LiveFilterLabel">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+<!-- [FEATURE]-Add-End by TCTNB.(Xutao.Wu) for bug 635962-->
+
+     <style name="MModeHelpTipsLayoutStyle">
+         <item name="android:background">#CC000000</item>
+         <item name="android:orientation">vertical</item>
+         <item name="android:layout_width">match_parent</item>
+         <item name="android:layout_height">match_parent</item>
+         <item name="android:clickable">true</item>
+         <item name="android:visibility">gone</item>
+     </style>
+
+     <style name="MModeHelpTipsBtnStyle">
+         <item name="android:gravity">center</item>
+         <item name="android:layout_alignParentRight">true</item>
+         <item name="android:layout_alignParentBottom">true</item>
+         <item name="android:background">@color/continuous_shot_btn_background</item>
+         <item name="android:textColor">@android:color/white</item>
+         <item name="android:layout_marginRight">@dimen/mmode_help_tip_margin</item>
+         <item name="android:layout_marginBottom">@dimen/mmode_help_tip_margin</item>
+         <item name="android:layout_width">@dimen/continuous_shot_hint_btn_width</item>
+         <item name="android:layout_height">@dimen/continuous_shot_hint_btn_height</item>
+         <item name="android:text">@string/dialog_ok</item>
+     </style>
+
+     <style name="OnScreenPickerButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/common_view_margin</item>
+        <item name="android:focusable">true</item>
+        <item name="android:visibility">visible</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="OnScreenPickerButton_Landscape">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/common_view_margin</item>
+        <item name="android:focusable">true</item>
+        <item name="android:visibility">visible</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+</resources>

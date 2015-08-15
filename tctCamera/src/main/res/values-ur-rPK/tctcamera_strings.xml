@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"فیکٹری ترتیبات میں بحال کریں"</string>
+	<!---->
+	<string name="pref_advanced_detail">"ترقی یافتہ"</string>
+	<!---->
+	<string name="pref_back_detail">"واپس جائیں"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"مائکروفون"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"پینوراما کیپچر شروع کرنے کیلئے شٹر دبائیں"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"اپنے ڈیوائس کو اس سمت میں لے جائیں جس میں آپ کیپچر کرنا چاہتے ہیں"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"پینورما تخلیق نہیں کر سکا."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"رفتار میں کمی لائیں"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Move up"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Move down"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"عام"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"کھیل"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"مائیکرو"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"چہرے کی خوبصورتی"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"پورا منظر"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 منظر"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"اظہار (4 شاٹ)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"مسکراہٹ"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"برسٹ شاٹ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"مینوئل"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"وسیع زاویہ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"فلٹر"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"مشتمل ہونا"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"سست رفتار"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"کالج"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"رات"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"کم"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"اعلی"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"فائن"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"سپر فائن"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"عام"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"ٹائمر"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"آف"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 seconds"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 seconds"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 سیکنڈ"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"بڑا"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"متوسط"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"چھوٹا"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"<xliff:g example="10" id="numbers">%1$d</xliff:g> ‎تصویریں محفوظ ہورہی ‏ہیں"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS ٹیگنگ"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"جی پی ایس ٹیگ"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"تصویر کا معیار"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"شٹر کی آواز"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"پوری سکرین"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"بڑا"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"متوسط"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"چھوٹا"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"براہ کرم دھماکہ دار شوٹنگ کے لئے معمول کی طرف واپس سوئچ کریں"</string>
+	<!---->
+	<string name="hdr_guide_capture">"HDR کو قید کرتے وقت آلے کو نہ ہٹائیں"</string>
+	<!---->
+	<string name="tips_title">"مسلسل شاٹ"</string>
+	<!---->
+	<string name="tips_content1">"شٹر بٹن کو دیر تک دبائیں"</string>
+	<!---->
+	<string name="tips_content2">"یا برسٹ شاٹ کے لئے والیوم کی."</string>
+	<!---->
+	<string name="expression_guide_capture">"4 مختلف اظہارات کیپچر کرنے کے لئے شٹر بٹن دبائیں"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"کم میموری. ریکارڈنگ کا خودکار روکنا."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"میموری ختم، براہ کرم پہلے کچھ چل رہے ایپس بند کریں."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR کوڈ اسکین"</string>
+	<!---->
+	<string name="qrcode_title">"QR کوڈ اسکین"</string>
+	<!---->
+	<string name="qrcode_type_url">"ویب پتہ"</string>
+	<!---->
+	<string name="qrcode_type_geo">"ارضی مقام"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi تشکیل"</string>
+	<!---->
+	<string name="qrcode_type_contact">"رابطہ"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"فون نمبر"</string>
+	<!---->
+	<string name="qrcode_type_email">"ای میل"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"کیلنڈر:"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"متن"</string>
+	<!---->
+	<string name="qrcode_hint_url">"لنک کھلنے پر آپکے موبائل فون میں نیٹ ورک ڈیٹا کی کھپت ہو سکتی ہے."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"لنک کھلنے پر آپکے موبائل فون میں نیٹ ورک ڈیٹا کی کھپت ہو سکتی ہے."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"لنک کھلنے پر ترتیبات میں Wi-Fi تشکیل جڑ جاۓ گا."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"لنک کھلنے پر آپکے موبائل فون پر نوٹ ایپ کو کھول دیگا."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"تصاویر سے اسکین کریں"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"اسکین کی تاریخ"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"ترتیبات"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"کراس ہیئرس"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"اسکیننگ کرتے وقت کراس ہیئرس دکھائیں"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"بیپ"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"کوڈ اسکین کرنے کے بعد بیپ کریں"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"وائبریٹ"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"اسکین کرنے کے بعد فیڈ بیک پر جنبش کریں"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR کوڈ نہیں ملا"</string>
+	<!---->
+	<string name="qrcode_share">"QR کوڈ اشتراک"</string>
+	<!---->
+	<string name="qrcode_history_open">"کھولیں"</string>
+	<!---->
+	<string name="qrcode_history_share">"اشتراک کریں"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"تمام کو صاف کریں"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"ٹھیک ہے"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"منسوخ"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"حذف کرنے کی تصدیق کریں"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"کیا آپ اسکین فہرست سے تمام آئٹمز صاف کرنا چاہتے ہیں؟"</string>
+	<!---->
+	<string name="qrcode_no_history">"اسکین کی کوئی تاریخ نہیں"</string>
+	<!---->
+	<string name="qrcode_scanning">"تصویر میں QR کوڈ اسکین کر رہا ہے..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi تشکیل جوڑا گیا"</string>
+	<!---->
+	<string name="setting_photo_title">"فوٹو کی ترتیبات"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"فلٹر"</string>
+	<!---->
+	<string name="liveeffect_none">"کوئی نہيں"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"منفی"</string>
+	<!---->
+	<string name="liveeffect_relief">"راحت"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"فش آئی"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"اسکیچ"</string>
+	<!---->
+	<string name="liveeffect_retro">"فوری"</string>
+	<!---->
+	<string name="liveeffect_edge">"خاکہ"</string>
+	<!---->
+	<string name="liveeffect_sepia">"منتقل"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"اعلی درجے کی ترتیبات"</string>
+	<!---->
+	<string name="manual_manu_title">"یہ مینوئل سٹرنگ ہے"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"شٹر بلب وضع میں کھلا رہتا ہے.\n شٹر بند کرنے کے لئے دوبارہ کیپچر بٹن دبائیں."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"شٹر رفتار"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"فوکس کی دوری"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"مینوئل وضع آف ہے"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"تمام مینوئل ترتیبات کو خودکار مقرر کریں؟"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"بلب شوٹنگ."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"اپنی تصاویر کے اوپر مکمل کنٹرول رکھیں."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"یہاں اسے آف کرنا یاد رکھیں."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"روشنی کے لئے کیمرے کی حسّیت."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"زیادہ ISO قدر کے لئے کم روشنی ضروری ہوتی ہے، لیکن کم معیار کی تصاویر لیتی ہے."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"اگر کیمرہ خودکار طور پر شٹر کی رفتار یا ISO منتخب کرتا ہے تو، آپکی تصاویر زیادہ سیاہ یا روشن ہوتی ہیں."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"آپکی فلیش کتنی روشن ہے اسے کنٹرول کریں."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"ٹارچ ہمیشہ آن ہوتا ہے."</string>
+	<!-- no translation found for mmode_flash_first_time_tip_content3 -->
+	<skip />
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"تین فوکس وضع آٹو، انفینٹی، میکرو ہے."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"اگر پانچ میٹر سے زیادہ ہے تو، یہ \'لامحدود\' کے طور پر گروپ کیا جاتا ہے."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"روشنی مختلف حالات میں رنگ تبدیل کرتا ہے."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"اسے کنٹرول کرنے کے لئے سفید بیلنس تبدیل کریں."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"اعلی متحرک رینج تفصیلات سائے اور شہ سرخیاں میں تفصیلات رکھتا ہے، اور ایک ڈرامائی فوٹو بناتا ہے."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"کالج چار تصاویر لیتا ہے اور انہیں ایک فوٹو میں ضم کر دیتا ہے."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"برسٹ شوٹنگ"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"کیپچر بٹن دبا اور پکڑ کر برسٹ شوٹنگ کو فعال کریں."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"اسکینر"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"اسکین وضع مین داخل ہونے کے لئے دائیں جانب سوائپ کریں."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"اسکین وضع اسکین کر سکتا ہے"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- بار کوڈ"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR کوڈ"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- کاروباری کارڈز"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"فلیش"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"واپس جائیں"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"دوبارہ ترتیب دیں"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"ویڈیو ترتیبات"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"کیا آپ تمام مینوئل ترتیبات کو دوبارہ مقرر کرنا چاہتے ہیں؟"</string>
+	<!---->
+	<string name="photo_hdr_toast">"HDR کیپچرنگ کے دوران ڈیوائس کو نہ ہلائیں."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"اس کارروائی کو نمٹانے کیلئے کوئی ایپ نہیں ملا۔"</string>
+	<!---->
+	<string name="battery_is_low">"بیٹری کم ہے"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"نظر انداز کریں"</string>
+	<!-- no translation found for qrcode_button_open -->
+	<skip />
+	<!-- no translation found for qrcode_button_copy -->
+	<skip />
+	<!-- no translation found for qrcode_button_save -->
+	<skip />
+	<!-- no translation found for qrcode_button_call -->
+	<skip />
+	<!-- no translation found for qrcode_button_email -->
+	<skip />
+	<!-- no translation found for qrcode_button_connect -->
+	<skip />
+</resources>

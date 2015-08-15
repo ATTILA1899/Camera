@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.RotateLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:splitMotionEvents="false" 
+    >
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:background="#ff303030"
+	    android:orientation="vertical" >
+	    <LinearLayout 
+		    android:id="@+id/advance_menu_parent"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    style="@style/menu_bar_style"
+		    android:orientation="horizontal"
+		    android:gravity="center_vertical"
+		    >
+		<LinearLayout 
+		    android:id="@+id/advance_menu_back"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:gravity="center_vertical"
+		    >
+		    <ImageView 
+		        
+		        android:layout_marginStart="24dp"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:minHeight="48dp"
+		        android:src="@drawable/ic_settings_back"
+		        />
+		    
+
+		    <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        style="@style/menu_style"
+		        android:layout_marginLeft="24dp"
+		        android:text="@string/pref_camera_settings"
+		        android:textSize="19sp"
+		        />
+		    </LinearLayout>    
+		    <LinearLayout 
+		    android:id="@+id/advance_menu_info_parent"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:gravity="center_vertical|right"
+		    style="@style/menu_bar_style"
+		    >
+		    <ImageView
+		        android:id="@+id/advance_menu_info"
+		        android:layout_marginEnd="24dp"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:minHeight="48dp"
+		        android:src="@drawable/ic_settings_back"
+		        android:visibility="gone"
+		        />
+		    </LinearLayout>
+		</LinearLayout>
+		
+		<ListView 
+		    android:id="@+id/menu_list"
+		    android:layout_width="match_parent"
+		    android:divider="#00ffffff"
+		    android:layout_height="match_parent"/> 
+	</LinearLayout>
+</com.android.camera.ui.RotateLayout>

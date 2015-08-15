@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Berrezarri lehenetsiak"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Ezarpen aurreratuak"</string>
+	<!---->
+	<string name="pref_back_detail">"Atzera"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Soinua grabatzea"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Argazki panoramikoa ateratzeko, sakatu kliskagailua"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Mugitu telefonoa aurrera, argazkia atera nahi duzun aldera"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Ezin izan da irudi panoramikoa sortu."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Moteldu"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Eraman gora"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Eraman behera"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Arrunta"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Kirola"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikrofonoa"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Edertasuna"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoramikoa"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360º-ko panoramika"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Aurpegiera (4 argazki)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Irribarrea"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Argazki-segida"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Eskuz"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Angelu zabala"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Iragazi"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Makillajea"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Kamera geldoa"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Collagea"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Gaua"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Txikia"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Handia"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Zorrotza"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Oso fina"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Arrunta"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Kronometroa"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"DESAK."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 segundo"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 segundo"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 segundo"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Oso handia"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Handia"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Arrunta"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Txikia"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"<xliff:g example="10" id="numbers">%1$d</xliff:g> argazki gordetzen"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS etiketatzea"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS etiketa"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Kalitatea"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Kliskagailua"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Pantaila osoa"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Handia"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Arrunta"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Txikia"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Itzuli modu arruntera argazki-segidak ateratzeko."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Ez mugitu gailua HDR formatuan grabatzean"</string>
+	<!---->
+	<string name="tips_title">"Argazki-jarioa"</string>
+	<!---->
+	<string name="tips_content1">"Sakatu luze obturadorearen botoia"</string>
+	<!---->
+	<string name="tips_content2">"edo bolumen tekla."</string>
+	<!---->
+	<string name="expression_guide_capture">"Lau aurpegiera desberdin lortzeko, sakatu obturadorearen botoia."</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Memoria gutxi. Gelditu grabatzen automatikoki."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Memoria agortu da. Aurrena, itxi abian diren aplikazio batzuk."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR kodea eskaneatzea"</string>
+	<!---->
+	<string name="qrcode_title">"QR kodea eskaneatzea"</string>
+	<!---->
+	<string name="qrcode_type_url">"Web-helbidea"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geokokapena"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi konfigurazioa"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontaktua"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefono-zenbakia"</string>
+	<!---->
+	<string name="qrcode_type_email">"Posta"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Egutegia"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"testua"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Esteka irekita, telefono mugikorraren sareko datuak erabil daitezke."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Esteka irekita, telefono mugikorraren sareko datuak erabil daitezke."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Esteka irekita, Wi-Fi konfigurazioa ezarpenetan gehituko da."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Esteka irekita, telefono mugikorrean Oharra aplikazioa irekiko da."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Bilatu argazkietan"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Bilatu historian"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Ezarpenak"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Mirak"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Erakutsi itua eskaneatzean"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Soinua"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Egin soinua kodea eskaneatutakoan"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Dardara"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Egin dar-dar eskaneatutakoan"</string>
+	<!---->
+	<string name="qrcode_notfound">"Ez da QR kodea aurkitu"</string>
+	<!---->
+	<string name="qrcode_share">"QR kodea partekatzea"</string>
+	<!---->
+	<string name="qrcode_history_open">"Ireki"</string>
+	<!---->
+	<string name="qrcode_history_share">"Partekatu"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Garbitu guztiak"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"Ados"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Utzi"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Berretsi ezabatu nahi duzula"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Eskaneatze-zerrendako elementu guztiak garbitu nahi dituzu?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Ez dago eskaneatze-historiarik"</string>
+	<!---->
+	<string name="qrcode_scanning">"Irudiko QR kodea eskaneatzen..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi konfigurazioa gehitu da"</string>
+	<!---->
+	<string name="setting_photo_title">"Argazkien ezarpenak"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Iragazi"</string>
+	<!---->
+	<string name="liveeffect_none">"Bat ere ez"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Beltza"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatiboa"</string>
+	<!---->
+	<string name="liveeffect_relief">"Erliebea"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Arrain-begia"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Komikia"</string>
+	<!---->
+	<string name="liveeffect_retro">"Istantekoa"</string>
+	<!---->
+	<string name="liveeffect_edge">"Eskema"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Transferitu"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Ezarpen aurreratuak"</string>
+	<!---->
+	<string name="manual_manu_title">"Eskuzko katea da hau"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Eskuzko obturadorea erabiltzen denean, obturadorea irekita geratzen da.\nObturadorea ixteko, sakatu kliskagailua berriro."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Obturadorearen abiadura"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fokuaren distantzia"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Aurreratua"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Eskuzko ezarpen guztiak automatiko gisa ezarri?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Eskuzko obturadorea."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Izan argazkien erabateko kontrola."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Gogoratu desaktibatzea."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kamerak argiarekiko duen sentikortasuna."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Zenbat eta ISO handiagoa erabili, argi gutxiago beharko duzu, baina irudiaren kalitatea ez da horren ona izango."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"ISO ezarpena eta obturadorearen abiadura kamerak aukeratzen baditu, argazki ilunagoak edo argiagoak aterako dituzu."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Kontrolatu flasharen argitasuna."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Flasharen argia piztuta egongo da beti."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Argazkia ateratzen duzunean bakarrik piztuko da flasha."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Hiru fokatze moduak hauek dira: automatikoa, infinitua eta makroa."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Bost metro bano gehiagokoa bada, distantzia \"infinitua\" dela ulertzen da."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Argiaren kolorea aldatu egiten da egoeraren arabera."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Aldatu zurien balantzea ezarpen horretara doitzeko."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Barruti dinamiko handiak (HDR) itzalen eta eremu argitsuen xehetasunak mantentzen ditu, argazki bikainak sortuta."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Collageak lau argazki hartzen ditu eta argazki bakarrean bateratzen ditu."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Argazki-segidak"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktibatu argazki-segida argazkiak ateratzeko botoia sakatuta edukita."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Eskanerra"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Pasatu hatza eskuinera Eskaneatze modua aktibatzeko."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Eskaneatze moduan eskanea daiteke"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Barra-kodeak"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR kodeak"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Bisita-txartelak"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flasha"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Atzera"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Berrezarri"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Bideoen ezarpenak"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Eskuzko ezarpen guztiak berrezarri nahi dituzu?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Ez mugitu gailua HDR formatuan argazkiak ateratzean."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Ez da aurkitu ekintza hau gauza dezakeen aplikaziorik."</string>
+	<!---->
+	<string name="battery_is_low">"Bateria gutxi geratzen da"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Webgunea aurkitu da"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Testua aurkitu da"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Telefono-zenbakia aurkitu da"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Helbide elektronikoa aurkitu da"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kontaktua aurkitu da"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Wi-Fi ezarpenak aurkitu dira"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Egin ez ikusi"</string>
+	<!---->
+	<string name="qrcode_button_open">"Ireki"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopiatu"</string>
+	<!---->
+	<string name="qrcode_button_save">"Gord."</string>
+	<!---->
+	<string name="qrcode_button_call">"Deitu"</string>
+	<!---->
+	<string name="qrcode_button_email">"Posta elektronikoa"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Konektatu"</string>
+</resources>

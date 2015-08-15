@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mmode_focus_distance_hint"
+    style="@style/MModeHelpTipsLayoutStyle"
+    >
+    <TextView
+        android:id="@+id/title"
+        android:text="@string/pref_camera_capturemode_enrty_manual_focusvalue"
+        android:textColor="@color/continuous_shot_title_background"
+        android:textSize="@dimen/continuous_shot_title_textsize"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/mmode_help_tip_margin_top"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content1"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:text="@string/mmode_focus_distance_first_time_tip_content1"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/image_circle"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/mmode_focus_distance_circle"
+        android:layout_marginBottom="@dimen/focus_distance_image_circle_marginbottom"
+        android:layout_marginRight="@dimen/focus_distance_image_circle_marginright"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/image_arrow"
+        android:layout_above="@id/image_circle"
+        android:layout_toLeftOf="@id/image_circle"
+        android:src="@drawable/mmode_focus_distance_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_above="@id/image_arrow"
+        android:text="@string/mmode_focus_distance_first_time_tip_content2"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/mmode_focus_distance_hint_btn"
+        style="@style/MModeHelpTipsBtnStyle"
+        />
+</RelativeLayout>

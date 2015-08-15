@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Επαναφορά προεπιλογών"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Για προχωρημένους"</string>
+	<!---->
+	<string name="pref_back_detail">"Πίσω"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Ηχογράφηση"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Πατήστε το κουμπί του κλείστρου για την έναρξη λήψης πανοράματος"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Μετακινήστε το τηλέφωνο προς την κατεύθυνση λήψης"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Δεν ήταν δυνατή η δημιουργία πανοραμικής εικόνας."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Επιβράδυνση"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Μετακίνηση πάνω"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Μετακίνηση κάτω"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Κανονικό"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Αθλήματα"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Micro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Ομορφιά προσώπ."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Πανόραμα"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Πανόραμα 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Έκφ. (4 λήψεις)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Χαμόγελο"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Ριπή λήψεων"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Χειροκίνητος"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Ευρεία γωνία"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Φίλτρο"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Σύνθεση"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Αργή κίνηση"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Κολλάζ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Νύχτα"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Χαμηλή"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Υψηλή"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Καλή"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Βέλτιστη"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Κανονικό"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Χρονόμετρο"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"Απεν"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 δευτ."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 δευτ."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10δ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Πολύ μεγάλο"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Μεγάλο"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Μεσαία"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Μικρό"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Γίνεται αποθήκευση <xliff:g example="10" id="numbers">%1$d</xliff:g> εικόνων"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Προσθήκη ετικετών GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Ετικέτα GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Ποιότ. εικόνας"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Ήχος κλείστρου"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Πλήρης οθόνη"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Μεγάλο"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Μεσαία"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Μικρό"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Επιστρέψτε στην κανονική λειτουργία για λήψη ριπής."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Μην μετακινήσετε τη συσκευή κατά τη λήψη HDR"</string>
+	<!---->
+	<string name="tips_title">"Συνεχόμενη λήψη"</string>
+	<!---->
+	<string name="tips_content1">"Πατήστε παρατεταμένα το κουμπί του κλείστρου"</string>
+	<!---->
+	<string name="tips_content2">"ή το πλήκτρο έντασης ήχου για ριπή λήψεων."</string>
+	<!---->
+	<string name="expression_guide_capture">"Πατήστε το κουμπί του κλείστρου για την αποτύπωση 4 διαφορετικών εκφράσεων"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Η μνήμη έχει σχεδόν εξαντληθεί. Αυτόματη διακοπή εγγραφής."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Η μνήμη εξαντλήθηκε. Κλείστε πρώτα ορισμένες από τις εφαρμογές που εκτελούνται."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Σάρωση κώδικα QR"</string>
+	<!---->
+	<string name="qrcode_title">"Σάρωση κώδικα QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"Διεύθυνση web"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Γεωγραφική τοποθεσία"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Διαμόρφωση Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Επαφή"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Αριθμός τηλεφώνου"</string>
+	<!---->
+	<string name="qrcode_type_email">"Email"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Ημερολόγιο"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"κείμενο"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Το άνοιγμα της σύνδεσης μπορεί να καταναλώσει δεδομένα δικτύου στο κινητό σας τηλέφωνο."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Το άνοιγμα της σύνδεσης μπορεί να καταναλώσει δεδομένα δικτύου στο κινητό σας τηλέφωνο."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Με το άνοιγμα της σύνδεσης θα προστεθεί η διαμόρφωση Wi-Fi στις ρυθμίσεις."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Με το άνοιγμα της σύνδεσης θα ανοίξει η εφαρμογή Σημειώσεων στο κινητό σας τηλέφωνο."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Σάρωση από φωτογραφίες"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Ιστορικό σαρώσεων"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Ρυθμίσεις"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Διασταυρούμενες γραμμές"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Εμφάνιση διασταυρούμενων γραμμών κατά τη σάρωση"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Χαρακτηριστικός ήχος"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Αναπαραγωγή χαρακτηριστικού ήχου μετά την σάρωση ενός κώδικα"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Δόνηση"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Ανάδραση δόνησης μετά τη σάρωση"</string>
+	<!---->
+	<string name="qrcode_notfound">"Ο κώδικας QR δεν βρέθηκε"</string>
+	<!---->
+	<string name="qrcode_share">"Κοινή χρήση κώδικα QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Άνοιγμα"</string>
+	<!---->
+	<string name="qrcode_history_share">"Μοίρασμα"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Εκκαθάριση όλων"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Ακύρωση"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Επιβεβαίωση διαγραφής"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Θέλετε να γίνει εκκαθάριση όλων των στοιχείων στη λίστα σάρωσης;"</string>
+	<!---->
+	<string name="qrcode_no_history">"Δεν υπάρχει ιστορικό σαρώσεων"</string>
+	<!---->
+	<string name="qrcode_scanning">"Σάρωση κώδικα QR στην εικόνα..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Προστέθηκε διαμόρφωση Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"Ρυθμίσεις φωτογραφιών"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Φίλτρο"</string>
+	<!---->
+	<string name="liveeffect_none">"Κανένα"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Μαύρο"</string>
+	<!---->
+	<string name="liveeffect_negative">"Αρνητικό"</string>
+	<!---->
+	<string name="liveeffect_relief">"Ανάγλυφο"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Fisheye"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Σκίτσο"</string>
+	<!---->
+	<string name="liveeffect_retro">"Άμεσο"</string>
+	<!---->
+	<string name="liveeffect_edge">"Περίγραμμα"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Μεταφορά"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Σύνθετες ρυθμίσεις"</string>
+	<!---->
+	<string name="manual_manu_title">"Αυτή είναι μια μη αυτόματη συμβολοσειρά"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Το κλείστρο παραμένει ανοιχτό στη λειτουργία bulb.\n Πιέστε ξανά το κουμπί λήψης, για να κλείσετε το κλείστρο."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Ταχ. κλείστρου"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Απόσταση εστίασης"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Χειροκίνητη λειτουργία ανενεργή"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Θέλετε να ορίσετε όλες τις χειροκίνητες ρυθμίσεις σε αυτόματη λειτουργία;"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Λήψη με χρόνο έκθεσης λυχνίας."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Πάρτε στα χέρια σας τον απόλυτο έλεγχο των φωτογραφιών σας."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Απλώς θυμηθείτε να το απενεργοποιήσετε εδώ."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Η ευαισθησία της κάμερας στο φως."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Εάν το ISO είναι υψηλό, απαιτείται λιγότερο φως, αλλά η ποιότητα θα είναι μειωμένη."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Εάν η κάμερά σας επιλέξει ISO ή ταχύτητα κλείστρου για εσάς, αυτό κάνει τις φωτογραφίες σας πιο σκοτεινές ή πιο φωτεινές."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Ελέγξτε πόσο δυνατό είναι το φλας σας."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Ο φακός παραμένει πάντα αναμμένος."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Το φλας ανάβει μόνο όταν\nτραβάτε μια φωτογραφία."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Οι τρεις λειτουργίες εστίασης είναι: Αυτόματα, Άπειρο και Απόσταση."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Εάν είναι μεγαλύτερη από πέντε μέτρα, κατηγοριοποιείται ως \'εστίαση στο άπειρο\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Το φως αλλάζει το χρώμα ανάλογα με την εκάστοτε περίπτωση."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Αλλάξτε την ισορροπία λευκού για να ελέγξετε αυτήν τη δυνατότητα."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Η λειτουργία υψηλού δυναμικού εύρους (HDR), διατηρεί τις λεπτομέρειες στις σκιάσεις και τις φωτεινές περιοχές, δημιουργώντας έτσι μια δραματική φωτογραφία."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Στη λειτουργία κολλάζ, τέσσερις φωτογραφίες συνδυάζονται σε μία."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Λήψη ριπής"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Ενεργοποιήστε τη λειτουργία λήψης ριπής πιέζοντας παρατεταμένα το κουμπί αποτύπωσης."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Σαρωτής"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Κάντε σάρωση προς τα δεξιά για να μεταβείτε στη λειτουργία σάρωσης."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Η λειτουργία σάρωσης μπορείτε να σαρώνετε"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Γραμμωτοί κώδικες"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- Κωδικοί QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Επαγγελματικές κάρτες"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Φλας"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Πίσω"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Επαναφορά"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Ρυθμίσεις βίντεο"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Θέλετε να επαναφέρετε όλες τις  μη αυτόματες ρυθμίσεις;"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Μην μετακινήσετε τη συσκευή κατά την αποτύπωση HDR;"</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Δεν βρέθηκε εφαρμογή για τη διαχείριση αυτής της ενέργειας."</string>
+	<!---->
+	<string name="battery_is_low">"Χαμηλή στάθμη μπαταρίας"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Η τοποθεσία web βρέθηκε"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Το κείμενο βρέθηκε"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Ο αριθμός τηλεφώνου βρέθηκε"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Η διεύθυνση email βρέθηκε"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Η επαφή βρέθηκε"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Οι ρυθμίσεις Wi-Fi βρέθηκαν"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Παράβλεψη"</string>
+	<!---->
+	<string name="qrcode_button_open">"Άνοιγμα"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Αντιγραφή"</string>
+	<!---->
+	<string name="qrcode_button_save">"Αποθήκευση"</string>
+	<!---->
+	<string name="qrcode_button_call">"Κλήση"</string>
+	<!---->
+	<string name="qrcode_button_email">"Email"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Σύνδεση"</string>
+</resources>

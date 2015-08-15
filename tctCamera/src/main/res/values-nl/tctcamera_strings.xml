@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Herstel standaardinstelling"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Geavanceerd"</string>
+	<!---->
+	<string name="pref_back_detail">"Vorige"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Geluidsopname"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"Stabilisator"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Druk op de sluiterknop om panorama op te nemen"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Beweeg de telefoon in de opnamerichting"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Kan panorama niet genereren."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Vertragen"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Naar boven"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Naar beneden"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normaal"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Micro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Mooi gezicht"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360°-panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Uitdrukk. (4 foto\'s)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Glimlach"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Serieopname"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Handmatig"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Groothoek"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filter"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Make up"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Langzame actie"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Collage"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Nacht"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Laag"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Hoog"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Fijn"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Superfijn"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normaal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Timer"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"UIT"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 seconden"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 seconden"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 seconden"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Groot"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Normaal"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Klein"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"<xliff:g example="10" id="numbers">%1$d</xliff:g> foto\'s opslaan"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS-tagging"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS-tag"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Fotokwaliteit"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Sluitergeluid"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Volledig scherm"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Groot"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Normaal"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Klein"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Schakel terug naar de normale modus voor serieopnamen."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Beweeg het apparaat niet tijdens HDR-opname"</string>
+	<!---->
+	<string name="tips_title">"Doorlopende opname"</string>
+	<!---->
+	<string name="tips_content1">"Druk de sluiterknop lang in"</string>
+	<!---->
+	<string name="tips_content2">"of de volumetoets voor serieopnamen."</string>
+	<!---->
+	<string name="expression_guide_capture">"Druk op de sluiterknop om 4 verschillende uitdrukkingen vast te leggen."</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Geheugen bijna vol Opnemen automatisch stoppen"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Onvoldoende geheugen. Sluit eerst enkele actieve apps."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-code scannen"</string>
+	<!---->
+	<string name="qrcode_title">"QR-code scannen"</string>
+	<!---->
+	<string name="qrcode_type_url">"Webadres"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geo-locatie"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi-configuratie"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Contacten"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefoonnummer"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Agenda"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"tekst"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Voor het openen van de koppeling kan de netwerk data-verbinding op uw mobiele telefoon worden gebruikt."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Voor het openen van de koppeling kan de netwerk data-verbinding op uw mobiele telefoon worden gebruikt."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Het openen van de koppeling voegt Wi-Fi-configuratie toe aan Instellingen."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"De koppeling opent de Notitie-app op uw mobiele telefoon."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Scannen van foto\'s"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Scangeschiedenis"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Instellingen"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Dradenkruis"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Dradenkruis tijdens het scannen weergeven"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Pieptoon"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Pieptoon na scannen van code"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Trillen"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Trillen bij het geven van feedback na het scannen"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR-code niet gevonden"</string>
+	<!---->
+	<string name="qrcode_share">"QR-code delen"</string>
+	<!---->
+	<string name="qrcode_history_open">"Openen"</string>
+	<!---->
+	<string name="qrcode_history_share">"Delen"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Alles wissen"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Annuleren"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Verwijderen bevestigen"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Wilt u alle items in de lijst met gescande items wissen?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Geen scangeschiedenis."</string>
+	<!---->
+	<string name="qrcode_scanning">"QR-code in afbeelding scannen..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi-configuratie toegevoegd"</string>
+	<!---->
+	<string name="setting_photo_title">"Foto-instellingen"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filter"</string>
+	<!---->
+	<string name="liveeffect_none">"Geen"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Zwart-wit"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatief"</string>
+	<!---->
+	<string name="liveeffect_relief">"Reliëf"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Visooglens"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Schets"</string>
+	<!---->
+	<string name="liveeffect_retro">"Instant"</string>
+	<!---->
+	<string name="liveeffect_edge">"Omtrek"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Overdracht"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Geavanceerde instellingen"</string>
+	<!---->
+	<string name="manual_manu_title">"Dit is een handmatige reeks."</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"De sluiter blijft open in de bulb-modus.\n Druk nogmaals op de opnameknop om de sluiter te sluiten."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Sluitertijd"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Brandpuntsafst."</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Handmatige modus uit"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Alle handmatige instellingen instellen op automatisch?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Bulb-opname."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"U bepaalt hoe uw foto\'s eruit komen te zien."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Schakel het hier in."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"De gevoeligheid van de camera voor licht."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Voor een hogere ISO-waarde is minder licht nodig, maar wordt de kwaliteit minder."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Als uw camera de ISO-waarde of sluitertijd voor u kiest, worden uw foto\'s hierdoor donkerder of lichter."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Instellen hoe helder de flits is."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"De zaklamp blijft altijd aan."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"De flitser wordt alleen geactiveerd wanneer\nu een foto maakt."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"De scherpstelmodi zijn Automatisch, Oneindig en Macro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Als dit meer dan vijf meter is, wordt dit aangeduid als \'oneindig\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Licht kan kleuren veranderen afhankelijk van de situatie."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Wijzig de witbalans aan om dit aan te passen."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Met Hoog dynamisch bereik behoudt u details in schaduwen en lichte kleuren, waardoor u een dramatische foto krijgt."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Met Collage worden vier opnamen gemaakt en gecombineerd tot één foto."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Serieopnamen"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Activeer serieopnamen door de sluitertoets ingedrukt te houden."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Scanner"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Veeg naar rechts om de scanmodus te activeren."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Scanmodus kan scannen"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Streepjescodes"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR-codes"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Visitekaartjes"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flits"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Vorige"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Opnieuw instellen"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Video-instellingen"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Wilt u alle handmatige instellingen herstellen?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Beweeg het apparaat niet tijdens HDR-opname."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Er is geen toepassing gevonden om deze actie uit te voeren"</string>
+	<!---->
+	<string name="battery_is_low">"Accu is bijna leeg"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Website gevonden"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Tekst gevonden"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Telefoonnummer gevonden"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"E-mailadres gevonden"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Contactpersoon gevonden"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Wi-Fi-instellingen gevonden"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Negeren"</string>
+	<!---->
+	<string name="qrcode_button_open">"Openen"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopiëren"</string>
+	<!---->
+	<string name="qrcode_button_save">"Opslaan"</string>
+	<!---->
+	<string name="qrcode_button_call">"Bellen"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Verbinden"</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/manual_mode_hint"
+    style="@style/MModeHelpTipsLayoutStyle"
+    >
+    <TextView
+        android:id="@+id/title"
+        android:text="@string/pref_camera_capturemode_enrty_manual"
+        android:textColor="@color/continuous_shot_title_background"
+        android:textSize="@dimen/continuous_shot_title_textsize"
+        android:textStyle="bold"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content1"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:text="@string/mmode_manual_mode_first_time_tip_content1"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content2"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_below="@id/content1"
+        android:text="@string/mmode_manual_mode_first_time_tip_content2"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+<!--     <ImageView
+        android:id="@+id/image_arrow"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/mmode_manual_mode_arrow"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:layout_below="@id/image_arrow"
+        android:src="@drawable/mmode_manual_mode_square"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" /> -->
+    <Button
+        android:id="@+id/manual_mode_hint_btn"
+        style="@style/MModeHelpTipsBtnStyle"
+        />
+</RelativeLayout>

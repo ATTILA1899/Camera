@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rotate_dialog_root_layout"
+        android:clickable="true"
+        android:gravity="center"
+        android:visibility="gone"
+        android:background="#55000000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+     <com.android.camera.ui.RotateLayout
+            android:id="@+id/rotate_dialog_layout"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content" >
+             
+            
+ 		<RelativeLayout
+ 		    android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Theme.Dialog"
+            android:layout_gravity="center"
+            android:background="@drawable/rotate_dialog_setting"
+ 		    >
+
+            <RelativeLayout android:id="@+id/rotate_dialog_title_layout"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    >
+
+                <TextView android:id="@+id/rotate_dialog_title"
+                    	style="?android:attr/windowTitleStyle"
+                        android:gravity="center_vertical"
+                        android:layout_marginLeft="20dip"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:minHeight="68dp"
+                        />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/list_settings"
+                    android:orientation="horizontal"
+                    android:layout_centerInParent="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <!--  
+                <ListView 
+					    android:id="@+id/dialog_list"
+					    android:layout_width="match_parent"
+					    android:layout_height="match_parent"
+					    android:divider="?android:attr/listDividerAlertDialog"
+					    ></ListView>
+					    -->
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/rotate_dialog_button_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/list_settings"
+                    android:layout_alignParentRight="true"
+                    >
+
+                <Button 
+                    	android:id="@+id/rotate_dialog_button"
+                        style="?android:attr/buttonBarNegativeButtonStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" 
+                        android:layout_margin="10dip"
+                        android:textColor="#0DB6FF"
+                        />
+            </RelativeLayout>
+        
+        </RelativeLayout>
+    </com.android.camera.ui.RotateLayout> 
+    
+</FrameLayout>

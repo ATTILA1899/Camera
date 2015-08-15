@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Gendan standarder"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Avanceret"</string>
+	<!---->
+	<string name="pref_back_detail">"Tilbage"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Lydoptagelse"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Tryk på udløseren ofr at starte optagelsen af panoramabilledet"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Flyt telefonen mod din indfangningsretning"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Panorama kunne ikke genereres."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Nedsæt hastigheden"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Flyt op"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Flyt ned"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Skønhedsportræt"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Udtryk (4-billeder)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Smil"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Serieoptagelse"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuel"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Vidvinkel"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filter"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Make up"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Slowmotion"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Collage"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Nat"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Lav"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Høj"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Fin"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Superfin"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Timer"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"FRA"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sekunder"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sekunder"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sekunder"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Stor"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Normal"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Lille"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Gemmer <xliff:g example="10" id="numbers">%1$d</xliff:g> billeder"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS-tagging"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS-tag"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Billedkvalitet"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Udløserlyd"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Fuld skærm"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Stor"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Normal"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Lille"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Skift tilbage til normal tilstand for burst-optagelse."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Bevæg ikke enheden under HDR-optagelse"</string>
+	<!---->
+	<string name="tips_title">"Serieoptagelse"</string>
+	<!---->
+	<string name="tips_content1">"Tryk længe på udløserknappen"</string>
+	<!---->
+	<string name="tips_content2">"eller på lydstyrke tasten for at tage serieoptagelser."</string>
+	<!---->
+	<string name="expression_guide_capture">"Tryk på udløserknappen for at tage billeder fire forskellige udtryk"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Utilstrækkelig hukommelse. Stop optagelsen automatisk."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Ikke mere hukommelse. Luk nogle af de apps, der kører, først."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-kodescanning"</string>
+	<!---->
+	<string name="qrcode_title">"QR-kodescanning"</string>
+	<!---->
+	<string name="qrcode_type_url">"Webadresse"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geo-placering"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi-konfiguration"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontakt"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefonnummer"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalender"</string>
+	<!---->
+	<string name="qrcode_type_sms">"sms"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Tekst"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Ved at åbne linket bruges der muligvis netværksdata på din mobiltelefon."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Ved at åbne linket bruges der muligvis netværksdata på din mobiltelefon."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Ved at åbne linket tilføjes Wi-Fi-konfigurationen til indstillinger."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Ved at åbne linket åbnes appen Note på din mobiltelefon."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Scan fra fotos"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Scanningshistorik"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Indstillinger"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Trådkors"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Vis trådkors under scanning"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Bip"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Bip efter scanning af en kode"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibration"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibrer feedback efter scanning"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR-kode ikke fundet"</string>
+	<!---->
+	<string name="qrcode_share">"QR-kodedeling"</string>
+	<!---->
+	<string name="qrcode_history_open">"Åbn"</string>
+	<!---->
+	<string name="qrcode_history_share">"Del"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Ryd alle"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Annuller"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Bekræft sletning"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Vil du slette alle elementer på scanningslisten?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Ingen scanningshistorik"</string>
+	<!---->
+	<string name="qrcode_scanning">"Scanner QR-kode i billede..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi-konfiguration tilføjet"</string>
+	<!---->
+	<string name="setting_photo_title">"Fotoindstillinger"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filter"</string>
+	<!---->
+	<string name="liveeffect_none">"Ingen"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negativ"</string>
+	<!---->
+	<string name="liveeffect_relief">"Relief"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Fiskeøje"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Skitse"</string>
+	<!---->
+	<string name="liveeffect_retro">"Hurtig"</string>
+	<!---->
+	<string name="liveeffect_edge">"Kant"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Overfør"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Avancerede indstillinger"</string>
+	<!---->
+	<string name="manual_manu_title">"Denne handling skal udføres manuelt"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Lukkeren forbliver åben i bulb-tilstand.\n Tryk på optageknappen igen for at lukke lukkeren."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Lukkerhastighed"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fokusafstand"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Avanceret"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Skal alle manuelle indstillinger angives som automatiske?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Optagelse i bulb-tilstand."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Fuld styring over dine billeder."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Husk blot at slukke for den hér."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kameraets følsomhed over for lys."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Høje ISO-værdier kræver mindre lys, men reducerer kvaliteten."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Hvis kameraet automatisk vælger ISO eller lukkerhastighed, kan dette medføre mørkere eller lysere billeder."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Reguler, hvor meget din blitz skal lyse op."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Lampen er altid tændt."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Blitzen lyser kun op, når\ndu tager et billede."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"De tre fokustilstande er Automatisk, Uendelig og Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Hvis afstanden er mere end fem meter, kategoriseres det som \'uendelig\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Lys fremstår forskelligt afhængigt af situationen."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Du kan regulere dette ved at ændre på hvidbalancen."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Et højt dynamisk område bevarer detaljerne fra skygger og lys, hvorved der skabes et dramatisk billede."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Collage tager fire billeder og sammensætter dem til ét billede."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Serieoptagelse"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktivér serieoptagelse ved at trykke og holde nede på udløserknappen."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Scanner"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Stryg mod højre for at gå i scanningstilstand."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Scanningstilstand kan scanne"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Stregkoder"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR-koder"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Visitkort"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Blitz"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Tilbage"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Nulstil"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Videoindstillinger"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Vil du nulstille alle manuelle indstillinger?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Bevæg ikke enheden under HDR-optagelse."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Der blev ikke fundet nogen app, der kan udføre denne handling."</string>
+	<!---->
+	<string name="battery_is_low">"Batteriet er lavt"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Fandt website"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Fandt tekst"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Fandt telefonnummer"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Fandt e-mailadresse"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Fandt kontakt"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Fandt indstillinger for Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignorér"</string>
+	<!---->
+	<string name="qrcode_button_open">"Åbn"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopiér"</string>
+	<!---->
+	<string name="qrcode_button_save">"Gem"</string>
+	<!---->
+	<string name="qrcode_button_call">"Ring til"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Forbind"</string>
+</resources>

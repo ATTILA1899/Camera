@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+===============================================================================
+|      Modifications on Features list / Changes Request / Problems Report      |
+| **************************************************************************** |
+|     date   |        Author        |         Key          |     comment       |
+| ***********|**********************|**********************|****************** |
+|  10/22/2013|Mingchun.Li           |FR-473251             |camera ergo        |
+| **************************************************************************** |
+===============================================================================
+-->
+<resources>
+ <!-- [FEATURE]-Add-BEGIN by TCTNB(Mingchun.Li), 2013/10/11, FR-473251,Camera ergo-->
+    <color name="setting_item_text_color_highlight">#FF0099CC</color>
+    <color name="setting_item_text_color_normal">#FFFFFFFF</color>
+    <color name="setting_item_text_color_normal_text">#FFB7B7B7</color>
+    <color name="lightyellow">#FFA500</color>
+    <color name="setting_item_text_color_light_color">#808080</color>
+    <color name="circle_item_normal_color">#808080</color>
+    <color name="circle_item_highlight_color">#FFFFFF</color>
+    <color name="continuous_shot_btn_background">#fd9b00</color>
+    <color name="continuous_shot_title_background">#fd9b00</color>
+ <!-- [FEATURE]-add-end by TCT.(Mingchun.Li)-->
+    <!-- Added by TCTNB,Huan.Yu for the text color of photo setting  -->
+    <color name="setting_text_normal">#808080</color>
+    <color name="setting_text_selected">#FFF</color>
+    <color name="setting_text_highlight">#209fdb</color>
+    <color name="setting_driver_color">#30808080</color>
+    <color name="setting_roundbtn_color">#4c4c4c</color>
+    <color name="expression_stroke_color">#80ffffff</color>
+    <color name="expression_bg_color">#800c0c0c</color>
+    <!-- End-added by TCTNB,Huan.Yu  -->
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- no translation found for pref_camera_picture_format_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_ae_bracket_hdr_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_ae_bracket_hdr_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_touchafaec_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_touchafaec_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_dis_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_dis_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_facerc_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_facerc_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_multilevel_sharpness_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_multilevel_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_antibanding_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_antibanding_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_facedetection_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_refocusonshoot_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_autoexposure_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_autoexposure_entryvalues -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_entries -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_entryvalues -->
+	<skip />
+</resources>

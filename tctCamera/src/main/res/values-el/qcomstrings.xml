@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- no translation found for pref_camera_powermode_title -->
+	<skip />
+	<!-- no translation found for pref_camera_powermode_entry_lp -->
+	<skip />
+	<!-- no translation found for pref_camera_powermode_entry_np -->
+	<skip />
+	<!-- no translation found for pref_camera_powermode_value_lp -->
+	<skip />
+	<!-- no translation found for pref_camera_powermode_value_np -->
+	<skip />
+	<!-- no translation found for pref_camera_autoexposure_default -->
+	<skip />
+	<!-- no translation found for pref_camera_autoexposure_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_autoexposure_entry_frameaverage">"Μέσος όρος καρέ"</string>
+	<!---->
+	<string name="pref_camera_autoexposure_entry_centerweighted">"Κεντρική στάθμιση"</string>
+	<!---->
+	<string name="pref_camera_autoexposure_entry_spotmetering">"Μέτρηση σημείου"</string>
+	<!-- no translation found for pref_camera_autoexposure_value_frameaverage -->
+	<skip />
+	<!-- no translation found for pref_camera_autoexposure_value_centerweighted -->
+	<skip />
+	<!-- no translation found for pref_camera_autoexposure_value_spotmetering -->
+	<skip />
+	<!-- no translation found for pref_camera_videoencoder_title -->
+	<skip />
+	<!-- no translation found for pref_camera_videoencoder_entry_0 -->
+	<skip />
+	<!-- no translation found for pref_camera_videoencoder_entry_1 -->
+	<skip />
+	<!-- no translation found for pref_camera_videoencoder_entry_2 -->
+	<skip />
+	<!-- no translation found for pref_camera_videoencoder_dialogtitle -->
+	<skip />
+	<!-- no translation found for pref_camera_audioencoder_title -->
+	<skip />
+	<!-- no translation found for pref_camera_audioencoder_entry_0 -->
+	<skip />
+	<!-- no translation found for pref_camera_audioencoder_entry_1 -->
+	<skip />
+	<!-- no translation found for pref_camera_video_duration_title -->
+	<skip />
+	<!-- no translation found for pref_camera_video_duration_entry_mms -->
+	<skip />
+	<!-- no translation found for pref_camera_video_duration_entry_10 -->
+	<skip />
+	<!-- no translation found for pref_camera_video_duration_entry_30 -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_default -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_title -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_entry_enable -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_entry_disable -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_value_enable -->
+	<skip />
+	<!-- no translation found for pref_camera_skinToneEnhancement_value_disable -->
+	<skip />
+	<!---->
+	<string name="pref_camera_zsl_title">"ZSL"</string>
+	<!-- no translation found for pref_camera_selectablezoneaf_default -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_selectablezoneaf_entry_auto">"ΑΥΤΟΜΑΤΟ"</string>
+	<!-- no translation found for pref_camera_selectablezoneaf_entry_spotmetering -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_entry_centerweighted -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_entry_frameaverage -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_value_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_value_spotmetering -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_value_centerweighted -->
+	<skip />
+	<!-- no translation found for pref_camera_selectablezoneaf_value_frameaverage -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_default -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_features_title -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_entry_none -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_entry_ubifocus -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_entry_chromaflash -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_entry_optizoom -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_none -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_ubifocus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_chromaflash_on -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_optizoom_on -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_ubifocus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_chromaflash_off -->
+	<skip />
+	<!-- no translation found for pref_camera_advanced_feature_value_optizoom_off -->
+	<skip />
+	<!-- no translation found for pref_camera_zsl_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_zsl_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_zsl_value_off -->
+	<skip />
+	<!-- no translation found for pref_camera_zsl_value_on -->
+	<skip />
+	<!-- no translation found for hdr_enable_message -->
+	<skip />
+	<!-- no translation found for scene_enable_message -->
+	<skip />
+	<!-- no translation found for pref_camera_video_hdr_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_video_hdr_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_video_hdr_value_off -->
+	<skip />
+	<!-- no translation found for pref_camera_video_hdr_value_on -->
+	<skip />
+	<!-- no translation found for pref_camera_video_hdr_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_facedetection_title">"Αναγνώριση προσώπου"</string>
+	<!-- no translation found for pref_camera_facedetection_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_facedetection_entry_on -->
+	<skip />
+	<!---->
+	<string name="pref_camera_refocusonshoot_title">"Επανάληψη εστίασης"</string>
+	<!-- no translation found for pref_camera_refocusonshoot_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_refocusonshoot_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_redeyereduction_title -->
+	<skip />
+	<!-- no translation found for pref_camera_redeyereduction_entry_enable -->
+	<skip />
+	<!-- no translation found for pref_camera_redeyereduction_entry_disable -->
+	<skip />
+	<!-- no translation found for pref_camera_mce_default -->
+	<skip />
+	<!-- no translation found for error_app_unsupported_hfr_selection -->
+	<skip />
+	<!-- no translation found for error_app_unsupported_hfr -->
+	<skip />
+	<!-- no translation found for error_app_unsupported_dis -->
+	<skip />
+	<!-- no translation found for error_app_unsupported_hsr -->
+	<skip />
+	<!-- no translation found for error_app_unsupported_hfr_codec -->
+	<skip />
+	<!-- no translation found for error_app_unsupported -->
+	<skip />
+	<!-- no translation found for error_app_unsupported_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_ae_bracket_hdr_entry_ae_bracket -->
+	<skip />
+	<!-- no translation found for pref_camera_ae_bracket_hdr_value_ae_bracket -->
+	<skip />
+	<!-- no translation found for pref_camera_ae_bracket_hdr_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_ae_bracket_hdr_entry_off -->
+	<skip />
+	<!-- no translation found for err_app_unsupport_ae_bracket_code -->
+	<skip />
+	<!-- no translation found for snapshot_lower_than_video -->
+	<skip />
+	<!-- no translation found for snapshotsize_low_powermode -->
+	<skip />
+	<!-- no translation found for snapshot_qcif_and_d1 -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_title -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entry_2x -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entry_3x -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entry_4x -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_entry_hsr -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_value_off -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_value_2x -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_value_3x -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_value_4x -->
+	<skip />
+	<!-- no translation found for pref_camera_hfr_value_hsr -->
+	<skip />
+	<!-- no translation found for pref_camera_denoise_title -->
+	<skip />
+	<!-- no translation found for pref_camera_denoise_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_denoise_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_iso_title">"Επιλογή ISO"</string>
+	<!---->
+	<string name="pref_camera_iso_entry_auto">"ΑΥΤΟΜΑΤΟ"</string>
+	<!-- no translation found for pref_camera_iso_entry_isodeblur -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entry_iso100 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entry_iso200 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entry_iso400 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entry_iso800 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_entry_iso1600 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_isodeblur -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_iso100 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_iso200 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_iso400 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_iso800 -->
+	<skip />
+	<!-- no translation found for pref_camera_iso_value_iso1600 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_antibanding_title">"Λειτουργία anti-banding"</string>
+	<!-- no translation found for pref_camera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_antibanding_entry_0">"Ανενεργό"</string>
+	<!---->
+	<string name="pref_camera_antibanding_entry_1">"50 Hz"</string>
+	<!---->
+	<string name="pref_camera_antibanding_entry_2">"60 Hz"</string>
+	<!---->
+	<string name="pref_camera_antibanding_entry_3">"Αυτόμ."</string>
+	<!-- no translation found for pref_camera_coloreffect_title -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_none -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_mono -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_sepia -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_negative -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_solarize -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_posterize -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_aqua -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_emboss -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_sketch -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_neon -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_pastel -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_mosaic -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_redtint -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_bluetint -->
+	<skip />
+	<!-- no translation found for pref_camera_coloreffect_entry_greentint -->
+	<skip />
+	<!-- no translation found for pref_camera_touchafaec_default -->
+	<skip />
+	<!-- no translation found for pref_camera_touchafaec_title -->
+	<skip />
+	<!-- no translation found for pref_camera_touchafaec_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_touchafaec_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_dis_title -->
+	<skip />
+	<!-- no translation found for pref_camera_dis_default -->
+	<skip />
+	<!-- no translation found for pref_camera_dis_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_dis_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_facerc_title -->
+	<skip />
+	<!-- no translation found for pref_camera_facerc_default -->
+	<skip />
+	<!-- no translation found for pref_camera_facerc_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_facerc_entry_on -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level0 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level1 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level2 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level3 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level4 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level5 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_entry_level6 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level0 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level1 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level2 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level3 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level4 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level5 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level6 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level7 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level8 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level9 -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_entry_level10 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level0 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level1 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level2 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level3 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level4 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level5 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level6 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level7 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level8 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level9 -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_entry_level10 -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sharpness_title -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_default -->
+	<skip />
+	<!-- no translation found for pref_camera_contrast_title -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_default -->
+	<skip />
+	<!-- no translation found for pref_camera_saturation_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_jpeg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_yuv_422_sp -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_yuv_8bit_yuyv -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_yuv_8bit_yvyu -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_yuv_8bit_uyvy -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_yuv_8bit_vyuy -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_qcom_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_mipi_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_qcom_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_mipi_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain8_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain8_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain8_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain8_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_entry_raw_bayer_ideal_plain16_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_jpeg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_yuv_422_sp -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_yuv_8bit_yuyv -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_yuv_8bit_yvyu -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_yuv_8bit_uyvy -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_yuv_8bit_vyuy -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_qcom_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_mipi_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_qcom_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_mipi_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain8_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain8_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain8_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain8_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_8gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_8grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_8rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_8bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_10gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_10grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_10rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_10bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_12gbrg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_12grbg -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_12rggb -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_format_value_raw_bayer_ideal_plain16_12bggr -->
+	<skip />
+	<!-- no translation found for pref_camera_jpegquality_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_jpegquality_entry_superfine">"Βέλτιστη"</string>
+	<!---->
+	<string name="pref_camera_jpegquality_entry_fine">"Καλή"</string>
+	<!---->
+	<string name="pref_camera_jpegquality_entry_normal">"Κανονικό"</string>
+	<!-- no translation found for pref_camera_jpegquality_entry_0 -->
+	<skip />
+	<!-- no translation found for pref_camera_jpegquality_entry_1 -->
+	<skip />
+	<!-- no translation found for pref_camera_jpegquality_entry_2 -->
+	<skip />
+	<!-- no translation found for pref_camera_jpegquality_entry_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_jpegquality_entry_4 -->
+	<skip />
+	<!-- no translation found for pref_camera_jpegquality_entry_5 -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_default -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_title -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_entry_enable -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_entry_disable -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_value_enable -->
+	<skip />
+	<!-- no translation found for pref_camera_histogram_value_disable -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1920x1080 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1280x768 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1280x720 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_800x600 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_800x480 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_352x288 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_176x144 -->
+	<skip />
+	<!-- no translation found for pref_camera_focusmode_entry_normal -->
+	<skip />
+	<!-- no translation found for pref_camera_focusmode_entry_continuous -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_asd -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_portrait -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_landscape -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_night_portrait -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_theatre -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_beach -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_snow -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_steadyphoto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_fireworks -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_sports -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_candlelight -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_backlight -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_flowers -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_ar -->
+	<skip />
+	<!-- no translation found for pref_camera_scenedetect_title -->
+	<skip />
+	<!-- no translation found for pref_camera_scenedetect_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenedetect_entry_on -->
+	<skip />
+	<!-- no translation found for time_lapse_error -->
+	<skip />
+</resources>

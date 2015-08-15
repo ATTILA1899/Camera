@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mmode_flashduty_hint"
+    style="@style/MModeHelpTipsLayoutStyle"
+    >
+    <TextView
+        android:id="@+id/title"
+        android:text="@string/pref_camera_flash_duty_title"
+        android:textColor="@color/continuous_shot_title_background"
+        android:textSize="@dimen/continuous_shot_title_textsize"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/flash_title_margintop"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content1"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:text="@string/mmode_flash_first_time_tip_content1"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/content2"
+        android:layout_marginLeft="@dimen/mmode_help_tip_margin"
+        android:layout_below="@id/content1"
+        android:text="@string/mmode_flash_first_time_tip_content2"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/image_arrow_torch"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/flash_image_arrow_torch_margintop"
+        android:src="@drawable/mmode_flash_arrow_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/image_circle"
+        android:layout_below="@id/image_arrow_torch"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/mmode_flash_circle_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/image_circle_flash"
+        android:src="@drawable/mmode_flash_circle_right"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/flash_image_circle_flash_marginbottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/image_arrow_flash"
+        android:layout_above="@id/image_circle_flash"
+        android:layout_toRightOf="@id/image_circle_flash"
+        android:src="@drawable/mmode_flash_arrow_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginLeft="@dimen/flash_image_circle_flash_content3_marginleft"
+        android:layout_above="@id/image_arrow_flash"
+        android:text="@string/mmode_flash_first_time_tip_content3"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/mmode_flashduty_hint_btn"
+        style="@style/MModeHelpTipsBtnStyle"
+        />
+</RelativeLayout>

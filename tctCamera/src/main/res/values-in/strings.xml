@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kamera"</string>
+	<!---->
+	<string name="video_camera_label">"Camcorder"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Setel gambar sebagai"</string>
+	<!---->
+	<string name="delete">"Hapus"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Hapus item terpilih?"</item>
+		<item quantity="other">"Hapus item terpilih?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Bagikan"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Terhapus"</string>
+	<!---->
+	<string name="undo">"Urungkan"</string>
+	<!---->
+	<string name="details">"Rincian"</string>
+	<!---->
+	<string name="close">"Tutup"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Perlihatkan pada peta"</string>
+	<!---->
+	<string name="rotate_left">"Putar ke kiri"</string>
+	<!---->
+	<string name="rotate_right">"Putar ke kanan"</string>
+	<!---->
+	<string name="edit">"Edit"</string>
+	<!---->
+	<string name="crop_action">"Pangkas"</string>
+	<!---->
+	<string name="trim_action">"Rapikan"</string>
+	<!---->
+	<string name="set_as">"Atur sebagai"</string>
+	<!---->
+	<string name="video_err">"Tidak dapat memutar video"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Judul"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Waktu"</string>
+	<!---->
+	<string name="location">"Lokasi"</string>
+	<!---->
+	<string name="path">"Jalur"</string>
+	<!---->
+	<string name="width">"Lebar"</string>
+	<!---->
+	<string name="height">"Tinggi"</string>
+	<!---->
+	<string name="orientation">"Orientasi"</string>
+	<!---->
+	<string name="duration">"Durasi"</string>
+	<!---->
+	<string name="mimetype">"Jenis MIME"</string>
+	<!---->
+	<string name="file_size">"Ukuran berkas"</string>
+	<!---->
+	<string name="maker">"Pembuat"</string>
+	<!---->
+	<string name="model">"Model"</string>
+	<!---->
+	<string name="flash">"Lampu Kilat"</string>
+	<!---->
+	<string name="aperture">"Apertur"</string>
+	<!---->
+	<string name="focal_length">"Panjang Fokal"</string>
+	<!---->
+	<string name="white_balance">"Imbangan putih"</string>
+	<!---->
+	<string name="exposure_time">"Waktu pencahayaan"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Manual"</string>
+	<!---->
+	<string name="auto">"Otomatis"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Tanpa lampu kilat"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Harap tunggu!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Galat kamera"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Tidak dapat tersambung ke kamera."</string>
+	<!---->
+	<string name="camera_disabled">"Kamera telah dinonaktifkan karena kebijakan keamanan."</string>
+	<!---->
+	<string name="wait">"Harap tunggu..."</string>
+	<!---->
+	<string name="no_storage">"Msukkn krt SD sblum mggunakn kamera."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Tidak dapat mengakses kartu SD."</string>
+	<!---->
+	<string name="time_lapse_title">"Perekaman time lapse"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Pilih kamera"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Belakang"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Depan"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Lokasi menyimpan"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Penghitung waktu mundur"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 detik"</item>
+		<item quantity="other">"%d detik"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Bunyi bip selama menghitung mundur"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Memori"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telepon"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Kartu SD"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Kualitas video"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Pengaturan kamera"</string>
+	<!---->
+	<string name="pref_camera_settings">"Pengaturan Kamera"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Pengaturan camcorder"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Ukurn gmbar"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Ukuran"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Kisi"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M piksel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M piksel (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 M piksel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Mode fokus"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Otomatis"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Infinitas"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"AUTO"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Infinitas"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Mode lmpu klat"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"MODE LAMPU KILAT"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Otomatis"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Hidup"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Mati"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Torch"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"FLASH OTOMATIS"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"FLASH AKTIF"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"FLASH MATI"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Imbangan putih"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Imbangan putih"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Otomts"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Otomatis"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Berpijar"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Siang hari"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Berpendar"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Berawan"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"AUTO"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Berpijar"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Siang hari"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Berpendar"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Berawan"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Mode scene"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Otomatis"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Tindakan"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Malam"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Matahari trbnam"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Pesta"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Mode Malam"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Deteksi Scene Otomatis"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Mengoptimalkan pengaturan kamera untuk kualitas foto yang lebih baik."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Pemandangan malam"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Pemandangan lampu latar"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Peningkatan pemandangan otomatis"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Mengoptimalkan pengaturan kamera untuk kualitas foto yang lebih baik."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Pemandangan cahaya rendah"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Pemandangan cahaya latar"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Fokus Wajah Cepat"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Tidak dapat dipilih dalam mode adegan."</string>
+	<!---->
+	<string name="pref_exposure_title">"Pencahayaan"</string>
+	<!---->
+	<string name="pref_exposure_label">"Pencahayaan"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Kartu SD Anda kehabisan ruang. Ubah setelan kualitas atau hapus beberapa gambar atau berkas lain."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Memori ponsel hampir penuh. Ubah pengaturan kualitas atau hapus sebagian gambar atau file lainnya."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Batas ukuran tercapai."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Terlalu cpt"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Menyiapkan panorama"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Tidak dapat menyimpan panorama."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Mengambil gambar panorama"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Menunggu panorama sebelumnya"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Menyimpan..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Merender panorama"</string>
+	<!---->
+	<string name="tap_to_focus">"Sentuh untuk memfokuskan."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Efek"</string>
+	<!---->
+	<string name="effect_none">"Tidak ada"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Himpit"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Mata besar"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Mulut besar"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Mulut kecil"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Hidung bsar"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Mata kecil"</string>
+	<!---->
+	<string name="effect_backdropper_space">"D ruag agks"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Mthri trbnm"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Video Anda"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Sentuh untuk mengambil foto saat merekam."</string>
+	<!---->
+	<string name="video_recording_started">"Telah mulai merekam video."</string>
+	<!---->
+	<string name="video_recording_stopped">"Telah selesai merekam video."</string>
+	<!---->
+	<string name="clear_effects">"Hapus efek"</string>
+	<!---->
+	<string name="effect_silly_faces">"WAJAH KONYOL"</string>
+	<!---->
+	<string name="effect_background">"LATAR BELAKANG"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Tombol menu"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Beralih ke foto"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Beralih ke panorama"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Selesai meninjau"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Tinjau hasil pengambilan ulang"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"MATI"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Mti"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 detik"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 detik"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 menit"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 menit"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 jam"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 jam"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 jam"</string>
+	<!---->
+	<string name="time_lapse_seconds">"detik"</string>
+	<!---->
+	<string name="time_lapse_minutes">"menit"</string>
+	<!---->
+	<string name="time_lapse_hours">"jam"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Tetapkan interval waktu"</string>
+	<!---->
+	<string name="set_time_interval_help">"Fitur time lapse mati. Hidupkan untuk menetapkan interval waktu."</string>
+	<!---->
+	<string name="set_duration">"Setel durasi dalam detik"</string>
+	<!---->
+	<string name="count_down_title_text">"Menghitung mundur untuk memotret"</string>
+	<!---->
+	<string name="remember_location_title">"Ingat lokasi foto?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Tandai foto dan video dengan lokasi tempatnya diambil.\n\nAplikasi lain dapat mengakses informasi ini bersama dengan gambar yang Anda simpan."</string>
+	<!---->
+	<string name="remember_location_no">"Tidak, terima kasih."</string>
+	<!---->
+	<string name="remember_location_yes">"Ya"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Simpan"</string>
+	<!---->
+	<string name="cannot_load_image">"Tidak bisa memuat gambar!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Mengatur wallpaper"</string>
+	<!---->
+	<string name="tips_done">"Selesai"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Pelajari tentang zoom satu jari"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Ketuk dua kali dan geser untuk zoom besar/kecil di kamera"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS mati"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Untuk menandai foto dan video dengan lokasi, aktifkan GPS dan jaringan nirkabel di Pengaturan Lokasi."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Batal"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Pengaturan"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Pulihkan Pengaturan"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Anda yakin ingin memulihkan semua ke default?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Foto"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Pengaturan Kamera"</string>
+	<!---->
+	<string name="mode_menu_photo">"Mode Otomatis"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panorama"</string>
+	<!---->
+	<string name="mode_menu_manual">"Mode Manual"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Time-lapse"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Pemindai"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Pcantik wajah"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Face Beauty"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Pengaturan"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Kulit"</string>
+	<!---->
+	<string name="beauty_face_soften">"Nada:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Tekstur:"</string>
+	<!---->
+	<string name="asd_night">"Mode malam"</string>
+	<!---->
+	<string name="asd_backlight">"Mode lampu latar"</string>
+	<!---->
+	<string name="asd_auto">"Mode otomatis"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galeri"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"auto"</string>
+	<!---->
+	<string name="disable_night_mode">"Mode malam dimatikan"</string>
+	<!---->
+	<string name="disable_back_light">"Lampu latar dimatikan"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"dengan fokus otomatis deteksi wajah (face detection auto focus/FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Fokus wajah cepat akan menjamin momen-momen yang Anda potret selalu tajam."</string>
+	<!---->
+	<string name="about_two_asd">"Peningkatan pemandangan otomatis"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Mengoptimalkan pengaturan kamera untuk kualitas foto yang lebih baik."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Mode beruntun tidak tersedia saat peningkatan pemandangan otomatis aktif."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Face beauty"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Percantik foto Anda dengan menyesuaikan warna kulit dan tekstur wajah Anda"</string>
+</resources>

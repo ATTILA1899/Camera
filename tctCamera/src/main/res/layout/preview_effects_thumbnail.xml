@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lay_thumb"
+    android:layout_width="67dp"
+    android:layout_height="67dp"
+    android:layout_gravity="left|bottom"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="20dp"
+    android:background="@drawable/thumbnail_bg" >
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/rimgv_thumb"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="4dp"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:clickable="true"
+        android:focusable="false"
+        android:src="@drawable/default_thumbnail"
+        android:contentDescription="@string/accessibility_review_thumbnail" />
+    <ProgressBar
+        android:id="@+id/probar_processing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="9dp"
+        android:layout_marginTop="9dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:visibility="gone" />
+</FrameLayout>

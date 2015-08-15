@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_width="72dp"
+    android:layout_height="60dp">
+
+    <com.android.camera.ui.RotateLayout
+        android:id="@+id/manul_mode_rotatelayout"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+    >
+    <LinearLayout
+        android:id="@+id/item_root"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:scaleType="fitCenter">
+        <TextView
+            android:id="@+id/item_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textSize="14dp"
+            android:textColor="#4fffffff"
+            android:scaleType="centerInside"
+            />
+        <TextView
+            android:id="@+id/description_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:textSize="14dp"
+            android:textColor="#ffffffff"
+            android:gravity="center" />
+    </LinearLayout>
+    </com.android.camera.ui.RotateLayout>
+</RelativeLayout>

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Thu Feb 12 17:35:31 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- no translation found for app_name -->
+	<skip />
+	<!---->
+	<string name="video_camera_label">"Video-kamera"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!-- no translation found for set_image -->
+	<skip />
+	<!-- no translation found for delete -->
+	<skip />
+	<!-- no translation found for delete_selection -->
+	<skip />
+	<!-- no translation found for share -->
+	<skip />
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Fshirë"</string>
+	<!---->
+	<string name="undo">"Anulo"</string>
+	<!---->
+	<string name="details">"Detaje"</string>
+	<!-- no translation found for close -->
+	<skip />
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!-- no translation found for show_on_map -->
+	<skip />
+	<!---->
+	<string name="rotate_left">"Rrotullo majtas"</string>
+	<!---->
+	<string name="rotate_right">"Rrotullo djathtas"</string>
+	<!-- no translation found for edit -->
+	<skip />
+	<!---->
+	<string name="crop_action">"Pres"</string>
+	<!---->
+	<string name="trim_action">"Pres"</string>
+	<!-- no translation found for set_as -->
+	<skip />
+	<!-- no translation found for video_err -->
+	<skip />
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Titulli"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Orë"</string>
+	<!---->
+	<string name="location">"Vend"</string>
+	<!---->
+	<string name="path">"Udhë"</string>
+	<!---->
+	<string name="width">"Gjerësia"</string>
+	<!---->
+	<string name="height">"Lartësia"</string>
+	<!---->
+	<string name="orientation">"Orientimi"</string>
+	<!---->
+	<string name="duration">"Kohëzgjatja"</string>
+	<!---->
+	<string name="mimetype">"Lloji MIME"</string>
+	<!---->
+	<string name="file_size">"Madhësia e skedës"</string>
+	<!---->
+	<string name="maker">"Autori"</string>
+	<!---->
+	<string name="model">"Modeli"</string>
+	<!---->
+	<string name="flash">"Blici"</string>
+	<!---->
+	<string name="aperture">"Hapje"</string>
+	<!---->
+	<string name="focal_length">"Madhësia Fokale"</string>
+	<!---->
+	<string name="white_balance">"Balanca e të bardhës"</string>
+	<!---->
+	<string name="exposure_time">"Kohëzgjatje e ekspozimit"</string>
+	<!-- no translation found for iso -->
+	<skip />
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Me dorë"</string>
+	<!---->
+	<string name="auto">"Auto"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!-- no translation found for flash_off -->
+	<skip />
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Ju lutemi pritni!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Gabim në kamera"</string>
+	<!-- no translation found for cannot_connect_camera -->
+	<skip />
+	<!---->
+	<string name="camera_disabled">"Kamera është e pamundësuar për shkak të rregullave të sigurshme."</string>
+	<!---->
+	<string name="wait">"Ju lutem pritni..."</string>
+	<!-- no translation found for no_storage -->
+	<skip />
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!-- no translation found for access_sd_fail -->
+	<skip />
+	<!---->
+	<string name="time_lapse_title">"Regjistrim me interval kohor"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Zgjidh kamera"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Prapa"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Përpara"</string>
+	<!-- no translation found for pref_camera_recordlocation_title -->
+	<skip />
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!-- no translation found for pref_camera_timer_title -->
+	<skip />
+	<!-- no translation found for pref_camera_timer_entry -->
+	<skip />
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!-- no translation found for pref_camera_timer_sound_title -->
+	<skip />
+	<!-- no translation found for pref_camera_savepath_title -->
+	<skip />
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!-- no translation found for pref_camera_savepath_entry_0 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Karta SD"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Formati video"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Cilësimet e kamerës"</string>
+	<!-- no translation found for pref_camera_settings -->
+	<skip />
+	<!---->
+	<string name="pref_camcorder_settings_category">"Cilësimet e video-kamerës"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Madhësia e fotos"</string>
+	<!-- no translation found for pref_camera_size_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_grid_title">"Rrjeti"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_2mp_wide -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_1mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Modaliteti me fokus"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Infinit"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makro"</string>
+	<!-- no translation found for pref_camera_focusmode_label_auto -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Infinit"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Modaliteti me blic"</string>
+	<!-- no translation found for pref_camera_flashmode_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Aktivizuar"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Çaktivizuar"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"LED Llambë"</string>
+	<!-- no translation found for pref_camera_flashmode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_flashmode_label_on -->
+	<skip />
+	<!-- no translation found for pref_camera_flashmode_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Balanca e të bardhës"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Balanca e të bardhës"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Inkandeshente"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Dritë dielli"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Fluoreshente"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"E vrenjtur"</string>
+	<!-- no translation found for pref_camera_whitebalance_label_auto -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Inkandeshente"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Dritë dielli"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Fluoreshente"</string>
+	<!-- no translation found for pref_camera_whitebalance_label_cloudy -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_title">"Modaliteti i skenës"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Auto"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Lëvizje"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Natë"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Perëndim dielli"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Party"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_night_title -->
+	<skip />
+	<!-- no translation found for pref_camera_arcsoft_asd_title -->
+	<skip />
+	<!-- no translation found for pref_camera_fff_title -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Nuk mund të zgjidhet kur është në regjim skenë."</string>
+	<!---->
+	<string name="pref_exposure_title">"Ekspozimi"</string>
+	<!---->
+	<string name="pref_exposure_label">"Ekspozimi"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Në kartën tuaj SD nuk ka mjaftë hapësirë. Ndryshoni cilësimin e kualitetit ose fshini disa imazhe ose skedarë të tjerë."</string>
+	<!-- no translation found for spaceIsLow_content_storage -->
+	<skip />
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"U arrit kufiri i madhësisë."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Shumë shpejtë"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Përgatitje e panoramës"</string>
+	<!-- no translation found for pano_dialog_panorama_failed -->
+	<skip />
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Fotografim  i panoramës"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Në pritje për panoramën e mëparshme"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Po ruaj..."</string>
+	<!---->
+	<string name="pano_review_rendering">"\'\'Shfaqje e panoramës\'\'"</string>
+	<!---->
+	<string name="tap_to_focus">"Prek për fokus."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Efekte"</string>
+	<!---->
+	<string name="effect_none">"Asnjë"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Shkrep"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Sytë të madhe"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Goja e madhe"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Goja e vogël"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Hundë e madhe"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Sytë e vogla"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Në kozmosin"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Perëndim"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Videoja juaj"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Prek për fotografim gjatë regjistrimit."</string>
+	<!-- no translation found for video_recording_started -->
+	<skip />
+	<!-- no translation found for video_recording_stopped -->
+	<skip />
+	<!---->
+	<string name="clear_effects">"Fshiji efektet"</string>
+	<!---->
+	<string name="effect_silly_faces">"FYTYRA QESHARAKE"</string>
+	<!---->
+	<string name="effect_background">"SFOND"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!-- no translation found for accessibility_menu_button -->
+	<skip />
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Kalo në regjim normal"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Zëvendëso në regjim si panorama"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!-- no translation found for accessibility_review_ok -->
+	<skip />
+	<!-- no translation found for accessibility_review_retake -->
+	<skip />
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!-- no translation found for capital_off -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_off -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1.5 sekonda"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_2000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2.5 sekonda"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_3000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_4000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_6000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_10000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_12000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_15000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_24000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_60000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_90000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_120000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_150000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_180000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_240000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_300000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_360000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_600000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_720000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_900000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1440000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_3600000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_7200000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_9000000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_10800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 orë"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_18000000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_21600000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_36000000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_43200000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_54000000 -->
+	<skip />
+	<!-- no translation found for pref_video_time_lapse_frame_interval_86400000 -->
+	<skip />
+	<!---->
+	<string name="time_lapse_seconds">"sekonda"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minuta"</string>
+	<!-- no translation found for time_lapse_hours -->
+	<skip />
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!-- no translation found for set_time_interval -->
+	<skip />
+	<!-- no translation found for set_time_interval_help -->
+	<skip />
+	<!-- no translation found for set_duration -->
+	<skip />
+	<!-- no translation found for count_down_title_text -->
+	<skip />
+	<!-- no translation found for remember_location_title -->
+	<skip />
+	<!-- no translation found for remember_location_prompt -->
+	<skip />
+	<!-- no translation found for remember_location_no -->
+	<skip />
+	<!-- no translation found for remember_location_yes -->
+	<skip />
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Ruaj"</string>
+	<!---->
+	<string name="cannot_load_image">"Nuk mund të ngarkohet imazhin!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!-- no translation found for setting_wallpaper -->
+	<skip />
+	<!---->
+	<string name="tips_done">"U krye"</string>
+	<!-- no translation found for onef_inger_zoomer_tips_title -->
+	<skip />
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Shtyp dy herë dhe lëviz për zmadhim/zvogëlim në kamerën"</string>
+	<!-- no translation found for location_service_dialog_title -->
+	<skip />
+	<!-- no translation found for location_service_dialog_msg -->
+	<skip />
+	<!---->
+	<string name="location_service_dialog_cancel">"Anulo"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Cilësimet"</string>
+	<!-- no translation found for restore_settings_dialog_title -->
+	<skip />
+	<!-- no translation found for restore_settings_dialog_msg -->
+	<skip />
+	<!-- no translation found for advance_setting_group_photo -->
+	<skip />
+	<!-- no translation found for advance_setting_group_video -->
+	<skip />
+	<!-- no translation found for advance_setting_group_camera -->
+	<skip />
+	<!-- no translation found for mode_menu_photo -->
+	<skip />
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panorama"</string>
+	<!-- no translation found for mode_menu_manual -->
+	<skip />
+	<!-- no translation found for mode_menu_timelapse -->
+	<skip />
+	<!-- no translation found for mode_menu_scaner -->
+	<skip />
+	<!-- no translation found for mode_menu_facebeauty -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Cilësimet"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!-- no translation found for beauty_face_title -->
+	<skip />
+	<!-- no translation found for beauty_face_soften -->
+	<skip />
+	<!-- no translation found for beauty_face_bright -->
+	<skip />
+</resources>

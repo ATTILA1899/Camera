@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Alapbeállítások visszaállítása"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Speciális"</string>
+	<!---->
+	<string name="pref_back_detail">"Vissza"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Hangrögzítő"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Nyomja meg a kioldó gombot a panorámakép rögzítéséhez."</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Mozgassa az eszközt a fényképkészítés irányába."</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Panorámakép készítése sikertelen."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Lassítás"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Mozgatás fel"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Mozgatás le"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normál"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikrofon"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Arcszépség"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoráma"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Panoráma"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Arcfelisme.(4)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Mosoly"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Sorozatfelvétel"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuális"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Széles lát.szög"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Szűrés"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Arcszépség"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Lassú művelet"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kollázs"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Este"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Alacsony"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Magas"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Jó"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Legjobb"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normál"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Időzítő"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"KI"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 mp"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 mp"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 mp"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 másodperc"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 másodperc"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 másodperc"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Nagyon nagy"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Nagy"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Közepes"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Kicsi"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"<xliff:g example="10" id="numbers">%1$d</xliff:g> kép mentése folyamatban"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS pozíció megjelenítése"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS címke"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Képminőség"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Blende hang"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Teljesképernyő"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Nagy"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Közepes"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Kicsi"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Váltson vissza normál üzemmódra sorozatkép készítéséhez."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Ne mozdítsa el az eszközt HDR felvétel készítése közben."</string>
+	<!---->
+	<string name="tips_title">"Folyamatos felvétel"</string>
+	<!---->
+	<string name="tips_content1">"Tartsa lenyomva a kioldó gombot vagy a"</string>
+	<!---->
+	<string name="tips_content2">"Hangerő gombot sorozatfelvétel készítéséhez."</string>
+	<!---->
+	<string name="expression_guide_capture">"Nyomja meg a kioldó gombot a négy különböző arckifejezés rögzítéséhez"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Kevés szabad memória. Felvétel automatikus leállítása."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Nincs elegendő memória. Előbb zárjon be néhány futó alkalmazást."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-kód beolvasása"</string>
+	<!---->
+	<string name="qrcode_title">"QR-kód beolvasása"</string>
+	<!---->
+	<string name="qrcode_type_url">"Webcím"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Földrajzi helyzet"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi konfiguráció"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Névjegy"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefonszám"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Naptár"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"szöveg"</string>
+	<!---->
+	<string name="qrcode_hint_url">"A hivatkozás megnyitása adatforgalom felhasználással jár."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"A hivatkozás megnyitása adatforgalom felhasználással jár."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"A hivatkozás megnyitásával hozzáadja a Wi-Fi konfigurációt a beállításokhoz."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"A hivatkozás megnyitásával a Jegyzet alkalmazás megnyitásra kerül a mobilkészülékén."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Beolvasás a képek közül"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Beolvasási előzmények"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Beállítások"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Szálkereszt"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Szálkereszt mutatása beolvasás közben"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Hangjelzés"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Hangjelzés a kód beolvasását követően"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Rezgés"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Visszajelzés rezgéssel a beolvasást követően"</string>
+	<!---->
+	<string name="qrcode_notfound">"A QR-kód nem található"</string>
+	<!---->
+	<string name="qrcode_share">"QR-kód megosztása"</string>
+	<!---->
+	<string name="qrcode_history_open">"Megnyit"</string>
+	<!---->
+	<string name="qrcode_history_share">"Megosztás"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Összes törlése"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Mégse"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Törlés megerősítése"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Biztosan el kívánja távolítani a beolvasott elemek listájának tartalmát?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Nincsenek beolvasási előzmények."</string>
+	<!---->
+	<string name="qrcode_scanning">"A képen található QR-kód beolvasása"</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi konfiguráció hozzáadva"</string>
+	<!---->
+	<string name="setting_photo_title">"Fénykép beállítások"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Szűrés"</string>
+	<!---->
+	<string name="liveeffect_none">"Semmilyen"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatív"</string>
+	<!---->
+	<string name="liveeffect_relief">"Domború hatás"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Halszem"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Vázlat"</string>
+	<!---->
+	<string name="liveeffect_retro">"Azonnali"</string>
+	<!---->
+	<string name="liveeffect_edge">"Körvonal"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Átvitel"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Speciális beállítások"</string>
+	<!---->
+	<string name="manual_manu_title">"Ez egy manuálisan megadandó karakterlánc."</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"B záridő üzemmódban a zárszerkezet nyitva marad.\n Záráshoz nyomja meg ismét a rögzítőgombot."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Záridő"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fókusztávolság"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Manuális üzemmód kikapcsolva"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Az összes manuális beállítást automatikusra állítja?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"B záridős fényképezés."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Vegye át az irányítást fényképei felett."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Ne felejtse el kikapcsolni a funkciót itt."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"A fényképezőgép fényérzékenysége."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Magasabb ISO értékhez kevesebb fény szükséges, azonban ezzel a beállítással a kép minősége is csökken."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Ha a fényképezőgép automatikusan választja ki az ISO fényérzékenységet vagy a zársebességet, ez sötétebb vagy világosabb fényképeket eredményezhet."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Beállíthatja a vaku fényerejét."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"A zseblámpa folyamatosan be van kapcsolva."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"A vaku csak fényképek rögzítésekor\nvillan fel."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"A három fókuszálási mód a következő: Automatikus, Végtelen és Makró."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Amennyiben a távolság meghaladja az öt métert, akkor \'végtelen\' értéknek minősül."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"A fény a körülményektől függően változtat a színeken."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Módosítsa a fehéregyensúlyt a szabályozáshoz."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"A magas dinamikatartomány (High Dynamic Range - HDR) megőrzi a csúcsfényes és árnyékos képterületeket és ezáltal egy drámai hatású képet hoz létre."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"A Kollázs funkció 4 fényképet egyetlen képpé egyesít."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Sorozatfelvétel"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktiválja a sorozatfelvétel funkciót a rögzítőgomb lenyomva tartásával."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Beolvasási mód"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Húzza az ujját jobbra a letapogatás elkezdéséhez"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"A letapogatás módban tud letapogatni"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- vonalkódok"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR kódok"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- névjegykártyák"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Vaku"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Vissza"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Visszaállítás"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Videó beállítások"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Szeretné visszaállítani az összes manuális beállítást?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Ne mozdítsa el a készüléket HDR felvétel készítése közben."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Nincs megfelelő alkalmazás a művelet elvégzésére."</string>
+	<!---->
+	<string name="battery_is_low">"Az akkumulátor töltöttségi szintje alacsony"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Weboldal találat"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Szöveg találat"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Telefonszám találat"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"E-mail cím találat"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Névjegy találat"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Wi-Fi beállítás találatok"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Mellőzés"</string>
+	<!---->
+	<string name="qrcode_button_open">"Megnyit"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Másolás"</string>
+	<!---->
+	<string name="qrcode_button_save">"Mentés"</string>
+	<!---->
+	<string name="qrcode_button_call">"Hívás"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mail"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Csatlakozás"</string>
+</resources>

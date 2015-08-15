@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Fotoaparatas"</string>
+	<!---->
+	<string name="video_camera_label">"Nešiojamoji vaizdo kamera ir magnetofonas"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Nustatyti paveikslėlį kaip"</string>
+	<!---->
+	<string name="delete">"Ištrinti"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Ištrinti pasirinktą elementą?"</item>
+		<item quantity="other">"Ištrinti pasirinktus elementus?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Bendrinti"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Ištrinta"</string>
+	<!---->
+	<string name="undo">"Anuliuoti"</string>
+	<!---->
+	<string name="details">"Išsamiau"</string>
+	<!---->
+	<string name="close">"Uždaryti"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Rodyti žemėlapyje"</string>
+	<!---->
+	<string name="rotate_left">"Sukti kair."</string>
+	<!---->
+	<string name="rotate_right">"Sukti deš."</string>
+	<!---->
+	<string name="edit">"Red."</string>
+	<!---->
+	<string name="crop_action">"Apkarpyti"</string>
+	<!---->
+	<string name="trim_action">"Apkarpyti"</string>
+	<!---->
+	<string name="set_as">"Nustatyti kaip"</string>
+	<!---->
+	<string name="video_err">"Negalima paleisti vaizdo įrašo"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Pavadinimas"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Laikas"</string>
+	<!---->
+	<string name="location">"Vieta"</string>
+	<!---->
+	<string name="path">"Kelias"</string>
+	<!---->
+	<string name="width">"Plotis"</string>
+	<!---->
+	<string name="height">"Aukštis"</string>
+	<!---->
+	<string name="orientation">"Automatiškai sukti ekraną"</string>
+	<!---->
+	<string name="duration">"Trukmė"</string>
+	<!---->
+	<string name="mimetype">"MIME tipas"</string>
+	<!---->
+	<string name="file_size">"Failo dydis"</string>
+	<!---->
+	<string name="maker">"Kūrėjas"</string>
+	<!---->
+	<string name="model">"Modelis"</string>
+	<!---->
+	<string name="flash">"Blykstė"</string>
+	<!---->
+	<string name="aperture">"Diafragma"</string>
+	<!---->
+	<string name="focal_length">"Židinio nuot."</string>
+	<!---->
+	<string name="white_balance">"Baltos sp. bal."</string>
+	<!---->
+	<string name="exposure_time">"Išryšk. trukmė"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Rankiniu būdu"</string>
+	<!---->
+	<string name="auto">"Automatiškai"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Be blykstės"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Palaukite!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Fotoaparato klaida"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Nepavyksta prijungti prie fotoaparato."</string>
+	<!---->
+	<string name="camera_disabled">"Dėl saugumo politikos fotoaparatas buvo išjungtas."</string>
+	<!---->
+	<string name="wait">"Palaukite..."</string>
+	<!---->
+	<string name="no_storage">"Prieš naudodami fotoaparatą, įdėkite SD kortelę."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Nepavyko pasiekti SD kortelės."</string>
+	<!---->
+	<string name="time_lapse_title">"Laiko tarpo įrašymas"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Pasirinkite fotoaparatą"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Atgal"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Šriftas"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Išsaugoti vietą"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Atvirkštinio skaičiavimo laikmatis"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 sek."</item>
+		<item quantity="other">"%d sek."</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Pypsėjimas per atvirkštinį skaičiavimą"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Laikymo vieta"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefonas"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD kortelė"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Vaizdo įr. kokybė"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Fotoaparato nustatymai"</string>
+	<!---->
+	<string name="pref_camera_settings">"Fotoaparato nustatymai"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Vaizdo kam. nust."</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Paveikslėlio dydis"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Dydis"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Tinklelis"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 mln. pikselių"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 mln. pikselių"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 mln. pikselių"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 mln. pikselių"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 mln. pikselių"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 mln. pikselių (16 : 9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 mln. pikselių"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 mln. pikselių"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 mln. pikselių"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Fokusavimo režimas"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Automatiškai"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Begalybė"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"„Makro“"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"Automatiškai"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Begalybė"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"„Makro“"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Blykstės režimas"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"Blykstės režimas"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Automatiškai"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Įj."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Išj."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Žibintuvėlis"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"AUTOMATINĖ BLYKSTĖ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"BLYKSTĖ ĮJUNGTA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"BLYKSTĖ IŠJUNGTA"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Baltos sp. bal."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Baltos sp. bal."</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Autom."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Automatiškai"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Akinančiai skaistus"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Dienos šviesa"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Liuminesc. lempa"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Debesuota"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"Automatinis"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Akinančiai skaistus"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Dienos šviesa"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Liuminesc. lempa"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Debesuota"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Scenų režimas"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Automatiškai"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Veiksmas"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Naktis"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Saulėlydis"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Vakarėlis"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Nakties režimas"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Automat. scenos aptikimas"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Optimizuoja fotoaparato parametrus, kad nuotraukų kokybė būtų geresnė."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Nakties vaizdas"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Vaizdas su apšviestu fonu"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Autom. vaizdo paryškinimas"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Optimizuoja fotoaparato parametrus, kad nuotraukų kokybė būtų geresnė."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Silpnai apšviestas vaizdas"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Vaizdas su apšviestu fonu"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Greitas veido fokusavimas"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Negalima pasirinkti, kai veikia scenos režimas."</string>
+	<!---->
+	<string name="pref_exposure_title">"Išlaikymas"</string>
+	<!---->
+	<string name="pref_exposure_label">"Išlaikymas"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"Gerai"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Mažėja vietos jūsų SD kortelėje. Pakeiskite kokybės nustatymą arba ištrinkite kai kuriuos vaizdus ar kitus failus."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Mažėja vietos saugykloje. Pakeiskite kokybės nustatymą arba ištrinkite kai kuriuos vaizdus ar kitus failus."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Pasiekta dydžio riba."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Per greitai"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Ruošiama panorama"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Nepavyko išsaugoti panoramos."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Fiksuojama panorama"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Laukiama ankstesnės panoramos"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Išsaugota..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Kuriama panorama"</string>
+	<!---->
+	<string name="tap_to_focus">"Palieskite, kad fokusuotumėte."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Efektai"</string>
+	<!---->
+	<string name="effect_none">"Nėra"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Suspausti"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Didelės akys"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Didelė burna"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Maža burna"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Didelė nosis"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Mažos akys"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Kosmose"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Saulėlydis"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Pasirinkite savo"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Palieskite, jei norite nufotografuoti įrašydami."</string>
+	<!---->
+	<string name="video_recording_started">"Vaizdo įrašymas paleistas."</string>
+	<!---->
+	<string name="video_recording_stopped">"Vaizdo įrašymas sustabdytas."</string>
+	<!---->
+	<string name="clear_effects">"Išvalyti efektus"</string>
+	<!---->
+	<string name="effect_silly_faces">"JUOKINGI VEIDAI"</string>
+	<!---->
+	<string name="effect_background">"Fonas"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Meniu mygtukas"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Perjungti į fotografiją"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Įjungti panoramos režimą"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Peržiūra baigta"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Peržiūrėti pakartotinį fotografavimą"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"Išj."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Išj."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 sekundės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 sekundės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 sekundžių"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 sek."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 sekundės"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 min."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 minutės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 min."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 minutės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minutės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minutės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 min."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minutės"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 min."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minučių"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 min."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minutės"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 val."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 val."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 val."</string>
+	<!---->
+	<string name="time_lapse_seconds">"sek."</string>
+	<!---->
+	<string name="time_lapse_minutes">"min."</string>
+	<!---->
+	<string name="time_lapse_hours">"val."</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Nustatyti laiko intervalą"</string>
+	<!---->
+	<string name="set_time_interval_help">"Sulėtinto judesio funkcija išjungta. Įjunkite norėdami nustatyti laiko intervalą."</string>
+	<!---->
+	<string name="set_duration">"Nustatykite trukmę sekundėmis"</string>
+	<!---->
+	<string name="count_down_title_text">"Atvirkštinis skaičiavimas fotografuojant"</string>
+	<!---->
+	<string name="remember_location_title">"Ar atsimenate fotografavimo vietas?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Pažymėkite savo nuotraukas ir vaizdo įrašus nurodydami vietas, kuriose jie buvo sukurti.\n\nKitos programėlės gali pasiekti šią informaciją kartu su jūsų išsaugotais vaizdais."</string>
+	<!---->
+	<string name="remember_location_no">"Ne, ačiū."</string>
+	<!---->
+	<string name="remember_location_yes">"Taip"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Išsaugoti"</string>
+	<!---->
+	<string name="cannot_load_image">"Negalima įkelti vaizdo!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Tapeto nustatymas"</string>
+	<!---->
+	<string name="tips_done">"Atlikta"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Sužinokite apie priartinimą vienu pirštu"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Du kartus bakstelėkite ir slinkite norėdami fotoaparatu priartinti / nutolinti"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS išjungta"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Norėdami pažymėti nuotraukas ir vaizdo įrašus vietų nuorodomis, vietos nustatymuose įjunkite GPS ir belaidžius tinklus."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Atšaukti"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Nustatymai"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Atkurti nustatymus"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Ar tikrai norite atkurti visus gamyklinius nustatymus?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Nuotrauka"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Vaizdo įrašas"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Fotoaparato nustatymas"</string>
+	<!---->
+	<string name="mode_menu_photo">"Autom. režimas"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panor."</string>
+	<!---->
+	<string name="mode_menu_manual">"Rankinis režimas"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Sulėtinto judesio"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Skaitytuvas"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Veido grožis"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Veido grožis"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Nustatymai"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Oda"</string>
+	<!---->
+	<string name="beauty_face_soften">"Tonas:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Tekstūra:"</string>
+	<!---->
+	<string name="asd_night">"Nakties režimas"</string>
+	<!---->
+	<string name="asd_backlight">"Foninio apšvietimo režimas"</string>
+	<!---->
+	<string name="asd_auto">"Automatinis režimas"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galerija"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"auto"</string>
+	<!---->
+	<string name="disable_night_mode">"Nakties režimas išjungtas"</string>
+	<!---->
+	<string name="disable_back_light">"Foninis apšvietimas išjungtas"</string>
+	<!---->
+	<string name="about_one_life_focus">"„LifeFocus“"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"su veido aptikimo automatinio fokusavimo funkcija (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Dėl greito veido fokusavimo jūsų užfiksuotos akimirkos visada bus ryškios."</string>
+	<!---->
+	<string name="about_two_asd">"Automatinis vaizdo paryškinimas"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Optimizuoja fotoaparato parametrus, kad nuotraukų kokybė būtų geresnė."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Serijos režimas negalimas automatinei vaizdo paryškinimo funkcijai esant įjungtai."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Veido grožis"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Patobulinkite portretus koreguodami veido atspalvį ir faktūrą."</string>
+</resources>

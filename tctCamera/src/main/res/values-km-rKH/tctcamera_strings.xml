@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"រក្សាភាពដើមពីរោងចក្រ"</string>
+	<!---->
+	<string name="pref_advanced_detail">"ឈានមុខ"</string>
+	<!---->
+	<string name="pref_back_detail">"ត្រឡប់ក្រោយ"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"ការថតសម្លេង"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!-- no translation found for pref_video_eis_title -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"ចុច ល្បឿន ដើម្បីចាប់ផ្តើម ចាប់យក ទេសភាពប៉ាណូរ៉ាម៉ា"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"ប្តូរទូរស័ព្ទទៅមុខដើម្បីចាប់យកទិសដៅរបស់អ្នក"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"មិនអាចបង្កើតទេសភាពប៉ាណូរ៉ាម៉ាបាន ។"</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"ថយចុះ"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"រំកិលឡើងលើ"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"រំកិលចុះក្រោម"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"ធម្មតា"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"កីឡា"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"ម៉ៃក្រូ"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"មុខស្អាត"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"សព្វទស្សន៍"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"ទេសភាព 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"ការបញ្ចេញទឹកមុខ (4 ប៉ុស)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"ស្នាមញញឹម"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"រូបថត បាក់"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"ដោយដៃ"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_wideangle -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"តម្រង"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_makeup -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_slowmotion -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_collage -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"យប់"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"ទាប"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"ខ្ពស់"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"ហ្មត់ល្អ"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"គុណភាពខ្ពស់"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"ធម្មតា"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"ដាក់ម៉ោងដោយខ្លួនឯង"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"បិទ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 វិនាទី"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 វិនាទី"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 វិនាទី"</string>
+	<!-- no translation found for pref_camera_selftimer_entry_3_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_5_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_10_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_xlarge -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"ធំ"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"មធ្យម"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"តូច"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!-- no translation found for continuous_saving_pictures -->
+	<skip />
+	<!-- no translation found for pref_gps_tagging_title -->
+	<skip />
+	<!---->
+	<string name="pref_gps_tag_title">"ស្លាក GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"គុណភាពរូបភាព"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"សំឡេង​ថត"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_title -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_entry_best">"ធំ"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"មធ្យម"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"តូច"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"សូមប្តូរទៅម៉ូដធម្មតាវិញសម្រាប់ការថតរូបបង្ខំ។"</string>
+	<!---->
+	<string name="hdr_guide_capture">"មិនត្រូវរំកិលឧបករណ៍ឡើយ ពេលថត HDR"</string>
+	<!---->
+	<string name="tips_title">"ការថត​បន្តបន្ទាប់"</string>
+	<!---->
+	<string name="tips_content1">"ចុច ប៊ូតុងអោយយូរ"</string>
+	<!---->
+	<string name="tips_content2">"ឬ ប៊ូតុងកម្រិតសំឡេង សម្រាប់សម្លេង បាញ់ផ្ទុះ ។"</string>
+	<!---->
+	<string name="expression_guide_capture">"ចុច​ប៊ូតុង​ថត ដើម្បី​ចាប់ផ្ដើម​ថត​រូប​ទេសភាព 4 ផ្សេងពីគ្នា"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"អង្គចងចាំ ទាប។ ថត ឈប់ដោយស្វ័យប្រវត្តិ ។"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"អស់អង្គចងចាំ សូមបិទកម្មវិធីដែលកំពុងរត់ជាលើកដំបូង។"</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR កូដ វិភាគ"</string>
+	<!---->
+	<string name="qrcode_title">"QR កូដ វិភាគ"</string>
+	<!---->
+	<string name="qrcode_type_url">"អាសយដ្ឋានបណ្ដាញ"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geo ទីតាំង"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"ការកំណត់រចនាសម្ព័ន្ធ ប្រព័ន្ធ Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"លេខទំនាក់ទំនង"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"លេខទូរស័ព្ទ"</string>
+	<!---->
+	<string name="qrcode_type_email">"អ៊ីម៉េល"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"ប្រតិទិន"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"អត្ថបទ"</string>
+	<!-- no translation found for qrcode_hint_url -->
+	<skip />
+	<!-- no translation found for qrcode_hint_geo -->
+	<skip />
+	<!-- no translation found for qrcode_hint_wifi -->
+	<skip />
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!-- no translation found for qrcode_hint_plaintext -->
+	<skip />
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"ស្កេន ពី រូបថត"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"ពីប្រវត្តិសាស្រ្ត"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"ការកំណត់"</string>
+	<!-- no translation found for qrcode_settings_crosshairs -->
+	<skip />
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"បង្ហាញនូវCross Hairs ខណៈពេលដែល ការស្កេន"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"បន្លឺសម្លេង"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"បន្លឺសម្លេង បន្ទាប់ពីការ ស្កេន កូដ"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"ញ័រ"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"ញ័រ មតិអ្នកប្រើ បន្ទាប់ពីការ ស្កេន"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR កូដ រកមិនឃើញ"</string>
+	<!-- no translation found for qrcode_share -->
+	<skip />
+	<!---->
+	<string name="qrcode_history_open">"បើក"</string>
+	<!---->
+	<string name="qrcode_history_share">"ចែករំលែក"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"សំអាតចេញទាំងអស់"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"យល់ព្រម"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"លើកលែង"</string>
+	<!-- no translation found for qrcode_dialog_deletetitle -->
+	<skip />
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"តើអ្នក ចង់ជម្រះ ធាតុទាំងអស់ ក្នុងបញ្ជី ស្កេន ?"</string>
+	<!---->
+	<string name="qrcode_no_history">"មិនមាន ប្រវត្តិសាស្រ្ត ស្កេន"</string>
+	<!---->
+	<string name="qrcode_scanning">"ស្កេន QR កូដ ក្នុងរូបភាព ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"ការកំណត់រចនាសម្ព័ន្ធ ប្រព័ន្ធ Wi-Fi បានបន្ថែមទៀត"</string>
+	<!-- no translation found for setting_photo_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"តម្រង"</string>
+	<!---->
+	<string name="liveeffect_none">"គ្មាន"</string>
+	<!-- no translation found for liveeffect_ansel -->
+	<skip />
+	<!---->
+	<string name="liveeffect_negative">"ហ្វ៊ីលរូបថត"</string>
+	<!---->
+	<string name="liveeffect_relief">"អណ្ដែត"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"មុំធំទូលាយ"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"គំនូរព្រាង"</string>
+	<!---->
+	<string name="liveeffect_retro">"ភ្លាមៗ"</string>
+	<!---->
+	<string name="liveeffect_edge">"ပုံအနားေရးအေၾကာင္း"</string>
+	<!-- no translation found for liveeffect_sepia -->
+	<skip />
+	<!---->
+	<string name="setting_photo_advanced_title">"ការកំណត់​កម្រិត​ខ្ពស់"</string>
+	<!-- no translation found for manual_manu_title -->
+	<skip />
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_bulb_shot_capturing_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_shutterspeed -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_focusvalue -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"កម្រិតខ្ពស់"</string>
+	<!-- no translation found for pref_camera_manual_mode_reset_toast_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_capturing_hint -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_exposure_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_hdr_first_time_tip -->
+	<skip />
+	<!-- no translation found for mode_collage_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_burst_label -->
+	<skip />
+	<!-- no translation found for mode_burst_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_scanner_label -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content4 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content5 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_flash_duty_title">"ហ្វ្លាស់"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"ត្រឡប់ក្រោយ"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"សិតឡើងវិញ"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!-- no translation found for setting_video_title -->
+	<skip />
+	<!-- no translation found for confirm_restore_toauto_message -->
+	<skip />
+	<!-- no translation found for photo_hdr_toast -->
+	<skip />
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!-- no translation found for missing_app -->
+	<skip />
+	<!---->
+	<string name="battery_is_low">"ភ្ជាប់ឆ្នាំងសាក"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"មិនអើពើ"</string>
+	<!-- no translation found for qrcode_button_open -->
+	<skip />
+	<!-- no translation found for qrcode_button_copy -->
+	<skip />
+	<!-- no translation found for qrcode_button_save -->
+	<skip />
+	<!-- no translation found for qrcode_button_call -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_email">"អ៊ីម៉េល"</string>
+	<!-- no translation found for qrcode_button_connect -->
+	<skip />
+</resources>

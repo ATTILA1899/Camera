@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ctl_preview_effects"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:layout_gravity="right|bottom"
+    android:layout_marginBottom="80dp"
+    android:layout_marginRight="36dp"
+    android:gravity="center"
+    android:orientation="vertical">
+    <com.android.camera.ui.RotateImageView
+        android:id="@+id/rimgv_preivew_effects"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:clickable="true"
+        android:focusable="false"
+        android:gravity="center"
+        android:src="@drawable/ic_mode_preview_effects"/>
+</LinearLayout>

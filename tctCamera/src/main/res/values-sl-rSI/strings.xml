@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Fotoaparat"</string>
+	<!---->
+	<string name="video_camera_label">"Kamkorder"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Nastavi sliko kot"</string>
+	<!---->
+	<string name="delete">"Izbriši"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Izbrišem izbrani predmet?"</item>
+		<item quantity="other">"Izbrišem izbrane predmete?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Deli z dr."</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Izbrisano"</string>
+	<!---->
+	<string name="undo">"Razveljavi"</string>
+	<!---->
+	<string name="details">"Podrobnosti"</string>
+	<!---->
+	<string name="close">"Zapri"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Pokaži na zemljevidu"</string>
+	<!---->
+	<string name="rotate_left">"Zasukaj levo"</string>
+	<!---->
+	<string name="rotate_right">"Zasukaj desno"</string>
+	<!---->
+	<string name="edit">"Uredi"</string>
+	<!---->
+	<string name="crop_action">"Obreži"</string>
+	<!---->
+	<string name="trim_action">"Obreži"</string>
+	<!---->
+	<string name="set_as">"Nastavi kot"</string>
+	<!---->
+	<string name="video_err">"Videoposnetka ni mogoče predvajati."</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Naslov"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Ura"</string>
+	<!---->
+	<string name="location">"Lokacija"</string>
+	<!---->
+	<string name="path">"Pot"</string>
+	<!---->
+	<string name="width">"Širina"</string>
+	<!---->
+	<string name="height">"Višina"</string>
+	<!---->
+	<string name="orientation">"Usmerjenost"</string>
+	<!---->
+	<string name="duration">"Trajanje"</string>
+	<!---->
+	<string name="mimetype">"Vrsta razširitve MIME"</string>
+	<!---->
+	<string name="file_size">"Velikost datoteke"</string>
+	<!---->
+	<string name="maker">"Izdelovalec"</string>
+	<!---->
+	<string name="model">"Model"</string>
+	<!---->
+	<string name="flash">"Bliskavica"</string>
+	<!---->
+	<string name="aperture">"Zaslonka"</string>
+	<!---->
+	<string name="focal_length">"Gorišč. razd."</string>
+	<!---->
+	<string name="white_balance">"Nastavitev beline"</string>
+	<!---->
+	<string name="exposure_time">"Čas osvetlitve"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Ročno"</string>
+	<!---->
+	<string name="auto">"Samodejno"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Brez bliskav."</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Prosimo, počakajte."</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Napaka kamere"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Ni mogoče vzpostaviti povezave s fotoaparatom."</string>
+	<!---->
+	<string name="camera_disabled">"Fotoaparat je onemogočen zaradi varnostnih pravilnikov."</string>
+	<!---->
+	<string name="wait">"Počakajte trenutek, telefon se programira."</string>
+	<!---->
+	<string name="no_storage">"Pred uporabo kamere vstavite kartico SD."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Dostop do kartice SD ni mogoč."</string>
+	<!---->
+	<string name="time_lapse_title">"Snemanje s časovnim zamikom"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Izberite fotoaparat"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Zadnja stran"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Prednja stran"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Mesto shranjevanja"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Odštevanje časa"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 sekunda"</item>
+		<item quantity="other">"%d sekund"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Pisk med odštevanjem"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Pomnilnik"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefon"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Kartica SD"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Kakov. videa"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Nastavitve kamere"</string>
+	<!---->
+	<string name="pref_camera_settings">"Nastavitve kamere"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Nastavitve kamkorderja"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Velikost slike"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Velikost"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Mreža"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M slikovnih pik"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M slikovnih pik"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M slikovnih pik"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M slikovnih pik"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M slikovnih pik"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M slikovnih pik (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 M slikovnih pik"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 M slikovnih pik"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 M slikovnih pik"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Način izostritve"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Samodejno"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Infinity"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"SAMOD."</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Izključeno"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Način bliskavice"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"BLISKAVICA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Samodejno"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Vključeno"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Izključeno"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Svetilka"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"SAMODEJNA BLISKAVICA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"BLISKAVICA VKLOPLJENA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"BLISKAVICA IZKLOPLJENA"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Nastavitev beline"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Nastavitev beline"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Samodejno"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Žareče"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Dnevna svetloba"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescenčno"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Oblačno"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"SAMOD."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Žareče"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Dnevna svetloba"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Fluorescenčno"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Oblačno"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Način posnetka"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Samodejno"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Gibanje"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Noč"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Sončni zahod"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Zabava"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Nočni način"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Avto. prepoznavanje scene"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Optimizirajte nastavitve fotoaparata za kakovostnejše fotografije."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Nočni način"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Osvetlitev iz ozadja"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Avtom. izboljšanje prizora"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Optimizirajte nastavitve fotoaparata za kakovostnejše fotografije."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Šibka svetloba"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Osvetlitev iz ozadja"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Fokus hitrega premikanja obraza"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Ni mogoče izbrati v načinu prizora."</string>
+	<!---->
+	<string name="pref_exposure_title">"Osvetlitev"</string>
+	<!---->
+	<string name="pref_exposure_label">"Osvetlitev"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"V redu"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Na kartici SD zmanjkuje prostora. Spremenite nastavitev kakovosti ali izbrišite nekaj slik ali drugih datotek."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Na pomnilniku telefona vam zmanjkuje prostora. Spremenite nastavitev kakovosti ali izbrišite nekaj slik oziroma drugih datotek."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Dosežena omejitev velikosti."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Prehitro"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Priprava panorame"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Panorame ni mogoče shraniti."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Snemanje panorame"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Čakanje na prejšnjo panoramo"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Shranjujem..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Upodabljanje panorame"</string>
+	<!---->
+	<string name="tap_to_focus">"Dotaknite se za ostrenje."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Učinki"</string>
+	<!---->
+	<string name="effect_none">"Brez"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Stisni"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Velike oči"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Velika usta"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Majhna usta"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Velik nos"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Majhne oči"</string>
+	<!---->
+	<string name="effect_backdropper_space">"V vesolju"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Sončni zah."</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Vaš video"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Dotaknite se, da zajamete sliko med snemanjem"</string>
+	<!---->
+	<string name="video_recording_started">"Začelo se je snemanje videa."</string>
+	<!---->
+	<string name="video_recording_stopped">"Snemanje videa je končano."</string>
+	<!---->
+	<string name="clear_effects">"Počisti učinke"</string>
+	<!---->
+	<string name="effect_silly_faces">"NORČAVI OBRAZI"</string>
+	<!---->
+	<string name="effect_background">"OZADJE"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Gumb Meni"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Preklopi na fotoaparat"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Preklop na panoramo"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Pregled je končan."</string>
+	<!---->
+	<string name="accessibility_review_retake">"Ponovi pregled."</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"IZKLJ."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Izk."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 sekunda"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 sekunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 sekundi"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 sekunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 sekunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 sekunde"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 sekund"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 sekund"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 sekund"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 sekund"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 sekund"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 sekund"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 minuta"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 minuti"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minute"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 minut"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minut"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 ura"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 uri"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 ure"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 ure"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 ure"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 ur"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 ur"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 ur"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 ur"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 ur"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 ur"</string>
+	<!---->
+	<string name="time_lapse_seconds">"sekunde"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minute"</string>
+	<!---->
+	<string name="time_lapse_hours">"ur"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Nastavitev časovnega intervala"</string>
+	<!---->
+	<string name="set_time_interval_help">"Storitev preskoka časa je izključena. Vključite storitev, da nastavite časovni interval."</string>
+	<!---->
+	<string name="set_duration">"Nastavite trajanje v sekundah."</string>
+	<!---->
+	<string name="count_down_title_text">"Odštevanje do zajema fotografije"</string>
+	<!---->
+	<string name="remember_location_title">"Zabeležim lokacijo slike?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Označite slike in videoposnetke z lokacijo, kjer ste jih zajeli.\n\nDruge aplikacije lahko dostopajo do teh podatkov skupaj z vašimi zajetimi slikami."</string>
+	<!---->
+	<string name="remember_location_no">"Ne hvala."</string>
+	<!---->
+	<string name="remember_location_yes">"Da"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Shrani"</string>
+	<!---->
+	<string name="cannot_load_image">"Slike ni mogoče naložiti!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Nastavitev ozadja"</string>
+	<!---->
+	<string name="tips_done">"Dokončano"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Izvedite več o povečavi z enim prstom"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Dvakrat tapnite ter zdrsnite, da približate/oddaljite povečavo v Kameri"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS izklopljen"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Če želite označevati fotografije in videoposnetke z lokacijami, vključite funkcijo GPS in brezžična omrežja v razdelku Krajevne nastavitve."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Prekliči"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Nastavitve"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Obnovi nastavitve"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Ste prepričani, da želite ponastaviti privzeto?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Slika"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Nastavitve fotoaparata"</string>
+	<!---->
+	<string name="mode_menu_photo">"Samodejni način"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panorama"</string>
+	<!---->
+	<string name="mode_menu_manual">"Ročni način"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Hitri posnetki"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Skener"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Lepota obraza"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Lepota obraza"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Nastavitve"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Preobleka"</string>
+	<!---->
+	<string name="beauty_face_soften">"Toni:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Tekstura:"</string>
+	<!---->
+	<string name="asd_night">"Nočni način"</string>
+	<!---->
+	<string name="asd_backlight">"Način osvetljenost ozadja"</string>
+	<!---->
+	<string name="asd_auto">"Samodejni način"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galerija"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"auto"</string>
+	<!---->
+	<string name="disable_night_mode">"Nočni način onemogočen"</string>
+	<!---->
+	<string name="disable_back_light">"Osvetlitev iz ozadja onemogočena"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"s samodejno izostritvijo in zaznavo obraza (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"S hitro izostritvijo obraza bodo vaši trenutki vedno ostri."</string>
+	<!---->
+	<string name="about_two_asd">"Samodejno izboljšanje prizora"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Optimizirajte nastavitve fotoaparata za kakovostnejše fotografije."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Način hitrih zaporednih posnetkov ni mogoč, ko je vključeno samodejno izboljšanje prizora."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Lepota obraza"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Izboljšajte portrete tako, da nastavite obrazni ton in strukturo."</string>
+</resources>

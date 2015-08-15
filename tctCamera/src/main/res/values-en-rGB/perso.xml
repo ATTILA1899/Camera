@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Sat Jan 10 14:31:48 CST 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- If this value is customized in plf, reuse the auto-generated value  -->
+    <bool name="interpolation">false</bool>
+    <bool name="shutter_sound_visible">true</bool>
+    <bool name="shutter_sound_on">false</bool>
+    <bool name="no_find_flag">false</bool>
+</resources>

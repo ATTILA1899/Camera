@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"還原預設值"</string>
+	<!---->
+	<string name="pref_advanced_detail">"進階"</string>
+	<!---->
+	<string name="pref_back_detail">"返回"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"麥克風"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"按下快門即可開始拍攝全景照片"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"手機朝向擷取方向"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"無法產生全景照片。"</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"速度變慢"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"往上移動"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"往下移動"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"適中"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"運動"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"微型"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"美白功能"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"全景照片"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 度全景"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"表情（4 個）"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"微笑"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"極速連拍"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"手動"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"廣角鏡頭"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"篩選"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"美化"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"放慢動作"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"拼貼"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"夜景"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"低"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"高"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"精細"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"非常精細"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"一般"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"碼錶"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"關閉"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3秒"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5秒"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10秒"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 秒"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 秒"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 秒"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"大"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"中等畫質"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"小"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"正在儲存 <xliff:g example="10" id="numbers">%1$d</xliff:g> 張相片"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS 標籤"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS 標籤"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"畫質"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"快門聲音"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"全螢幕"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"大"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"中等畫質"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"小"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"請切換回正常模式以進行快速連拍。"</string>
+	<!---->
+	<string name="hdr_guide_capture">"HDR拍攝過程中，請不要移動設備"</string>
+	<!---->
+	<string name="tips_title">"連拍"</string>
+	<!---->
+	<string name="tips_content1">"長按快門按鈕"</string>
+	<!---->
+	<string name="tips_content2">"或音量按鍵進行極速連拍。"</string>
+	<!---->
+	<string name="expression_guide_capture">"按下快門按鈕以捕捉 4 個不同的表情。"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"儲存空間不足。自動停止錄音。"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"記憶體容量問題，請先關閉正在執行的應用程式。"</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR Code 掃描"</string>
+	<!---->
+	<string name="qrcode_title">"QR Code 掃描"</string>
+	<!---->
+	<string name="qrcode_type_url">"網址"</string>
+	<!---->
+	<string name="qrcode_type_geo">"地理位置"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi 配置"</string>
+	<!---->
+	<string name="qrcode_type_contact">"聯絡人"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"電話號碼"</string>
+	<!---->
+	<string name="qrcode_type_email">"電子郵件"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Google 日曆"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"文字"</string>
+	<!---->
+	<string name="qrcode_hint_url">"打開此連結可能會使用您手機的網路數據服務。"</string>
+	<!---->
+	<string name="qrcode_hint_geo">"打開此連結可能會使用您手機的網路數據服務。"</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"打開此連結將增加 Wi-Fi 配置的設定。"</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"打開該連結會在你的手機開啓記事本應用程式。"</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"從照片掃描"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"掃描記錄"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"設定"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"十字線"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"顯示十字毛髮，同時掃描"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Beep"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"掃描代碼再嗶一聲後"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"震動"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"掃描後的振動反饋"</string>
+	<!---->
+	<string name="qrcode_notfound">"找不到 QR 碼"</string>
+	<!---->
+	<string name="qrcode_share">"QR Code 分享"</string>
+	<!---->
+	<string name="qrcode_history_open">"開啟"</string>
+	<!---->
+	<string name="qrcode_history_share">"分享"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"全部清除"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"確定"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"取消"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"確認刪除"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"你要清除在掃描列表中的所有項目？"</string>
+	<!---->
+	<string name="qrcode_no_history">"沒有掃描記錄"</string>
+	<!---->
+	<string name="qrcode_scanning">"掃描QR Code 圖片..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"新增 Wi-Fi 設定"</string>
+	<!---->
+	<string name="setting_photo_title">"圖片設置"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"篩選"</string>
+	<!---->
+	<string name="liveeffect_none">"無"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"負片效果"</string>
+	<!---->
+	<string name="liveeffect_relief">"浮雕"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"魚眼"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"素描"</string>
+	<!---->
+	<string name="liveeffect_retro">"即時"</string>
+	<!---->
+	<string name="liveeffect_edge">"輪廓"</string>
+	<!---->
+	<string name="liveeffect_sepia">"轉接"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"進階設定"</string>
+	<!---->
+	<string name="manual_manu_title">"這是手動字串"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"快門在B門模式下保持開啟。\n 再次按下拍照按鈕關閉快門。"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"快門速度"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"焦點距離"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"手動模式關"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"是否將所有手動設定設為自動？"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"B門拍攝中"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"全面掌握您的相片。"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"請記住將其關閉。"</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"相機的光敏度。"</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"ISO 越高所需光線越少，但畫質會降低。"</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"如果相機選擇 ISO 或快門速度，則拍出的相片會更暗或更亮。"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"控制閃光燈的亮度。"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"手電筒始終開啟。"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"閃光燈僅在\n拍照時亮起。"</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"三種聚焦模式分別是自動、無限和微距。"</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"如果超過五米，則被歸類為\「無限\」。"</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"光線會根據不同的情況改變顏色。"</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"改變白平衡以進行控制。"</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"高動態範圍可保留陰影和突出顯示的細節，打造更富戲劇感的照片。"</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"拼貼可將四張圖片合併為一張。"</string>
+	<!---->
+	<string name="pref_camera_burst_label">"連拍"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"按住拍攝按鈕啟用連拍。"</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"掃描程式"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"向右滑動進入掃描模式。"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"掃描模式可進行掃描"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Bar 碼"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR 碼"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- 名片"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"閃光燈"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"返回"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"重設"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"視訊設定"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"是否要重設所有手動設定?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"HRD 拍攝過程中不要移動裝置。"</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"找不到可以處理這個動作的應用程式。"</string>
+	<!---->
+	<string name="battery_is_low">"電池電量偏低"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"已找到網站"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"已找到文本"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"已找到電話號碼"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"已找到電郵位址"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"找到聯絡人"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"已找到 Wi-Fi 設定"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"略過"</string>
+	<!---->
+	<string name="qrcode_button_open">"打開"</string>
+	<!---->
+	<string name="qrcode_button_copy">"複製"</string>
+	<!---->
+	<string name="qrcode_button_save">"儲存"</string>
+	<!---->
+	<string name="qrcode_button_call">"撥打"</string>
+	<!---->
+	<string name="qrcode_button_email">"電子郵件"</string>
+	<!---->
+	<string name="qrcode_button_connect">"連線"</string>
+</resources>

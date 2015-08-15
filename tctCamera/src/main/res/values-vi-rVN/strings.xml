@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Máy ảnh"</string>
+	<!---->
+	<string name="video_camera_label">"Máy quay phim"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Đặt ảnh làm"</string>
+	<!---->
+	<string name="delete">"Xóa"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Xóa mục được chọn?"</item>
+		<item quantity="other">"Xóa các mục được chọn?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Chia sẻ"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Đã xóa"</string>
+	<!---->
+	<string name="undo">"Hoàn tác"</string>
+	<!---->
+	<string name="details">"Chi tiết"</string>
+	<!---->
+	<string name="close">"Đóng"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Hiển thị trên bản đồ"</string>
+	<!---->
+	<string name="rotate_left">"Xoay trái"</string>
+	<!---->
+	<string name="rotate_right">"Xoay phải"</string>
+	<!---->
+	<string name="edit">"Chỉnh sửa"</string>
+	<!---->
+	<string name="crop_action">"Cắt"</string>
+	<!---->
+	<string name="trim_action">"Cắt"</string>
+	<!---->
+	<string name="set_as">"Đặt làm"</string>
+	<!---->
+	<string name="video_err">"Không thể phát video"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Tiêu đề"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Thời gian"</string>
+	<!---->
+	<string name="location">"Vị trí"</string>
+	<!---->
+	<string name="path">"Đường dẫn"</string>
+	<!---->
+	<string name="width">"Chiều rộng"</string>
+	<!---->
+	<string name="height">"Chiều cao"</string>
+	<!---->
+	<string name="orientation">"Định hướng"</string>
+	<!---->
+	<string name="duration">"Thời lượng"</string>
+	<!---->
+	<string name="mimetype">"Loại MIME"</string>
+	<!---->
+	<string name="file_size">"Kích thước tập tin"</string>
+	<!---->
+	<string name="maker">"Trình tạo"</string>
+	<!---->
+	<string name="model">"Mẫu"</string>
+	<!---->
+	<string name="flash">"Flash"</string>
+	<!---->
+	<string name="aperture">"Khẩu độ"</string>
+	<!---->
+	<string name="focal_length">"Tiêu cự"</string>
+	<!---->
+	<string name="white_balance">"Cân bằng trắng"</string>
+	<!---->
+	<string name="exposure_time">"Thời gian phơi sáng"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Thủ công"</string>
+	<!---->
+	<string name="auto">"Tự động"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Không có flash"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Vui lòng đợi!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Lỗi máy ảnh"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Không thể\ kết nối camera."</string>
+	<!---->
+	<string name="camera_disabled">"Máy ảnh đã bị tắt do chính sách bảo mật."</string>
+	<!---->
+	<string name="wait">"Vui lòng đợi..."</string>
+	<!---->
+	<string name="no_storage">"Hãy lắp thẻ nhớ trước khi sử dụng camera."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Không thể\ truy cập thẻ SD."</string>
+	<!---->
+	<string name="time_lapse_title">"Thời gian đã ghi"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Chọn máy ảnh"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Sau"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Trước"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Vị trí lưu trữ"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Bộ hẹn giờ đếm ngược"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 giây"</item>
+		<item quantity="other">"%d giây"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Kêu bíp khi đếm ngược"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Bộ nhớ"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Điện thoại"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Thẻ nhớ"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Chất lượng video"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Cài đặt camera"</string>
+	<!---->
+	<string name="pref_camera_settings">"Cài đặt Camera"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Cài đặt máy quay phim"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Cỡ ảnh"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Kích thước"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Kẻ ô"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M pixel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M pixel (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1.5 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1.3 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 M pixel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"C.độ lấy tiêu cự"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Tự động"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Tắt"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Macro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"TỰ ĐỘNG"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Tắt"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Macro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Chế độ flash"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"CHẾ ĐỘ FLASH"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Tự động"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Bật"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Tắt"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Đèn pin"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"ĐÈN FLASH TỰ ĐỘNG"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"ĐÈN FLASH BẬT"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"ĐÈN FLASH TẮT"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Cân bằng trắng"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Cân bằng trắng"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Tự động"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Sáng chói"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Ban ngày"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Huỳnh quang"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Nhiều mây"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"TỰ ĐỘNG"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Sáng chói"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Ban ngày"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Huỳnh quang"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Có mây"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Chế độ cảnh"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Tự động"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Hành động"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Đêm"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Hoàng hôn"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Tiệc"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Chế độ Ban đêm"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Tự dò khung cảnh"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Tối ưu hóa các cài đặt máy ảnh của bạn để có chất lượng ảnh tốt hơn."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Cảnh ban đêm"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Cảnh ngược sáng"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Nâng cao dò cảnh tự động"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Tối ưu hóa các cài đặt máy ảnh của bạn để có chất lượng ảnh tốt hơn."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Cảnh ánh sáng yếu"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Cảnh ngược sáng"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Lấy tiêu cự Nhanh ở Khuôn mặt"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Không thể chọn trong chế độ cảnh."</string>
+	<!---->
+	<string name="pref_exposure_title">"Độ phơi sáng"</string>
+	<!---->
+	<string name="pref_exposure_label">"Độ phơi sáng"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Thẻ nhớ của bạn sắp hết dung lượng. Thay đổi cài đặt chất lượng hoặc xóa một số ảnh hoặc tập tin khác."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Bộ nhớ của bạn sắp hết dung lượng. Thay đổi cài đặt chất lượng hoặc xóa một số ảnh hoặc tập tin khác."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Đã đạt đến giới hạn kích thước."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Quá nhanh"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Đang tạo xem trước toàn cảnh"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Không thể\ lưu toàn cảnh."</string>
+	<!---->
+	<string name="pano_dialog_title">"Toàn cảnh"</string>
+	<!---->
+	<string name="pano_capture_indication">"Đang chụp toàn cảnh"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Đang đợi ảnh toàn cảnh trước đó"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Đang lưu..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Đang hiển thị ảnh toàn cảnh"</string>
+	<!---->
+	<string name="tap_to_focus">"Chạm để lấy tiêu cự."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Hiệu ứng"</string>
+	<!---->
+	<string name="effect_none">"Không có"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Bóp méo"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Mắt lớn"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Mồm to"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Mồm nhỏ"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Mũi to"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Mắt nhỏ"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Không gian"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Hoàng hôn"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Video"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Chạm để chụp hình trong khi quay phim."</string>
+	<!---->
+	<string name="video_recording_started">"Quay video đã bắt đầu."</string>
+	<!---->
+	<string name="video_recording_stopped">"Quay video đã dừng lại."</string>
+	<!---->
+	<string name="clear_effects">"Xóa hiệu ứng"</string>
+	<!---->
+	<string name="effect_silly_faces">"MẶT XẤU"</string>
+	<!---->
+	<string name="effect_background">"MÀU NỀN"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Nút menu"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Chuyển sang ảnh"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Chuyển sang chế độ toàn cảnh"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Xem xét xong"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Xem xét lại"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"TẮT"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Tắt"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 giây"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 giây"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 phút"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 phút"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 giờ"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 giờ"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 giờ"</string>
+	<!---->
+	<string name="time_lapse_seconds">"giây"</string>
+	<!---->
+	<string name="time_lapse_minutes">"phút"</string>
+	<!---->
+	<string name="time_lapse_hours">"giờ"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Cài quãng thời gian"</string>
+	<!---->
+	<string name="set_time_interval_help">"Tính năng thời gian trôi qua đang tắt. Hãy bật lên để cài quãng thời gian."</string>
+	<!---->
+	<string name="set_duration">"Cài thời lượng theo giây"</string>
+	<!---->
+	<string name="count_down_title_text">"Đếm ngược để chụp ảnh"</string>
+	<!---->
+	<string name="remember_location_title">"Ghi nhớ vị trí ảnh chụp?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Gắn thẻ các ảnh chụp và video của bạn với các vị trí chúng được chụp.\n\nCác ứng dụng khác có thể truy cập thông tin này cùng với hình ảnh bạn đã lưu."</string>
+	<!---->
+	<string name="remember_location_no">"Không, xin cảm ơn."</string>
+	<!---->
+	<string name="remember_location_yes">"Có"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Lưu"</string>
+	<!---->
+	<string name="cannot_load_image">"Không thể tải hình!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Cài đặt hình nền"</string>
+	<!---->
+	<string name="tips_done">"Xong"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Tìm hiểu về thu phóng bằng một ngón tay"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Nhấn đúp và trượt để phóng to/thu nhỏ trong Camera"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS tắt"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Để gắn thẻ ảnh và video vào các vị trí, hãy bật GPS và mạng không dây trong Cài đặt Vị trí."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Hủy"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Cài đặt"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Khôi phục Cài đặt"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Bạn có chắc chắn muốn không phục tất cả các cài đặt mặc định này không?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Ảnh"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Cài đặt Camera"</string>
+	<!---->
+	<string name="mode_menu_photo">"Chế độ Tự động"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Toàn cảnh"</string>
+	<!---->
+	<string name="mode_menu_manual">"Chế độ Thủ công"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Thời gian đã ghi"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Máy quét"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Kh.mặt đẹp"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Kh.mặt Đẹp"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Cài đặt"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Giao diện"</string>
+	<!---->
+	<string name="beauty_face_soften">"Âm:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Kết cấu:"</string>
+	<!---->
+	<string name="asd_night">"Chế độ ban đêm"</string>
+	<!---->
+	<string name="asd_backlight">"Chế độ đèn nền"</string>
+	<!---->
+	<string name="asd_auto">"Chế độ tự động"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Thư viện"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"tđộng"</string>
+	<!---->
+	<string name="disable_night_mode">"Chế độ ban đêm đã bị tắt"</string>
+	<!---->
+	<string name="disable_back_light">"Chế độ ngược sáng đã bị tắt"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"với tự động lấy nét nhận diện khuôn mặt (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Lấy nét nhận diện khuôn mặt nhanh sẽ đảm bảo các khoảnh khắc của bạn sẽ luôn luôn rõ nét."</string>
+	<!---->
+	<string name="about_two_asd">"Nâng cao dò cảnh tự động"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Tối ưu hóa các cài đặt máy ảnh của bạn để có chất lượng ảnh tốt hơn."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Không có sẵn chế độ chụp liên tiếp khi bật nâng cao dò cảnh Tự động."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Khuôn mặt đẹp"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Làm các ảnh chân dung của bạn đẹp hơn bằng cách điều chỉnh tông màu và kết cấu khuôn mặt."</string>
+</resources>

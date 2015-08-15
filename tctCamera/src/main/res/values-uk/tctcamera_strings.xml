@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Відн. станд. знач."</string>
+	<!---->
+	<string name="pref_advanced_detail">"Додатково"</string>
+	<!---->
+	<string name="pref_back_detail">"Назад"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Записування звуку"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Натисніть кнопку затвора, щоб розпочати створення панорамних знімків."</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Перемістіть телефон у напрямку зйомки"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Не вдалося створити панораму."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Уповільнити"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Підняти"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Опустити"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Звичайний"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Спорт"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Мікро"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Ретуш. обличчя"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Панорамна зйомка"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Панорам.360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Вир.облич. (4)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Посмішка"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Серійна зйомка"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Вручну"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Ширококутн."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Фільтрув."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Макіяж"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Сповільнений рух об’єктів"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Колаж"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Ніч"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Низька"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Висока"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Гарна"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Супер"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Звичайн."</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Таймер"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"ВИМК."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 сек."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 сек."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 сек."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 с."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 с."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 с."</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Подвійний об’єм"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Великий"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Середня"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Маленьк."</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Збереження <xliff:g example="10" id="numbers">%1$d</xliff:g> фотографій"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Теги GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Тег GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Якість фото"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Звук затвора"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Повноекранний режим"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Великий"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Середня"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Маленький"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Повернутися до звичайного режиму для здійснення серійної зйомки."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Не переміщуйте пристрій під час зйомки HDR"</string>
+	<!---->
+	<string name="tips_title">"Безперервна зйомка"</string>
+	<!---->
+	<string name="tips_content1">"Натисніть та утримуйте кнопку затвора"</string>
+	<!---->
+	<string name="tips_content2">"або клавішу гучності для здійснення серійної зйомки."</string>
+	<!---->
+	<string name="expression_guide_capture">"Натисніть кнопку затвора, щоб створити фотографії 4 різних виразів обличчя"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Недостатньо пам’яті. Автоматичне зупинення записування."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Не вистачає пам’яті. Закрийте деякі запущені програми."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Сканування QR-кодів"</string>
+	<!---->
+	<string name="qrcode_title">"Сканування QR-кодів"</string>
+	<!---->
+	<string name="qrcode_type_url">"Веб-адреса"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Геолокація"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Конфігурація Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Контакт"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Номер телефону"</string>
+	<!---->
+	<string name="qrcode_type_email">"Ел.пошта"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Календар"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Текст"</string>
+	<!---->
+	<string name="qrcode_hint_url">"У разі відкриття посилання на мобільний телефон можуть передаватися дані з мережі."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"У разі відкриття посилання на мобільний телефон можуть передаватися дані з мережі."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Після відкриття посилання до установок буде додано конфігурацію Wi-Fi."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Посилання відкриється в програмі Note на мобільному телефоні."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Сканувати з фотографій"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Журнал сканування"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Установки"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Перехрестя"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Відобр. перехрестя під час сканування"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Сигнал"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Відтв. сигнал після завершення сканування"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Вібрація"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Відтв. вібрацію після завершення сканування"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR-код не знайдено"</string>
+	<!---->
+	<string name="qrcode_share">"Спільний доступ до QR-кодів"</string>
+	<!---->
+	<string name="qrcode_history_open">"Відкрити"</string>
+	<!---->
+	<string name="qrcode_history_share">"Спільний доступ"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Очистити все"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Скасувати"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Підтв. видалення"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Очистити всі об\’єкти у списку відсканованих зображень?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Немає історії сканування"</string>
+	<!---->
+	<string name="qrcode_scanning">"Сканування QR-коду в зображенні..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Конфігурацію Wi-Fi додано"</string>
+	<!---->
+	<string name="setting_photo_title">"Налаштування фото"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Фільтрув."</string>
+	<!---->
+	<string name="liveeffect_none">"Ні"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Чорний"</string>
+	<!---->
+	<string name="liveeffect_negative">"Негатив"</string>
+	<!---->
+	<string name="liveeffect_relief">"Рельєф"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Риб\'яче око"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Ескіз"</string>
+	<!---->
+	<string name="liveeffect_retro">"Миттєве"</string>
+	<!---->
+	<string name="liveeffect_edge">"Схема"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Передавання"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Розширені установки"</string>
+	<!---->
+	<string name="manual_manu_title">"Це ручна стрічка."</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Затвор залишається відкритим у режимі лампи спалаху.\n Натисніть кнопку зйомки знову, щоб закрити його."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Витрим.затвора"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Фокус. відстань"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Ручний режим вимк."</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Встановити усі ручні установки на автоматичний режим?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Зйомка із лампою спалаху."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Повний доступ до фотографій."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Просто вимкніть тут."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Чутливість камери до світла."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Вищий рівень ISO потребує менше світла, але забезпечує нижчу якість."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"У разі вибору ISO або витримки затвору камерою фотографії можуть бути світліші або темніші."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Керування яскравістю спалаху."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Ліхтар завжди ввімкнено."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Спалах вмикається лише\nпід час фотографування."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Існує три режиму фокусування – авто, нескінченність і макро."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Якщо відстань перевищує 5 метрів, групу буде визначено як «Нескінченність»."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Світло змінює колір залежно від ситуації."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Змініть баланс білого для управління під ситуацію."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Високий динамічний діапазон (HDR) дає змогу зберігати найменші деталі у напівтемряві, а також створювати яскраві фотографії з підсвічуванням."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Колаж дає змогу створювати 4 знімка й об’єднувати їх у одній фотографії."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Серійна зйомка"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Активація серійної зйомки за допомогою натискання та утримання клавіші зйомки."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Сканер"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Проведіть вправо, щоб увімкнути режим сканування."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Режим сканування дає змогу створювати скановані зображення"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Бар-коди"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR-коди"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Візитівки"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Спалах"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Назад"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Віднов."</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Налаштування відео"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Скинути налаштування камери вручну?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Не переміщуйте пристрій під час зйомки HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Не знайдено програму для обробки цієї дії."</string>
+	<!---->
+	<string name="battery_is_low">"Низький заряд акумулятора"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Знайдено веб-сайт"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Знайдено текст"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Знайдено номер телефону"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Знайдено адреса Email"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Знайдено контакт"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Знайдено налаштування Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ігнорувати"</string>
+	<!---->
+	<string name="qrcode_button_open">"Відкрити"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Копіювати"</string>
+	<!---->
+	<string name="qrcode_button_save">"Збер."</string>
+	<!---->
+	<string name="qrcode_button_call">"Виклик"</string>
+	<!---->
+	<string name="qrcode_button_email">"Email"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Підключити"</string>
+</resources>

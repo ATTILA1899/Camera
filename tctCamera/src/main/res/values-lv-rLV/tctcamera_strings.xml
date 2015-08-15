@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Atiestatīt rūpnīcas iestatījumus"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Papildu"</string>
+	<!---->
+	<string name="pref_back_detail">"Atpakaļ"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Skaņas ierakstīšana"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Nospiediet aizvara pogu, lai sāktu panorāmas uzņemšanu"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Virziet ierīci uzņemšanas virzienā"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Nevarēja izveidot panorāmu."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Palēnināt"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Pārvietot uz augšu"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Pārvietot uz leju"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Parasts"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sports"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Pievilcīga seja"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorāma"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Sejas izteiksme (4 uzņēmumi)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Smaids"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Nepārtrauktā uzņemšana"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuāli"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Platleņķa"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtrs"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Grims"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Lēna kustība"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kolāža"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Nakts"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Zema"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Augsts"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Augsta"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Vissmalk."</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Parasts"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Taimeris"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"Izsl."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 sek."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sekundes"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sekundes"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sekundes"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Īpaši liels"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Liels"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Vidējs"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Mazs"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Tiek saglabāti attēli (<xliff:g example="10" id="numbers">%1$d</xliff:g>)"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS atzīmju pievienošana"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS atzīme"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Attēla kvalitāte"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Aizvara skaņa"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Pilnekrāna režīms"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Liels"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Vidējs"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Mazs"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Lai veiktu daudzkadru uzņemšanu, lūdzu, pārslēdziet ierīci atpakaļ parastajā režīmā."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Nekustiniet ierīci, veicot uzņemšanu HDR režīmā"</string>
+	<!---->
+	<string name="tips_title">"Nepārtraukta uzņemšana"</string>
+	<!---->
+	<string name="tips_content1">"Turiet nospiestu aizvara pogu"</string>
+	<!---->
+	<string name="tips_content2">"vai skaļuma regulēšanas pogu, lai aktivizētu nepārtrauktās uzņemšanas režīmu."</string>
+	<!---->
+	<string name="expression_guide_capture">"Nospiediet aizvara pogu, lai uzņemtu attēlus ar 4 dažādām sejas izteiksmēm"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Maz atmiņas. Automātiska ierakstīšanas pārtraukšana."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Atmiņā nav vietas. Lūdzu, vispirms aizveriet dažas lietotnes."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Skenēt QR kodu"</string>
+	<!---->
+	<string name="qrcode_title">"Skenēt QR kodu"</string>
+	<!---->
+	<string name="qrcode_type_url">"Tīmekļa adrese"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Ģeogrāfiskā atrašanās vieta"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi tīkla konfigurēšana"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontaktpersona"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Tālruņa numurs"</string>
+	<!---->
+	<string name="qrcode_type_email">"Sūtīt e-pasta ziņojumu"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalendārs"</string>
+	<!---->
+	<string name="qrcode_type_sms">"Īsziņa"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Teksts"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Atverot saiti, var tikt patērēti mobilā tālruņa tīkla dati."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Atverot saiti, var tikt patērēti mobilā tālruņa tīkla dati."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Atverot saiti, iestatījumiem tiks pievienota Wi-Fi konfigurācija."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Atverot saiti, mobilajā tālrunī tiks atvērta lietotne Note."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Skenēt fotoattēlos"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Skenēšanas vēsture"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Iestatījumi"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Tēmēkļi"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Skenēšanas laikā rādīt tēmēkļus"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Pīkstiens"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Atskaņot pīkstienu, kad kods tiek noskenēts"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibrē"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Aktivizēt atbildes vibrāciju pēc skenēšanas"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR kods netika atrasts"</string>
+	<!---->
+	<string name="qrcode_share">"QR koda kopīgošana"</string>
+	<!---->
+	<string name="qrcode_history_open">"Nav"</string>
+	<!---->
+	<string name="qrcode_history_share">"Kopīgot"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Notīrīt visu"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"Labi"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Atcelt"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Apstiprināt dzēšanu"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Vai vēlaties notīrīt visus vienumus skenēšanas rezultātu sarakstā?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Nav skenēšanas vēstures"</string>
+	<!---->
+	<string name="qrcode_scanning">"Notiek attēlā ietvertā QR koda skenēšana..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Pievienota Wi-Fi konfigurācija"</string>
+	<!---->
+	<string name="setting_photo_title">"Fotoattēlu iestatījumi"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtrs"</string>
+	<!---->
+	<string name="liveeffect_none">"Nav"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Melns"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatīvs"</string>
+	<!---->
+	<string name="liveeffect_relief">"Atbrīvot"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Platleņķa obj."</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Uzmetums"</string>
+	<!---->
+	<string name="liveeffect_retro">"Tūlītējs"</string>
+	<!---->
+	<string name="liveeffect_edge">"Kontūra"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Pārsūtīt"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Bluetooth papildu iestatījumi"</string>
+	<!---->
+	<string name="manual_manu_title">"Šī ir manuāla virkne"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Spuldzītes režīmā aizvars netiek aizvērts.\n Lai aizvērtu aizvaru, vēlreiz nospiediet uzņemšanas pogu."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Aizvara darbības ātrums"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fokusa attālums"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Manuālais režīms izslēgts"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Vai atiestatīt manuālo režīmu visiem manuālajiem iestatījumiem?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Uzņemšanas spuldzītes režīmā."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Pilnībā pārvaldiet savus fotoattēlus"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Neaizmirstiet to izslēgt šeit."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kamerai ir iestatīts pārāk augsts jutības līmenis."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Jo augstāka ir ISO vērtība, jo mazāk gaismas nepieciešams, tomēr attēli tiek uzņemti ar zemāku kvalitāti."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Ja kamera automātiski izvēlas aizvara darbības ātrumu vai ISO vērtību, attēli var tikt uzņemti gaišāki vai tumšāki."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Pārvaldiet zibspuldzes spilgtumu."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Zibspuldzes lampa vienmēr ir ieslēgta."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Zibspuldze iedegas fotoattēla \nuzņemšanas laikā."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Ir pieejami šādi trīs fokusa režīmi: Automātiskais, Neierobežots un Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Ja attālums ir lielāks par pieciem metriem, tiek pievienots grupai \'Neierobežots\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Atkarībā no situācijas tiek mainīta gaismas krāsa."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Lai pārvaldītu, mainiet baltās krāsas balansa iestatījumu."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Iestatot augstu dinamisko diapazonu, tiek saglabāta tumšo un gaišo apgabalu detalizētība, tādējādi varat izveidot māksliniecisku fotoattēlu."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Kolāžas režīmā tiek uzņemti četri fotoattēli, kas pēc tam tiek apvienoti vienā attēlā."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Nepārtrauktā uzņemšana"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktivizējiet nepārtrauktās uzņemšanas režīmu, nospiežot uzņemšanas pogu un turot to nospiestu."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skeneris"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Lai aktivizētu skenēšanas režīmu, velciet pa labi."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Skenēšanas režīmā var skenēt tālāk norādītos vienumus."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Svītrkodi"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR kodi"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Vizītkartes"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Zibspuldze"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Atpakaļ"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Atiestatīt"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Video iestatījumi"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Vai atiestatīt visus manuālos iestatījumus?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Nekustiniet ierīci, veicot uzņemšanu HDR režīmā."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Netika atrasta neviena lietojumprogramma, kas varētu veikt šo darbību."</string>
+	<!---->
+	<string name="battery_is_low">"Zems akumulatora enerģijas līmenis"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Atrasta vietne."</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Atrasts teksts."</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Atrasts tālruņa numurs."</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Atrasta e-pasta adrese."</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Atrasta kontaktpersona."</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Atrasti Wi-Fi iestatījumi."</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignorēt"</string>
+	<!---->
+	<string name="qrcode_button_open">"Atvērt"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopēt"</string>
+	<!---->
+	<string name="qrcode_button_save">"Saglabāt"</string>
+	<!---->
+	<string name="qrcode_button_call">"Zvanīt"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-pasts"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Izveidot savienojumu"</string>
+</resources>

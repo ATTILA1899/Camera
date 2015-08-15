@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kamera"</string>
+	<!---->
+	<string name="video_camera_label">"Camcorder"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Resmi farklı ayarla"</string>
+	<!---->
+	<string name="delete">"Sil"</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Seçili öğe silinsin mi?"</item>
+		<item quantity="other">"Seçili öğeler silinsin mi?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Paylaş"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Silindi"</string>
+	<!---->
+	<string name="undo">"Geri Al"</string>
+	<!---->
+	<string name="details">"Ayrıntılar"</string>
+	<!---->
+	<string name="close">"Kapat"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Haritada göster"</string>
+	<!---->
+	<string name="rotate_left">"Sola döndür"</string>
+	<!---->
+	<string name="rotate_right">"Sağa döndür"</string>
+	<!---->
+	<string name="edit">"Düzenle"</string>
+	<!---->
+	<string name="crop_action">"Kırp"</string>
+	<!---->
+	<string name="trim_action">"Kırp"</string>
+	<!---->
+	<string name="set_as">"Farklı ayarla"</string>
+	<!---->
+	<string name="video_err">"Video oynatılamıyor"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Başlık"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Saat"</string>
+	<!---->
+	<string name="location">"Konum"</string>
+	<!---->
+	<string name="path">"Yol"</string>
+	<!---->
+	<string name="width">"Genişlik"</string>
+	<!---->
+	<string name="height">"Yükseklik"</string>
+	<!---->
+	<string name="orientation">"Yön"</string>
+	<!---->
+	<string name="duration">"Süre"</string>
+	<!---->
+	<string name="mimetype">"MIME türü"</string>
+	<!---->
+	<string name="file_size">"Dosya boyutu"</string>
+	<!---->
+	<string name="maker">"Yapımcı"</string>
+	<!---->
+	<string name="model">"Model"</string>
+	<!---->
+	<string name="flash">"Flaş"</string>
+	<!---->
+	<string name="aperture">"Diyafram"</string>
+	<!---->
+	<string name="focal_length">"Odak Uzaklığı"</string>
+	<!---->
+	<string name="white_balance">"Beyaz dengesi"</string>
+	<!---->
+	<string name="exposure_time">"Pozlama süresi"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Manuel"</string>
+	<!---->
+	<string name="auto">"Otomatik"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Flaş yok"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Lütfen bekleyin!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Kamera hatası"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Kamera ile bağlantı kurulamıyor."</string>
+	<!---->
+	<string name="camera_disabled">"Kamera, güvenlik politikaları nedeniyle devre dışı bırakıldı."</string>
+	<!---->
+	<string name="wait">"Lütfen bekleyin..."</string>
+	<!---->
+	<string name="no_storage">"Kamerayı kullanmadan önce SD kartı takın."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"无法访问 SD 卡。"</string>
+	<!---->
+	<string name="time_lapse_title">"Zaman atlamalı kayıt"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Kamera seç"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Geri"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Ön"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"存储位置"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Gerisayım zamanlayıcısı"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 saniye"</item>
+		<item quantity="other">"%d saniye"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Gerisayım sırasında bip sesi"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Depolama"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefon"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD Kart"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Video kalitesi"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Kamera ayarları"</string>
+	<!---->
+	<string name="pref_camera_settings">"Kamera Ayarları"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Camcorder ayarları"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Resim boyutu"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Boyut"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Izgara"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M piksel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M piksel (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 M piksel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 M piksel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Fokus modu"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Oto."</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Kapalı"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"OTOMATİK"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Kapalı"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makro"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Flaş modu"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"FLAŞ MODU"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Oto."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Açık"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Kapalı"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Fener"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"FLAŞ OTO."</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"FLAŞ AÇIK"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"FLAŞ KAPALI"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Beyaz dengesi"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Beyaz dengesi"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Oto."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Oto."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Akkor ampul"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Gün ışığı"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Floresan"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Bulutlu"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"OTOMTK"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Akkor ampul"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Gün ışığı"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Floresan"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Bulutlu"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Sahne modu"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Oto."</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Eylem"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Gece"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Gün batımı"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Parti"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Gece Modu"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Otomatik Sahne Algılama"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Daha kaliteli fotoğraflar için kamera ayarlarınızı en iyi duruma getirir."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Gece görünümü"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Arka aydınlatmalı görünüm"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Oto. manzara iyileştirme"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Daha kaliteli fotoğraflar için kamera ayarlarınızı en iyi duruma getirir."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Düşük ışık görünümü"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Arkadan aydınlatmalı görünüm"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Hızlı Yüz Odaklama"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Sahne modunda seçilemez."</string>
+	<!---->
+	<string name="pref_exposure_title">"Pozlama"</string>
+	<!---->
+	<string name="pref_exposure_label">"Pozlama"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"Tamam"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"SD kartınızda boş alan azaldı. Kalite ayarını değiştirin veya bazı resimleri ya da diğer dosyaları silin."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Depolama biriminizde kullanılabilir alan azaldı. Kalite ayarını değiştirin veya bazı resimleri ya da diğer dosyaları dilin."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Boyut sınırına gelindi."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Çok hızlı"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Panorama hazırlanıyor"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Panorama kaydedilemedi."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panorama"</string>
+	<!---->
+	<string name="pano_capture_indication">"Panorama kaydediliyor"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Önceki panorama bekleniyor"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Kaydediliyor..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Panorama oluşturuluyor"</string>
+	<!---->
+	<string name="tap_to_focus">"Odaklamak için dokunun."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Efektler"</string>
+	<!---->
+	<string name="effect_none">"Hiçbiri"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Sıkıştır"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Büyük gözler"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Büyük ağız"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Küçük ağız"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Büyük burun"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Küçük gözler"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Uzayda"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Gün batımı"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Videonuz"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Kaydederken fotoğraf çekmek için dokunun."</string>
+	<!---->
+	<string name="video_recording_started">"Video kaydı başladı."</string>
+	<!---->
+	<string name="video_recording_stopped">"Video kaydı durdu."</string>
+	<!---->
+	<string name="clear_effects">"Efektleri temizle"</string>
+	<!---->
+	<string name="effect_silly_faces">"KOMİK SURATLAR"</string>
+	<!---->
+	<string name="effect_background">"ARKA PLAN"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Menü düğmesi"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Fotoğrafa geçiş yap"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Panorama moduna geç"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"İnceleme tamamlandı"</string>
+	<!---->
+	<string name="accessibility_review_retake">"İncelemeyi tekrar al"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"KAPALI"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Kpl."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 saniye"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 saniye"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 dakika"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 dakika"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 saat"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 saat"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 saat"</string>
+	<!---->
+	<string name="time_lapse_seconds">"saniye"</string>
+	<!---->
+	<string name="time_lapse_minutes">"dakika"</string>
+	<!---->
+	<string name="time_lapse_hours">"saat"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Zaman Aralığı Ayarla"</string>
+	<!---->
+	<string name="set_time_interval_help">"Zaman kaydırma özelliği kapalı Zaman aralığı ayarlamak için bunu açın."</string>
+	<!---->
+	<string name="set_duration">"Saniye olarak süreyi ayarlayın"</string>
+	<!---->
+	<string name="count_down_title_text">"Resim çekmek için geri sayılıyor"</string>
+	<!---->
+	<string name="remember_location_title">"Resim konumları hatırlansın mı?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Resimlerinizi ve videolarınızı çekildikleri yerlerle etiketleyin.\n\nDiğer uygulamalar kaydedilen resimlerinizle birlikte bu bilgilere erişebilir."</string>
+	<!---->
+	<string name="remember_location_no">"Hayır, teşekkürler."</string>
+	<!---->
+	<string name="remember_location_yes">"Evet"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Kaydet"</string>
+	<!---->
+	<string name="cannot_load_image">"Resim yüklenemiyor!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Duvar kağıdı ayarlanıyor"</string>
+	<!---->
+	<string name="tips_done">"Tamamlandı"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Tek parmaklı yakınlaştırma/uzaklaştırma hakkında bilgi alın"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Kamerayı yakınlaştırmak/uzaklaştırmak için iki kez dokunun ve kaydırın"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS kapalı"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Fotoğrafları ve videoları konumlarıyla etiketlemek için lütfen Konum Ayarları\'nda GPS ve kablosuz ağları açın."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"İptal"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Ayarlar"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Ayarları Geri Yükle"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Tüm varsayılanları geri yüklemek istediğinizden emin misiniz?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Fotoğraf"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Video"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Kamera Ayarları"</string>
+	<!---->
+	<string name="mode_menu_photo">"Otomatik Mod"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panorama"</string>
+	<!---->
+	<string name="mode_menu_manual">"Manuel Mod"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Zaman atlatma"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Tarayıcı"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Güzel yüz"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Güzel Yüz"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Ayarlar"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Dış görünüm"</string>
+	<!---->
+	<string name="beauty_face_soften">"Ton:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Özellik:"</string>
+	<!---->
+	<string name="asd_night">"Gece modu"</string>
+	<!---->
+	<string name="asd_backlight">"Arka aydınlatma modu"</string>
+	<!---->
+	<string name="asd_auto">"Otomatik Mod"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galeri"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"oto."</string>
+	<!---->
+	<string name="disable_night_mode">"Gece modu devre dışı"</string>
+	<!---->
+	<string name="disable_back_light">"Arka aydınlatma devre dışı"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"yüz algılama otomatik odaklamaya sahip (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Hızlı yüz algılama, fotoğraflarınızın daha net olmasını sağlar."</string>
+	<!---->
+	<string name="about_two_asd">"Otomatik manzara iyileştirme"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Daha kaliteli fotoğraflar için kamera ayarlarınızı en iyi duruma getirir."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Patlama modu, Otomatik görünüm iyileştirmesi açıkken kullanılamaz."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Güzel yüz"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Yüzünüzün tonunu ve dokusunu ayarlayarak portre fotoğraflarınızı iyileştirin."</string>
+</resources>

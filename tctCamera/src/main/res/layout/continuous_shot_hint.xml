@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- manual mode + -->
+    <ViewStub
+        android:id="@+id/viewstub_manual_mode_hint"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/manual_mode_hint"/>
+     <ViewStub
+        android:id="@+id/viewstub_exposure"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mmode_exposure_hint"/>
+     <ViewStub
+        android:id="@+id/viewstub_flash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mmode_flash_hint"/>
+     <ViewStub
+        android:id="@+id/viewstub_focusdistance"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mmode_focusdistance_hint"/>
+     <ViewStub
+        android:id="@+id/viewstub_iso"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mmode_iso_hint"/>
+     <ViewStub
+        android:id="@+id/viewstub_whitebalance"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mmode_whitebalance_hint"/>
+    <!-- manual mode - -->
+    <!-- hdr mode -->
+     <ViewStub
+        android:id="@+id/viewstub_hdr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mode_hdr_hint"/>
+     <!-- PR873260-lan.shan-001 Add begin -->
+     <!-- collage(expression4) mode -->
+     <ViewStub
+        android:id="@+id/viewstub_collage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mode_collage_hint"/>
+     <!-- PR873260-lan.shan-001 Add end -->
+     <!-- Burst Shooting -->
+      <ViewStub
+        android:id="@+id/viewstub_burstshooting"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mode_burstshooting_hint"/>
+      <!-- Scanner -->
+      <ViewStub
+        android:id="@+id/viewstub_scanner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/mode_scanner_hint"/>
+</RelativeLayout>

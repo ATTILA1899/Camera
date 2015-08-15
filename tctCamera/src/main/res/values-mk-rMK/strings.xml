@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Камера"</string>
+	<!---->
+	<string name="video_camera_label">"Камера"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Постави слика како"</string>
+	<!---->
+	<string name="delete">"Избр."</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Избриши ја избраната ставка?"</item>
+		<item quantity="other">"Избриши ги избраните ставки?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Сподели"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Избришано"</string>
+	<!---->
+	<string name="undo">"Врати назад"</string>
+	<!---->
+	<string name="details">"Детали"</string>
+	<!---->
+	<string name="close">"Затвори"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Прикажи на мапа"</string>
+	<!---->
+	<string name="rotate_left">"Ротир. лево"</string>
+	<!---->
+	<string name="rotate_right">"Рот.десно"</string>
+	<!---->
+	<string name="edit">"Измени"</string>
+	<!---->
+	<string name="crop_action">"Исечи"</string>
+	<!---->
+	<string name="trim_action">"Исечи"</string>
+	<!---->
+	<string name="set_as">"Постави како"</string>
+	<!---->
+	<string name="video_err">"Видеото не може да се пушти"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Наслов"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Време"</string>
+	<!---->
+	<string name="location">"Локација"</string>
+	<!---->
+	<string name="path">"Патека"</string>
+	<!---->
+	<string name="width">"Ширина"</string>
+	<!---->
+	<string name="height">"Висина"</string>
+	<!---->
+	<string name="orientation">"Насочување"</string>
+	<!---->
+	<string name="duration">"Траење"</string>
+	<!---->
+	<string name="mimetype">"MIME тип"</string>
+	<!---->
+	<string name="file_size">"Големина на датотека"</string>
+	<!---->
+	<string name="maker">"Автор"</string>
+	<!---->
+	<string name="model">"Модел"</string>
+	<!---->
+	<string name="flash">"Блиц"</string>
+	<!---->
+	<string name="aperture">"Отвори бленда"</string>
+	<!---->
+	<string name="focal_length">"Фокална должина"</string>
+	<!---->
+	<string name="white_balance">"Баланс бело"</string>
+	<!---->
+	<string name="exposure_time">"Време на експозиција"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Рачно"</string>
+	<!---->
+	<string name="auto">"Автоматски"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Без блиц"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Почекајте"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Грешка во камера"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Не може да се поврзе со камерата."</string>
+	<!---->
+	<string name="camera_disabled">"Камерата е оневозможена поради безбедносните правила."</string>
+	<!---->
+	<string name="wait">"Почекајте…"</string>
+	<!---->
+	<string name="no_storage">"Внеси SD картичка пред употреба на камерата."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Нема пристап до SD картичката."</string>
+	<!---->
+	<string name="time_lapse_title">"Снимање со временски интервал"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Избери камера"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Назад"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Напред"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Зачувај локација"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Тајмер за одбројување"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 секунда"</item>
+		<item quantity="other">"%d  секунди"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Ѕвони за време на одбројување"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Меморија"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Телефон"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD картичка"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Видео квалитет"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Подесување на фотоапарат"</string>
+	<!---->
+	<string name="pref_camera_settings">"Подесување на камера"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Подесување на камера"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Гол.на слики"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Големина"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Мрежа"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M пиксели"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M пиксели"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M пиксели"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M пиксели"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M пиксели"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M пиксели (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1.5 M пиксели"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1.3 M пиксели"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 мегапиксел"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Режим на фокусирање"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Авто."</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Искл."</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Макро"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"АВТОМАТСКИ"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Искл."</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Макро"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Режим на блиц"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"БЛИЦ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Автом."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Вкл."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Искл."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Батериска ламба"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"АВТОМАТСКИ БЛИЦ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"БЛИЦОТ Е ВКЛУЧЕН"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"БЛИЦОТ Е ИСКЛУЧЕН"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Баланс бело"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Баланс бело"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Автом."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Автом."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Вжарено светло"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Дневна светлина"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Флуоресцентно"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Облачно"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"Авто."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Вжарено светло"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Дневна светлина"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Флуоресцентно"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Облачно"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Режим на сцена"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Авто."</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Акција"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Ноќ"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Зајдисонце"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Забава"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Ноќен режим"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Детекција на авто-сцена"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Ги оптимизира подесувањата на камерата за подобар квалитет на фотографиите."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Слабо светло"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Позадинско светло"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Подобрување на авто-сце"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Ги подобрува подесувањата на камерата за подобар квалитет на фотографиите."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Сцена со слабо светло"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Позадинска сцена"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Фокус на брзо лице"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Ова не може да се избере кога е во режим сцена."</string>
+	<!---->
+	<string name="pref_exposure_title">"Експозиција"</string>
+	<!---->
+	<string name="pref_exposure_label">"Експозиција"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Нема простор на вашата SD картичка. Намалете го квалитетот или избришете некои слики или други датотеки."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Просторот во меморијата се намалува. Обидете се да ги промените подесувањата за квалитетот на вашите слики или избришете неколку слики или датотеки."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Максималната големина е достигната."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Пребрзо"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Подготовка на панорамата"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Не може да се зачува панорамата."</string>
+	<!---->
+	<string name="pano_dialog_title">"Панорама"</string>
+	<!---->
+	<string name="pano_capture_indication">"Снимање на панорама"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Се чека за претходна панорама"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Меморирање..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Зголемување на панорама"</string>
+	<!---->
+	<string name="tap_to_focus">"Допри за фокусиране."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Ефекти"</string>
+	<!---->
+	<string name="effect_none">"Нема"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Стисни"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Големи очи"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Голема уста"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Мала уста"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Голем нос"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Мали очи"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Во вселена"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Зајдисонце"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Ваше видео"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Допри за фотографирање во текот на снимањето."</string>
+	<!---->
+	<string name="video_recording_started">"Започна видео снимање."</string>
+	<!---->
+	<string name="video_recording_stopped">"Видео снимањето е запрено."</string>
+	<!---->
+	<string name="clear_effects">"Избриши ги ефектите"</string>
+	<!---->
+	<string name="effect_silly_faces">"СМЕШНИ ЛИЦА"</string>
+	<!---->
+	<string name="effect_background">"ПОЗАДИНА"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Копче за мени"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Префрли се на фотографија"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Замени во панорама"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Прегледот е завршен"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Повторен преглед"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"Исклучи"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Иск"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1.5 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2.5 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 секунди"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 секунди"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 минута"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1.5 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2.5 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 минути"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 минути"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 час"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2.5 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 часа"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 часа"</string>
+	<!---->
+	<string name="time_lapse_seconds">"секунди"</string>
+	<!---->
+	<string name="time_lapse_minutes">"минути"</string>
+	<!---->
+	<string name="time_lapse_hours">"часа"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Постави временски интервал"</string>
+	<!---->
+	<string name="set_time_interval_help">"Функцијата за одбројување на време е исклучена. Вклучете ја за да поставите временски интервал."</string>
+	<!---->
+	<string name="set_duration">"Постави траење во секунди"</string>
+	<!---->
+	<string name="count_down_title_text">"Одбројување до фотографирање"</string>
+	<!---->
+	<string name="remember_location_title">"Зачувај ја локацијата на фотографијата?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Означете ги своите фотографии и видео записи со локацијата каде тие се направени.\n\nДруги апликации можат да пристапат кон овие информации заедно со вашите зачувани слики."</string>
+	<!---->
+	<string name="remember_location_no">"Не, благодарам."</string>
+	<!---->
+	<string name="remember_location_yes">"Да"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Зачувај"</string>
+	<!---->
+	<string name="cannot_load_image">"Сликата не може да се вчита!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Подесување на позадина"</string>
+	<!---->
+	<string name="tips_done">"ОК"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Научете за зумирање со еден прст"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Допрете два пати и листајте за зумирање/одзумирање во Камерата"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS-от е исклучен"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"За ознака на фотографии и видео записи со нивните локации, вклучете го GPS-от и безжичните мрежи во подесување на локација."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Откажи"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Подесувања"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Врати подесувања"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Сигурно сакате да ги вратите сите зададени подесувања?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Фотографија"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Видео"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Подесување на камера"</string>
+	<!---->
+	<string name="mode_menu_photo">"Автом.режим"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Панорама"</string>
+	<!---->
+	<string name="mode_menu_manual">"Рачен режим"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Врем.интервал"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Скенер"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Убавина на лице"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Убавина на лица"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Подесувања"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Кожа"</string>
+	<!---->
+	<string name="beauty_face_soften">"Тон"</string>
+	<!---->
+	<string name="beauty_face_bright">"Текстура"</string>
+	<!---->
+	<string name="asd_night">"Ноќен режим"</string>
+	<!---->
+	<string name="asd_backlight">"Режим на позадинско осветлување"</string>
+	<!---->
+	<string name="asd_auto">"Автоматски режим"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Галерија"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"авт."</string>
+	<!---->
+	<string name="disable_night_mode">"Режимот на слабо светло е исклучен"</string>
+	<!---->
+	<string name="disable_back_light">"Позадинското светло е исклучено"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"со детекција на лице и авто-фокус (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Фокусот за брзо лице ќе ги подобри вашите моменти."</string>
+	<!---->
+	<string name="about_two_asd">"Подобрување на авто-сцена"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Ги оптимизира подесувањата на камерата за подобар квалитет на фотографиите."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Повеќекратниот режим е недостапен кога е вклучена опцијата за подобрување на авто-сцена."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Убавина на лице"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Подобрете ги вашите портрети преку прилагодување на тон на лицето и текстурата."</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Add by fei.gao for PR953178 add the state of selected -->
+  <item
+        android:state_enabled="true"
+        android:state_pressed="true"
+        android:state_selected="false"
+        android:drawable="@drawable/btn_shutter_panorama_prepare_pressed" />
+  <item
+        android:state_enabled="true"
+        android:state_selected="false"
+        android:drawable="@drawable/btn_shutter_panorama_prepare" /> 
+  <item
+        android:state_enabled="true"
+        android:state_pressed="true"
+        android:state_selected="true"
+        android:drawable="@drawable/btn_shutter_panorama_pressed" />
+  <item
+        android:state_enabled="true"
+        android:state_selected="true"
+        android:drawable="@drawable/btn_shutter_panorama_normal" />
+</selector>

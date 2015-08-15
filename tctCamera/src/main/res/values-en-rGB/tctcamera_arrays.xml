@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Sat Jan 10 14:31:48 CST 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="pref_camera_soundrecording_entryvalues" translatable="false">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_video_eis_entryvalues" translatable="false">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_video_limit_for_mms_entryvalues" translatable="false">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_selftimer_entryvalues" translatable="false">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+   <string-array name="pref_video_back_quality_entries" translatable="false">
+        <item>@string/pref_video_quality_entry_1080p</item>
+        <item>@string/pref_video_quality_entry_720p</item>
+        <item>@string/pref_video_quality_entry_480p</item>
+   </string-array>
+    <string-array name="pref_video_back_quality_entryvalues" translatable="false">
+        <!-- The integer value of CamcorderProfile.QUALITY_1080P -->
+        <item>6</item>
+        <!-- The integer value of CamcorderProfile.QUALITY_720P -->
+        <item>5</item>
+        <!-- The integer value of CamcorderProfile.QUALITY_480P -->
+        <item>4</item>
+    </string-array>
+   <string-array name="pref_video_front_quality_entries" translatable="false">
+        <item>@string/pref_video_quality_entry_vga</item>
+        <item>@string/pref_video_quality_entry_cif</item>
+   </string-array>
+    <string-array name="pref_video_front_quality_entryvalues" translatable="false">
+        <!-- The integer value of CamcorderProfile.QUALITY_480P -->
+        <item>10</item>
+        <!-- The integer value of CamcorderProfile.QUALITY_FWVGA -->
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_camera_selftimer_entries">
+        <item>@string/pref_camera_selftimer_entry_off</item>
+        <item>@string/pref_camera_selftimer_entry_5</item>
+        <item>@string/pref_camera_selftimer_entry_10</item>
+    </string-array>
+
+    <string-array name="pref_camera_picturesize_flag_entries" translatable="false">
+        <item>@string/pref_camera_picturesize_entry_one</item>
+        <item>@string/pref_camera_picturesize_entry_two</item>
+        <item>@string/pref_camera_picturesize_entry_three</item>
+        <item>@string/pref_camera_picturesize_entry_four</item>
+        <item>@string/pref_camera_picturesize_entry_five</item>
+        <item>@string/pref_camera_picturesize_entry_six</item>
+        <item>@string/pref_camera_picturesize_entry_seven</item>
+        <item>@string/pref_camera_picturesize_entry_eight</item>
+        <item>@string/pref_camera_picturesize_entry_nine</item>
+        <item>@string/pref_camera_picturesize_entry_ten</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_flag_entryvalues" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="pref_camera_picturesize_ratio_entries" translatable="false">
+        <item>@string/pref_camera_picturesize_ratio_entry_16_9</item>
+        <item>@string/pref_camera_picturesize_ratio_entry_4_3</item>
+    </string-array>
+
+    <string-array name="pref_camera_picturesize_ratio_entryvalues" translatable="false">
+        <item>1.7778</item>
+        <item>1.3333</item>
+    </string-array>
+
+    <string-array name="pref_camera_exposure_entryvalues">
+        <item>@string/pref_camera_exposure_value_1</item>
+        <item>@string/pref_camera_exposure_value_2</item>
+        <item>@string/pref_camera_exposure_value_3</item>
+        <item>@string/pref_camera_exposure_value_4</item>
+        <item>@string/pref_camera_exposure_value_5</item>
+        <item>@string/pref_camera_exposure_value_6</item>
+        <item>@string/pref_camera_exposure_value_7</item>
+    </string-array>
+
+    <string-array name="pref_camera_exposure_entries">
+        <item>@string/pref_camera_exposure_1</item>
+        <item>@string/pref_camera_exposure_2</item>
+        <item>@string/pref_camera_exposure_3</item>
+        <item>@string/pref_camera_exposure_4</item>
+        <item>@string/pref_camera_exposure_5</item>
+        <item>@string/pref_camera_exposure_6</item>
+        <item>@string/pref_camera_exposure_7</item>
+    </string-array>
+
+    <array name="pref_auto_exposure_lock_entries" translatable="false">
+        <item>off</item>
+        <item>on</item>
+    </array>
+    <array name="pref_auto_exposure_lock_entryvalues" translatable="false">
+        <item>off</item>
+        <item>on</item>
+    </array>
+
+ <array name="tct_whitebalance_icons" translatable="false">
+     <item>@drawable/wb_incandescent</item>
+     <item>@drawable/wb_fluorescent</item>
+     <item>@drawable/wb_auto</item>
+     <item>@drawable/wb_daylight</item>
+     <item>@drawable/wb_cloudy</item>
+ </array>
+
+ <array name="tct_whitebalance_hightlight_icons" translatable="false">
+     <item>@drawable/wb_incandescent_normal</item>
+     <item>@drawable/wb_fluorescent_normal</item>
+     <item>@drawable/wb_auto_normal</item>
+     <item>@drawable/wb_daylight_normal</item>
+     <item>@drawable/wb_cloudy_normal</item>
+ </array>
+
+ <array name="tct_whitebalance_largeicons" translatable="false">
+     <item>@drawable/wb_incandescent</item>
+     <item>@drawable/wb_fluorescent</item>
+     <item>@drawable/wb_auto</item>
+     <item>@drawable/wb_daylight</item>
+     <item>@drawable/wb_cloudy</item>
+ </array>
+
+</resources>

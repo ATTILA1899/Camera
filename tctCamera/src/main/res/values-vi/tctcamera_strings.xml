@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Khôi phục mặc định"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Nâng cao"</string>
+	<!---->
+	<string name="pref_back_detail">"Quay lại"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Ghi âm"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Bấm nút chụp để bắt đầu chụp toàn cảnh"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Đưa điện thoại về phía hướng bạn chụp"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Không thể tạo ảnh toàn cảnh."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Hãy chậm rãi"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Di chuyển lên"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Di chuyển xuống"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Thường"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Thể thao"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Micrô"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Khuôn mặt đẹp"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Toàn cảnh"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Toàn cảnh360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Biểu hiện (4)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Smile"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Chụp liên tục"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Thủ công"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Góc Rộng"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Bộ lọc"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Trang điểm"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Hành động chậm"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Cắt dán"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Đêm"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Thấp"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Cao"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Mịn"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Siêu mịn"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"B.thường"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Hẹn giờ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"TẮT"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 giây"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 giây"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 giây"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 Giây"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 Giây"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 Giây"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Lớn"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Trung bình"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Nhỏ"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Đang lưu <xliff:g example="10" id="numbers">%1$d</xliff:g> ảnh"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Gắn thẻ GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Thẻ GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"C.lượng ảnh"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Âm chụp"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Toàn màn hình"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Lớn"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Trung bình"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Nhỏ"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Vui lòng quay lại chế độ bình thường để chụp liên tiếp."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Đừng di chuyển thiết bị trong quá trình chụp HDR"</string>
+	<!---->
+	<string name="tips_title">"Chụp liên tục"</string>
+	<!---->
+	<string name="tips_content1">"Bấm giữ nút chụp"</string>
+	<!---->
+	<string name="tips_content2">"hoặc phím âm lượng để chụp liên tiếp."</string>
+	<!---->
+	<string name="expression_guide_capture">"Bấm nút chụp để ghi lại 4 biểu hiện khác nhau"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Thiếu bộ nhớ. Tự động dừng ghi."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Hết bộ nhớ, trước tiên vui lòng đóng một số Ứng dụng đang chạy."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Quét mã QR"</string>
+	<!---->
+	<string name="qrcode_title">"Quét mã QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"Địa chỉ web"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Vị trí địa lý"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Cấu hình Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Liên hệ"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Số điện thoại"</string>
+	<!---->
+	<string name="qrcode_type_email">"Email"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Lịch"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"văn bản"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Mở liên kết có thể tiêu tốn dữ liệu mạng trên điện thoại di động của bạn."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Mở liên kết có thể tiêu tốn dữ liệu mạng trên điện thoại di động của bạn."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Mở liên kết sẽ thêm cấu hình Wi-Fi vào trong cài đặt."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Mở liên kết sẽ mở ứng dụng Ghi chú trong điện thoại di động của bạn."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Quét từ ảnh chụp"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Lịch sử quét"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Cài đặt"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Vạch chữ thập"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Hiện vạch chữ thập trong khi quét"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Tiếng bíp"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Tiếng bíp sau khi quét mã"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Rung"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Rung phản hồi sau khi quét"</string>
+	<!---->
+	<string name="qrcode_notfound">"Không tìm thấy mã QR"</string>
+	<!---->
+	<string name="qrcode_share">"Chia sẻ mã QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Mở"</string>
+	<!---->
+	<string name="qrcode_history_share">"Chia sẻ"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Xóa tất cả"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Hủy"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Xác nhận xóa"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Bạn có muốn xóa tất cả các mục trong danh sách quét?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Không có lịch sử quét"</string>
+	<!---->
+	<string name="qrcode_scanning">"Đang quét mã QR trong ảnh ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Đã thêm cấu hình Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"Cài đặt Ảnh"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Bộ lọc"</string>
+	<!---->
+	<string name="liveeffect_none">"Không có"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Phim đen"</string>
+	<!---->
+	<string name="liveeffect_negative">"Âm bản"</string>
+	<!---->
+	<string name="liveeffect_relief">"Chạm nổi"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Mắt cá"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Phác họa"</string>
+	<!---->
+	<string name="liveeffect_retro">"Chốc lát"</string>
+	<!---->
+	<string name="liveeffect_edge">"Tóm lược"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Chuyển"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Cài đặt nâng cao"</string>
+	<!---->
+	<string name="manual_manu_title">"Đây là chuỗi bằng tay"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Màn trập vẫn mở trong chế độ bóng đèn.\n Nhấn nút chụp lần nữa để đóng màn trập."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Tốc độ chụp"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Khoảng cách lấy nét"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Chế độ thủ công đang tắt"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Đặt tất cả các cài đặt thủ công thành tự động?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Chụp chế độ bóng đèn."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Kiểm soát hoàn toàn ảnh của bạn."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Chỉ cần nhớ tắt ở đây."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Độ nhạy của máy ảnh với ánh sáng."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"ISO cao hơn đòi hỏi ít ánh sáng hơn, nhưng chất lượng giảm."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Nếu máy ảnh chọn ISO hay tốc độ cửa trập cho bạn, điều này sẽ làm ảnh của bạn tối hơn hoặc sáng hơn."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Điều khiển độ sáng của đèn flash."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Đèn pin luôn bật."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Đèn flash chỉ phát sáng khi\nbạn chụp ảnh."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Ba chế độ lấy nét là Auto (Tự động), Infinity (Vô cực) và Macro (Cận cảnh) ."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Nếu quá năm mét, cái này được nhóm thành \'vô cực\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Ánh sáng thay đổi màu sắc tùy thuộc vào tình huống."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Thay đổi độ cân bằng trắng để điều chỉnh cái này."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"High Dynamic Range (Phạm vi Động Cao) giúp giữ được chi tiết trong bóng và phần tô sáng, tạo ra hình ảnh tuyệt đẹp."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Chế độ cắt dán sẽ chụp bốn bức ảnh và kết hợp chúng thành một ảnh duy nhất."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Chụp Liên tiếp"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Kích hoạt chế độ chụp liên tục bằng cách nhấn giữ nút chụp."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Máy quét"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Vuốt sang phải để vào chế độ Quét."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Chế độ Quét có thể quét"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Mã vạch"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- Mã QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Danh thiếp"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flash"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Quay lại"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Đặt lại"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Cài đặt Video"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Bạn có muốn cài đặt lại tất cả cài đặt bằng tay không?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Đừng di chuyển thiết bị trong quá trình chụp HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Không tìm thấy ứng dụng nào để xử lý tác vụ này."</string>
+	<!---->
+	<string name="battery_is_low">"Pin yếu"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Đã tìm thấy trang web"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Đã tìm thấy văn bản"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Đã tìm thấy số điện thoại"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Đã tìm thấy địa chỉ email"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Đã tìm thấy liên hệ"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Đã tìm thấy cài đặt Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Bỏ qua"</string>
+	<!---->
+	<string name="qrcode_button_open">"Mở"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Sao chép"</string>
+	<!---->
+	<string name="qrcode_button_save">"Lưu"</string>
+	<!---->
+	<string name="qrcode_button_call">"Gọi"</string>
+	<!---->
+	<string name="qrcode_button_email">"Email"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Kết nối"</string>
+</resources>

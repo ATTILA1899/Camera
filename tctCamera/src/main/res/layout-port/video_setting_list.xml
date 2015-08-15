@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- android:layout_width="@dimen/setting_mode_picker_width" -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mode_picker_visible"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:orientation="vertical"
+    android:visibility="gone" >
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_marginTop="60dp"
+        android:layout_height="12dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/video_setting_title_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@drawable/setting_title_arrow_port"/>
+    </LinearLayout>
+
+    <com.android.camera.ui.RotateLayout
+        android:id="@+id/mode_picker_rota"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:splitMotionEvents="false" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/setting_menu_title"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:background="@drawable/setting_menu_titlebg"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/setting_video_title"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+            <com.android.camera.ui.ModeSettingListLayout
+                android:id="@+id/modeSettingLayout"
+                android:layout_width="@dimen/setting_mode_picker_width"
+                android:layout_height="wrap_content" >
+
+                <com.android.camera.ui.ListViewForScrollView
+                    android:id="@+id/modeList"
+                    style="@style/ModeSettingItemList"
+                    android:layout_height="wrap_content" />
+            </com.android.camera.ui.ModeSettingListLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:background="@drawable/setting_onebtn_bg"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/video_setting_ok_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dialog_ok"
+                    android:background="@drawable/setting_one_btn_bg"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:textSize="12sp" >
+                </TextView>
+            </LinearLayout>
+        </LinearLayout>
+    </com.android.camera.ui.RotateLayout>
+</LinearLayout>

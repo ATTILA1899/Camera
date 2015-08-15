@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_width="72dp"
+    android:layout_height="60dp">
+
+    <com.android.camera.ui.RotateLayout
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+    >
+    <LinearLayout
+        android:id="@+id/root"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:scaleType="fitCenter" >
+
+        <ImageView
+            android:id="@+id/photo_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="34dp"
+            android:layout_marginTop="4dp"
+            android:scaleType="centerInside"
+            />
+        <TextView
+            android:id="@+id/description_view"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="12sp"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+    </com.android.camera.ui.RotateLayout>
+        <View
+            android:id="@+id/item_topline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/setting_item_text_color_light_color"
+            android:visibility="gone">
+        </View>
+        <View
+            android:id="@+id/item_bottomline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/setting_item_text_color_light_color"
+            android:visibility="gone">
+        </View>
+        <View
+            android:id="@+id/item_rightline"
+            android:layout_width="1dp"
+            android:layout_height="60dp"
+            android:layout_alignParentRight="true"
+            android:background="@color/setting_item_text_color_light_color"
+            android:visibility="gone">
+        </View>
+</RelativeLayout>

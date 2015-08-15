@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Thu Feb 12 17:35:31 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Återställ standardinställningar"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Avancerade inställningar"</string>
+	<!---->
+	<string name="pref_back_detail">"Tillbaka"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Ljudinspelning"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Tryck på slutaren för att börja ta panorama"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Flytta telefonen mot din bildtagningsriktning"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Det gick inte att generera panorama"</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Sakta ner"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Flytta upp"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Flytta ned"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Ansiktsskönhet"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 graders sikt"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Uttryck (4 bilder)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Leende"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Seriefotografering"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuellt"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Vidvinkel"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtrera"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Make-up"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Långsam rörelse"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Collage"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Natt"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Låg"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Hög"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Fin"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Superfin"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Tidtagare"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"AV"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 sek."</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Stor"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Mellan"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Liten"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Sparar <xliff:g example="10" id="numbers">%1$d</xliff:g> bilder"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS-taggning"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS-tagg"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Bildkvalitet"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Slutarljud"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Helskärm"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Stor"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Mellan"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Liten"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Byt tillbaka till normalt läge för att fota i seriebildsläge."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Flytta inte enheten under HDR-tagning"</string>
+	<!---->
+	<string name="tips_title">"Kontinuerlig bildtagning"</string>
+	<!---->
+	<string name="tips_content1">"Tryck och håll på slutarknappen"</string>
+	<!---->
+	<string name="tips_content2">"eller volymknappen för seriefotografering."</string>
+	<!---->
+	<string name="expression_guide_capture">"Tryck på slutarknappen för att 4 olika uttryck"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Lågt minne. Autostopp av inspelning."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Slut på minne. Stäng först några appar som körs."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-kodläsning"</string>
+	<!---->
+	<string name="qrcode_title">"QR-kodläsning"</string>
+	<!---->
+	<string name="qrcode_type_url">"Webbadress"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geografisk plats"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi-konfiguration"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontakt"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefonnummer"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-post"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalender"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Text"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Öppnas länken kan nätverksdata förbrukas i telefonen."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Öppnas länken kan nätverksdata förbrukas i telefonen."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Öppnas länken kommer Wi-Fi-konfigurationen läggas till i Inställningar."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Öppnas länken kommer appen Anteckningar att öppnas i telefonen."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Läs av från foton"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Avläsningshistorik"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Inställningar"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Sikte"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Visa sikte vid avläsning"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Pip"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Pip efter inläsning av kod"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibrera"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibrera feedback efter inläsning"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR-kod hittades inte"</string>
+	<!---->
+	<string name="qrcode_share">"QR-kodsdelning"</string>
+	<!---->
+	<string name="qrcode_history_open">"Öppna"</string>
+	<!---->
+	<string name="qrcode_history_share">"Dela"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Ta bort alla"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Avbryt"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Bekräfta borttag"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Vill du rensa alla poster i söklistan?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Ingen avläsningshistorik"</string>
+	<!---->
+	<string name="qrcode_scanning">"Läser av QR-koden på bilden ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi-konfigurationen har lagts till"</string>
+	<!---->
+	<string name="setting_photo_title">"Fotoinställningar"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtrera"</string>
+	<!---->
+	<string name="liveeffect_none">"Ingen"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negativ"</string>
+	<!---->
+	<string name="liveeffect_relief">"Relief"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Fisheye"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Skiss"</string>
+	<!---->
+	<string name="liveeffect_retro">"Direkt"</string>
+	<!---->
+	<string name="liveeffect_edge">"Disposition"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Överför"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Avancerade inställningar"</string>
+	<!---->
+	<string name="manual_manu_title">"Det här är en manuell sträng"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Slutaren är öppen i bulbläge.\n Tryck på fotoknappen igen för att stänga slutaren."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Slutarhastighet"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fokuslängd"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Avancerad"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Ställ in alla manuella inställningar på auto?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Bulb-fotografering."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Ta full kontroll över dina foton."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Kom bara ihåg att stänga av här."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kamerans ljuskänslighet."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Högre ISO behöver mindre ljus, men har sämre kvalitet."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Om din kamera väljer ISO eller slutarhastighet åt dig blir dina foton mörkare eller ljusare."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Styr hur ljusstark blixten är."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Ficklampan lyser hela tiden."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"閃光燈僅在\n拍照時亮起。"</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"De tre fokuslägena är Auto, Oändligt och Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Om det är längre än fem meter grupperas detta som \'oändligt\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Ljus ändrar färg beroende på omständigheten."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Ändra vitbalans för att kontrollera det här."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"High Dynamic Range behåller detaljer i skuggor och belysningar, vilket skapar en dramatisk bild."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Collage tar fyra bilder och kombinerar dem till en bild."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Kontinuerlig fotografering"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktivera kontinuerlig fotografering genom att trycka och hålla på fotoknappen."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skanner"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Svep åt höger för att öppna skanningsläge."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Skanningsläge kan skanna"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Streckkoder"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR-koder"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Visitkort"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flash"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Tillbaka"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Återställ"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Videoinställningar"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Vill du återställa alla \nmanuella inställningar?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Flytta inte enheten under HDR-tagning."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Ingen app som kan hantera åtgärden hittades."</string>
+</resources>

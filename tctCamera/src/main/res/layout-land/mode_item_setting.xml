@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="80dp">
+
+    <LinearLayout
+        android:id="@+id/root"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/settings_modegrid_height"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:scaleType="fitCenter" >
+
+        <ImageView
+            android:id="@+id/photo_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/description_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:textSize="12sp"
+            android:textColor="@color/setting_text_color"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/item_bottomline"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/root"
+        android:background="@color/setting_driver_color" >
+    </View>
+
+    <View
+        android:id="@+id/item_rightline"
+        android:layout_width="1dp"
+        android:layout_height="@dimen/settings_modegrid_height"
+        android:layout_alignRight="@id/root"
+        android:layout_alignParentRight="true"
+        android:background="@color/setting_driver_color" >
+    </View>
+
+</RelativeLayout>

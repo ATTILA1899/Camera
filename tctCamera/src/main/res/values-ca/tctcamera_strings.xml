@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Restablir valors predeterminats"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Paràm. avançats"</string>
+	<!---->
+	<string name="pref_back_detail">"Enrere"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Enregistrament de so"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Premeu el disparador per començar a capturar una panoràmica"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Moveu el telèfon cap a la direcció de captura"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"No s\'ha pogut generar la panoràmica."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Alentir"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Moure amunt"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Moure avall"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Esports"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Micro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Bellesa facial"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoràmica"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Panoràmica 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Expressió (4 instantànies)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Somriure"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Ràfegues"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manual"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Angle ample"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtre"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Maquillatge"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Càmera lenta"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Collage"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Nit"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Baixa"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Alta"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Precís"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Excel·lent"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Temporitzador"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"DESAC."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 seg."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 seg."</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 segons"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 segons"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 segons"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Extragran"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Gran"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Mitjana"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Petit"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Desant <xliff:g example="10" id="numbers">%1$d</xliff:g> imatges"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Etiquetatge de GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Etiqueta del GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Qualitat imatge"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"So disparador"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Pantalla completa"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Gran"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Mitjana"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Petit"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Torneu a establir el mode normal per captar amb ràfegues."</string>
+	<!---->
+	<string name="hdr_guide_capture">"No mogueu el dispositiu durant la captura HDR"</string>
+	<!---->
+	<string name="tips_title">"Instantània contínua"</string>
+	<!---->
+	<string name="tips_content1">"Manteniu premut el disparador"</string>
+	<!---->
+	<string name="tips_content2">"o la tecla de volum per capturar amb ràfegues."</string>
+	<!---->
+	<string name="expression_guide_capture">"Premeu el disparador per capturar 4 expressions diferents"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Queda poca memòria. La gravació s\'ha aturat automàticament."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"No queda memòria; primer cal que tanqueu alguna de les aplicacions que s\'estan executant."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Escaneig de codi QR"</string>
+	<!---->
+	<string name="qrcode_title">"Escaneig de codi QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"Adreça web"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Ubicació geogràfica"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Configuració de Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Contacte"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Número telèfon"</string>
+	<!---->
+	<string name="qrcode_type_email">"Correu"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Calendari"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"text"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Si feu clic en aquest enllaç, és possible que es consumeixin dades de xarxa del telèfon mòbil."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Si feu clic en aquest enllaç, és possible que es consumeixin dades de xarxa del telèfon mòbil."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Si feu clic en aquest enllaç, la configuració de Wi-Fi s\'afegirà als paràmetres."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Si feu clic en aquest enllaç, s\'obrirà l\'aplicació Nota al telèfon mòbil."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Escanejos de fotos"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Historial d\'escanejos"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Paràmetres"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Punt de mira"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Mostrar el punt de mira en escanejar"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Xiulet"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Xiulet després d\'escanejar un codi"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibració"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibració després d\'escanejar"</string>
+	<!---->
+	<string name="qrcode_notfound">"No s\'ha trobat el codi QR"</string>
+	<!---->
+	<string name="qrcode_share">"Compartir codi QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Obrir"</string>
+	<!---->
+	<string name="qrcode_history_share">"Compartir"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Netejar-ho tot"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"ACCEPTAR"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Anul·lar"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Confirmació de supressió"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Voleu esborrar tots els elements de la llista d\'escanejos?"</string>
+	<!---->
+	<string name="qrcode_no_history">"No hi ha historial d\'escanejos"</string>
+	<!---->
+	<string name="qrcode_scanning">"S\'està escanejant el codi QR..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"S\'ha afegit la configuració de Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"Paràmetres de les fotos"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtre"</string>
+	<!---->
+	<string name="liveeffect_none">"Cap"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Negre"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatiu"</string>
+	<!---->
+	<string name="liveeffect_relief">"Relleu"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Ull de peix"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Esbós"</string>
+	<!---->
+	<string name="liveeffect_retro">"Instantània"</string>
+	<!---->
+	<string name="liveeffect_edge">"Contorn"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Transferència"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Paràm. avançats"</string>
+	<!---->
+	<string name="manual_manu_title">"Aquesta és una cadena manual"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"El disparador queda obert en el mode de velocitat de bombeta.\n Torneu a prémer el botó de captura per tancar el disparador."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Velocitat del disparador"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Distància del focus"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Avançades"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Voleu definir tots els paràmetres manuals a automàtics?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Captura en mode bombeta."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Tingueu un control total de les vostres fotos."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Penseu a apagar-la aquí."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"La sensibilitat de la càmera a la llum."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Una ISO més alta necessita menys llum, però té menys qualitat."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Si la càmera tria l\'ISO o la velocitat del disparador, les fotos seran més fosques o més clares."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Controleu la lluminositat del flaix."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"La llanterna sempre està encesa."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"El flaix només s\'il·lumina quan feu una foto."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Els tres modes d\'enfocament són Automàtic, Infinit i Macro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Si hi ha més de cinc metres, s\'agrupa com a \'infinit\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"El llum canvia de color segons la situació."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Canvieu el balanç de blancs per controlar-ho."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"L\'interval dinàmic alt manté els detalls a les ombres i els elements destacats, i crea una foto espectacular."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"El collage fa quatre instantànies i les combina en una sola foto."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Ràfegues"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Activeu el mode de ràfega mantenint premut el botó de captura."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Escàner"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Feu lliscar el dit cap a la dreta per activar el mode Escaneig."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"El mode Escaneig permet escanejar."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Codis de barra"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- Codis QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Targetes comercials"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flaix"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Enrere"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Rein."</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Paràmetres de vídeo"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Voleu reinicialitzar tots els paràmetres manuals?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"No mogueu el dispositiu durant la captura HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"No s\'ha trobat cap aplicació que pugui processar aquesta acció."</string>
+	<!---->
+	<string name="battery_is_low">"Nivell de bateria baix"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Lloc web trobat"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Text trobat"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Número de telèfon trobat"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Adreça electrònica trobada"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Contacte trobat"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Paràmetres Wi-Fi trobats"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ignorar"</string>
+	<!---->
+	<string name="qrcode_button_open">"Obrir"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Copiar"</string>
+	<!---->
+	<string name="qrcode_button_save">"Desa"</string>
+	<!---->
+	<string name="qrcode_button_call">"Trucar"</string>
+	<!---->
+	<string name="qrcode_button_email">"Correu"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Connectar"</string>
+</resources>

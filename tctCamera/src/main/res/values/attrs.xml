@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <declare-styleable name="Theme.GalleryBase">
+        <attr name="listPreferredItemHeightSmalls" format="dimension" />
+        <attr name="switchStyles" format="reference" />
+    </declare-styleable>
+
+    <!-- Camera resources below -->
+
+    <declare-styleable name="CameraPreference">
+        <attr name="titles" format="string" />
+    </declare-styleable>
+    <declare-styleable name="ListPreference">
+        <attr name="key" format="string" />
+        <attr name="defaultValue" format="string|reference" />
+        <attr name="entryValues" format="reference" />
+        <attr name="entries" format="reference" />
+        <attr name="labelList" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="IconIndicator">
+        <attr name="icons" format="reference" />
+        <attr name="modes" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="IconListPreference">
+        <!-- If a preference does not have individual icons for each entry, it can has a single icon to represent it. -->
+        <attr name="singleIcon" format="reference" />
+        <attr name="icons" />
+        <attr name="highlighticons" format="reference"/>
+        <attr name="largeIcons" format="reference" />
+        <attr name="images" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="toggle_switcher">
+        <attr name="buttonOffSrc" format="color"/>
+        <attr name="buttonOnSrc"  format="color"/>
+        <attr name="onSrc" format="color"/>
+        <attr name="offSrc" format="color"/>
+        <attr name="defaultOn" format="boolean"/>
+    </declare-styleable>
+    
+ <declare-styleable name="CustomView">
+       <attr name = "picture" format = "string" />
+        <attr name = "text" format = "string" />
+        <attr name = "touchmethod" format = "string" />
+    </declare-styleable>   
+    
+ <!-- Add for polaroid -->
+  <declare-styleable name="FloatActionButton">
+        <attr name="colorPressed" format="color"/>
+        <attr name="colorNormal" format="color"/>
+        <attr name="icon" format="reference"/>
+        <attr name="size" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="AddFloatingActionButton">
+        <attr name="plusIconColor" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="FloatingActionsMenu">
+        <attr name="addButtonColorPressed" format="color"/>
+        <attr name="addButtonColorNormal" format="color"/>
+        <attr name="addButtonPlusIconColor" format="color"/>
+        <attr name="addButtonIsHorizontal" format="boolean"/>
+        <attr name="addButtonIcon" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="FloatingActionButton">
+        <attr name="fab_colorPressed" format="color"/>
+        <attr name="fab_colorNormal" format="color"/>
+        <attr name="fab_shadow" format="boolean"/>
+        <attr name="fab_type" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+    </declare-styleable>
+
+</resources>

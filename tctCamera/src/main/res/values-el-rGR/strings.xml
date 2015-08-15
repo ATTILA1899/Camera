@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Κάμερα"</string>
+	<!---->
+	<string name="video_camera_label">"Βιντεοκάμερα"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Ορισμός εικόνας ως"</string>
+	<!---->
+	<string name="delete">"Διαγρ."</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Να διαγραφεί το επιλεγμένο στοιχείο;"</item>
+		<item quantity="other">"Να διαγραφούν τα επιλεγμένα στοιχεία;"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Μοίρασμα"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Διαγράφηκε"</string>
+	<!---->
+	<string name="undo">"Αναίρεση"</string>
+	<!---->
+	<string name="details">"Λεπτομέρειες"</string>
+	<!---->
+	<string name="close">"Κλείσιμο"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Εμφάνιση στον χάρτη"</string>
+	<!---->
+	<string name="rotate_left">"Αριστερή περιστροφή"</string>
+	<!---->
+	<string name="rotate_right">"Δεξιά περιστροφή"</string>
+	<!---->
+	<string name="edit">"Επεξεργασία"</string>
+	<!---->
+	<string name="crop_action">"Περικοπή"</string>
+	<!---->
+	<string name="trim_action">"Περικοπή"</string>
+	<!---->
+	<string name="set_as">"Ορισμός ως"</string>
+	<!---->
+	<string name="video_err">"Δεν είναι δυνατή η αναπαραγωγή του βίντεο"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Τίτλος"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Ώρα"</string>
+	<!---->
+	<string name="location">"Τοποθεσία"</string>
+	<!---->
+	<string name="path">"Διαδρομή"</string>
+	<!---->
+	<string name="width">"Πλάτος"</string>
+	<!---->
+	<string name="height">"Ύψος"</string>
+	<!---->
+	<string name="orientation">"Προσανατολισμός"</string>
+	<!---->
+	<string name="duration">"Διάρκεια"</string>
+	<!---->
+	<string name="mimetype">"Τύπος MIME"</string>
+	<!---->
+	<string name="file_size">"Μέγεθος αρχείου"</string>
+	<!---->
+	<string name="maker">"Δημιουργός"</string>
+	<!---->
+	<string name="model">"Μοντέλο"</string>
+	<!---->
+	<string name="flash">"Φλας"</string>
+	<!---->
+	<string name="aperture">"Διάφραγμα"</string>
+	<!---->
+	<string name="focal_length">"Μήκος εστίασης"</string>
+	<!---->
+	<string name="white_balance">"Ισορροπία λευκού"</string>
+	<!---->
+	<string name="exposure_time">"Χρόνος έκθεσης"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Χειροκίνητος"</string>
+	<!---->
+	<string name="auto">"Αυτόματο"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Χωρίς φλας"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Περιμένετε!"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Σφάλμα κάμερας"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Δεν είναι δυνατή η σύνδεση στην κάμερα."</string>
+	<!---->
+	<string name="camera_disabled">"Η κάμερα έχει απενεργοποιηθεί λόγω των πολιτικών ασφαλείας."</string>
+	<!---->
+	<string name="wait">"Περιμένετε..."</string>
+	<!---->
+	<string name="no_storage">"Τοποθετήστε την κάρτα SD πριν χρησιμοποιήσετε την κάμερα."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Δεν ήταν δυνατή η πρόσβαση στην κάρτα SD."</string>
+	<!---->
+	<string name="time_lapse_title">"Εγγραφή παρέλευσης χρόνου"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Επιλογή κάμερας"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Πίσω"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Μπροστινή κάμερα"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Θέση αποθήκευσης"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Χρονόμετρο αντίστροφης μέτρησης"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 δευτερόλεπτο"</item>
+		<item quantity="other">"%d δευτερόλεπτα"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Ήχος κατά την αντίστροφη μέτρηση"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Θέση αποθήκ."</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Τηλέφωνο"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Κάρτα SD"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Ποιότ. βίντεο"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Ρυθμίσεις κάμερας"</string>
+	<!---->
+	<string name="pref_camera_settings">"Ρυθμίσεις κάμερας"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Ρυθμίσεις βιντεοκάμερας"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Μέγ. εικόνας"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Μέγεθος"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Πλέγμα"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 M pixel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 M pixel (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1.5 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1.3 M pixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 M pixel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Λειτ. εστίασης"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Αυτόματο"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Απεν."</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Μεγάλ."</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"ΑΥΤΟΜΑΤΗ"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Απεν."</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Μεγάλ."</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Λειτουργία Flash"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"ΛΕΙΤΟΥΡΓΙΑ ΦΛΑΣ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Αυτόματη"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Ενεργή"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Απεν."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Φακος"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"ΑΥΤΟΜΑΤΟ ΦΛΑΣ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"ΦΛΑΣ ΕΝΕΡΓΟ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"ΦΛΑΣ ΑΝΕΝΕΡΓΟ"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Ισορροπία λευκού"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Ισορροπία λευκού"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Αυτ."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Αυτόματο"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Φώτα πυρακτ."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Φως ημέρας"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Φώτα φθορισμού"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Συννεφιά"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"ΑΥΤΟΜΑΤΟ"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Φώτα πυρακτ."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Φως ημέρας"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Φώτα φθορισμού"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Νεφώσεις"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Λειτουργία σκηνής"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Αυτόματο"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Δράση"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Νύχτα"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Ηλιοβασίλεμα"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Πάρτυ"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Νυχτερινή λειτουργία"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Αυτόμ. Εντοπισμός Σκηνής"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Βελτιστοποιεί τις ρυθμίσεις της κάμερας για φωτογραφίες καλύτερης ποιότητας."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Νυχτερινή σκηνή"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Σκηνή με οπίσθιο φωτισμό"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Αυτόματη βελτίωση σκηνής"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Βελτιστοποιεί τις ρυθμίσεις της κάμερας για φωτογραφίες καλύτερης ποιότητας."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Σκηνή με χαμηλό φωτισμό"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Σκηνή με οπίσθιο φωτισμό"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Γρήγορη εστίαση σε πρόσωπο"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Δεν υπάρχει δυνατότητα επιλογής στη λειτουργία σκηνής."</string>
+	<!---->
+	<string name="pref_exposure_title">"Έκθεση"</string>
+	<!---->
+	<string name="pref_exposure_label">"Έκθεση"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"Ο διαθέσιμος χώρος στην κάρτα SD είναι ελάχιστος. Αλλάξτε τη ρύθμιση ποιότητας ή διαγράψτε κάποιες εικόνες ή άλλα αρχεία."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Ο χώρος αποθήκευσης κοντεύει να εξαντληθεί. Αλλάξτε τη ρύθμιση ποιότητας ή διαγράψτε ορισμένες εικόνες ή άλλα αρχεία."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Συμπληρώθηκε το όριο μεγέθους."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Πολύ γρήγορα"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Προετοιμασία πανοραμάτος"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Δεν ήταν δυνατή η αποθήκευση της πανοραμικής φωτογραφίας."</string>
+	<!---->
+	<string name="pano_dialog_title">"Πανόραμα"</string>
+	<!---->
+	<string name="pano_capture_indication">"Λήψη πανοράματος"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Αναμονή για προηγ. πανοραμική εικόνα"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Αποθήκευση..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Απόδοση πανοράματος"</string>
+	<!---->
+	<string name="tap_to_focus">"Πατήστε για εστίαση."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Εφέ"</string>
+	<!---->
+	<string name="effect_none">"Κανένα"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Συμπίεση"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Μεγ. μάτια"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Μεγ. στόμα"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Μικ. στόμα"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Μεγ. μύτη"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Μικρ. μάτια"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Στο διάστ."</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Ηλιοβασίλ."</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Το βίντ. σας"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Αγγίξτε για τη λήψη φωτογραφίας κατά την εγγραφή."</string>
+	<!---->
+	<string name="video_recording_started">"Η εγγραφή βίντεο ξεκίνησε."</string>
+	<!---->
+	<string name="video_recording_stopped">"Η εγγραφή βίντεο διακόπηκε."</string>
+	<!---->
+	<string name="clear_effects">"Διαγραφή εφέ"</string>
+	<!---->
+	<string name="effect_silly_faces">"ΑΣΤΕΙΑ ΠΡΟΣΩΠΑ"</string>
+	<!---->
+	<string name="effect_background">"ΦΟΝΤΟ"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Κουμπί μενού"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Μετάβαση σε φωτογραφία"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Μετάβαση σε πανόραμα"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Ο έλεγχος ολοκληρώθηκε"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Ο έλεγχος επαναλήφθηκε"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"OFF"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Off"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 δευτερόλεπτο"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1, 5 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 δευτ."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 δευτερόλεπτα"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 δευτερόλεπτα"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 λεπτό"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 λεπτά"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 λεπτά"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 ώρα"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 ώρες"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 ώρες"</string>
+	<!---->
+	<string name="time_lapse_seconds">"δευτερόλεπτα"</string>
+	<!---->
+	<string name="time_lapse_minutes">"λεπτά"</string>
+	<!---->
+	<string name="time_lapse_hours">"ώρες"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Ρύθμιση χρονικού διαστήματος"</string>
+	<!---->
+	<string name="set_time_interval_help">"Η λειτουργία παρέλευσης χρόνου είναι απενεργοποιημένη. Ενεργοποιήστε την για να ορίσετε ένα χρονικό διάστημα."</string>
+	<!---->
+	<string name="set_duration">"Ρυθμίστε τη διάρκεια σε δευτερόλεπτα"</string>
+	<!---->
+	<string name="count_down_title_text">"Αντίστροφη μέτρηση για τη λήψη φωτογραφίας"</string>
+	<!---->
+	<string name="remember_location_title">"Θυμάστε τα μέρη όπου τραβήξατε τις φωτογραφίες σας;"</string>
+	<!---->
+	<string name="remember_location_prompt">"Προσθέστε ετικέτες στις φωτογραφίες και τα βίντεό σας με τις τοποθεσίες όπου τραβήχτηκαν.\n\nΆλλες εφαρμογές θα έχουν πρόσβαση σε αυτές τις πληροφορίες σε συνδυασμό με τις αποθηκευμένες εικόνες σας."</string>
+	<!---->
+	<string name="remember_location_no">"Όχι, ευχαριστώ."</string>
+	<!---->
+	<string name="remember_location_yes">"Ναι"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Αποθήκευση"</string>
+	<!---->
+	<string name="cannot_load_image">"Δεν είναι δυνατή η φόρτωση της εικόνας!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Ορισμός ταπετσαρίας..."</string>
+	<!---->
+	<string name="tips_done">"Τέλος"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Περισσότερες πληροφορίες για το ζουμ με ένα δάκτυλο"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Κάντε διπλό πάτημα και σύρετε για να κάνετε μεγέθυνση ή σμίκρυνση στην Κάμερα"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS ανενεργό"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Κάντε tag σε φωτογραφίες και βίντεο με την τοποθεσία σας, παρακαλώ ενεργοποιήστε το GPS και τα ασύρματα δίκτυα στις ρυθμίσεις τοποθεσίας."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Ακύρωση"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Ρυθμίσεις"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Επαναφορά ρυθμίσεων"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Είστε βέβαιοι ότι θέλετε να γίνει επαναφορά όλων των προεπιλογών;"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Φωτογραφία"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Βίντεο"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Ρύθμιση κάμερας"</string>
+	<!---->
+	<string name="mode_menu_photo">"Αυτ. λειτουργία"</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Πανόραμα"</string>
+	<!---->
+	<string name="mode_menu_manual">"Χειρ. λειτουργία"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Παρέλ. χρόνου"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Σαρωτής"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Ομορφ. προσ."</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Όμορφο πρόσ."</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Ρυθμίσεις"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Δέρμα"</string>
+	<!---->
+	<string name="beauty_face_soften">"Τόνος:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Υφή:"</string>
+	<!---->
+	<string name="asd_night">"Λειτουργία νύχτας"</string>
+	<!---->
+	<string name="asd_backlight">"Λειτουργία οπίσθιου φωτισμού."</string>
+	<!---->
+	<string name="asd_auto">"Αυτόματη λειτουργία"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Συλλογή"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"αυτόμ."</string>
+	<!---->
+	<string name="disable_night_mode">"Η νυχτερινή λειτουργία απενεργοποιήθηκε"</string>
+	<!---->
+	<string name="disable_back_light">"Ο οπίσθιος φωτισμός απενεργοποιήθηκε"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"με αυτόματη εστίαση ανίχνευσης προσώπου (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Η γρήγορη εστίαση προσώπου θα διασφαλίσει ότι οι στιγμές σας είναι πάντα έντονες."</string>
+	<!---->
+	<string name="about_two_asd">"Αυτόματη βελτίωση σκηνής"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Βελτιστοποιεί τις ρυθμίσεις της κάμερας για φωτογραφίες καλύτερης ποιότητας."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Η λειτουργία ριπής δεν είναι διαθέσιμη όταν είναι ενεργοποιημένη η Αυτόματη βελτίωση σκηνής."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Όμορφα πρόσωπα"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Βελτιώστε τα πορτρέτα σας προσαρμόζοντας την απόχρωση και την υφή των προσώπων."</string>
+</resources>

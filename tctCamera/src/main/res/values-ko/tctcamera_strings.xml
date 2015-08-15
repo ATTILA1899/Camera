@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"기본값 복원"</string>
+	<!---->
+	<string name="pref_advanced_detail">"고급"</string>
+	<!---->
+	<string name="pref_back_detail">"뒤로"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!-- no translation found for pref_sound_recording_title -->
+	<skip />
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!-- no translation found for pref_video_eis_title -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!-- no translation found for panorama_guide_shutter -->
+	<skip />
+	<!-- no translation found for panorama_guide_toward_direction -->
+	<skip />
+	<!-- no translation found for pano_dialog_panorama_generate_failed -->
+	<skip />
+	<!-- no translation found for pano_slow_down_prompt -->
+	<skip />
+	<!---->
+	<string name="pano_move_up_prompt">"위로 이동"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"아래로 이동"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"보통"</string>
+	<!-- no translation found for pref_camera_capturemode_entry_sports -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_micro -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_facebeauty -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"파노라마"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_panor360 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"표정(4샷)"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_smile -->
+	<skip />
+	<!-- no translation found for pref_camera_burstshot_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"수동"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_wideangle -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"필터"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_makeup -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_slowmotion -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_collage -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"야경"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"낮음"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"높음"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"고급"</string>
+	<!-- no translation found for pref_video_quality_entry_superfine -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_normal">"보통"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"타이머"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"사용 안함"</string>
+	<!-- no translation found for pref_camera_selftimer_entry_3 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 초"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 초"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3초"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5초"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10초"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_xlarge -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"크게"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"보통"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"작게"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!-- no translation found for continuous_saving_pictures -->
+	<skip />
+	<!-- no translation found for pref_gps_tagging_title -->
+	<skip />
+	<!-- no translation found for pref_gps_tag_title -->
+	<skip />
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"사진 품질"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"셔터 소리"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_title -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_entry_best">"크게"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"보통"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"작게"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!-- no translation found for normal_camera_continuous_not_supported -->
+	<skip />
+	<!-- no translation found for hdr_guide_capture -->
+	<skip />
+	<!---->
+	<string name="tips_title">"연속 촬영"</string>
+	<!-- no translation found for tips_content1 -->
+	<skip />
+	<!-- no translation found for tips_content2 -->
+	<skip />
+	<!-- no translation found for expression_guide_capture -->
+	<skip />
+	<!-- no translation found for video_bad_performance_auto_stop -->
+	<skip />
+	<!-- no translation found for burstshot_low_memory_auto_stop -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_qrcode -->
+	<skip />
+	<!-- no translation found for qrcode_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_type_url">"웹 주소"</string>
+	<!---->
+	<string name="qrcode_type_geo">"지리적 위치"</string>
+	<!-- no translation found for qrcode_type_wifi -->
+	<skip />
+	<!---->
+	<string name="qrcode_type_contact">"연락처"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"전화번호"</string>
+	<!---->
+	<string name="qrcode_type_email">"이메일"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"캘린더"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!-- no translation found for qrcode_type_plaintext -->
+	<skip />
+	<!-- no translation found for qrcode_hint_url -->
+	<skip />
+	<!-- no translation found for qrcode_hint_geo -->
+	<skip />
+	<!-- no translation found for qrcode_hint_wifi -->
+	<skip />
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!-- no translation found for qrcode_hint_plaintext -->
+	<skip />
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"사진에서 스캔"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"스캔 기록"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"설정"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"십자선"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"스캐닝 중 십자선 표시"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"삐 소리"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"코드 스캐닝 후 삐 소리"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"진동"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"스캔 후 진동 피드백"</string>
+	<!-- no translation found for qrcode_notfound -->
+	<skip />
+	<!-- no translation found for qrcode_share -->
+	<skip />
+	<!---->
+	<string name="qrcode_history_open">"열기"</string>
+	<!---->
+	<string name="qrcode_history_share">"공유"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"모두 지우기"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"확인"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"취소"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"삭제 확인"</string>
+	<!-- no translation found for qrcode_dialog_confirmdelete -->
+	<skip />
+	<!---->
+	<string name="qrcode_no_history">"스캔 기록 없음"</string>
+	<!---->
+	<string name="qrcode_scanning">"이미지에서 QR 코드 스캔 중 ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi 구성 추가됨"</string>
+	<!-- no translation found for setting_photo_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"필터"</string>
+	<!---->
+	<string name="liveeffect_none">"무음"</string>
+	<!-- no translation found for liveeffect_ansel -->
+	<skip />
+	<!---->
+	<string name="liveeffect_negative">"네거티브"</string>
+	<!---->
+	<string name="liveeffect_relief">"양각"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"어안렌즈"</string>
+	<!-- no translation found for liveeffect_charcoal -->
+	<skip />
+	<!---->
+	<string name="liveeffect_retro">"인스턴트"</string>
+	<!---->
+	<string name="liveeffect_edge">"그림자"</string>
+	<!-- no translation found for liveeffect_sepia -->
+	<skip />
+	<!---->
+	<string name="setting_photo_advanced_title">"고급 설정"</string>
+	<!-- no translation found for manual_manu_title -->
+	<skip />
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_bulb_shot_capturing_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_shutterspeed -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_focusvalue -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"고급"</string>
+	<!-- no translation found for pref_camera_manual_mode_reset_toast_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_capturing_hint -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_exposure_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_hdr_first_time_tip -->
+	<skip />
+	<!-- no translation found for mode_collage_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_burst_label -->
+	<skip />
+	<!-- no translation found for mode_burst_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_scanner_label -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content4 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content5 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_flash_duty_title">"플래시"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"뒤로"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"재 설정"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!-- no translation found for setting_video_title -->
+	<skip />
+	<!-- no translation found for confirm_restore_toauto_message -->
+	<skip />
+	<!-- no translation found for photo_hdr_toast -->
+	<skip />
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"이 작업을 처리하는 앱을 찾을 수 없습니다."</string>
+	<!---->
+	<string name="battery_is_low">"충전기를 연결하세요."</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_button_ignore -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_open">"열기"</string>
+	<!---->
+	<string name="qrcode_button_copy">"복사"</string>
+	<!-- no translation found for qrcode_button_save -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_call">"전화걸기"</string>
+	<!---->
+	<string name="qrcode_button_email">"이메일"</string>
+	<!---->
+	<string name="qrcode_button_connect">"연결"</string>
+</resources>

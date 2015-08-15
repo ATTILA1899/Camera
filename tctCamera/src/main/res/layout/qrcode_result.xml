@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+| ============================================================================ |
+|      Modifications on Features list / Changes Request / Problems Report      |
+| **************************************************************************** |
+|    date   |        author        |         Key          |      comment       |
+| **********|**********************|**********************|******************* |
+| 01/15/2014|     wangkaidi        |                      |[Ergo][DEV]QRcode   |
+| **********|**********************|**********************|******************* |
+================================================================================
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:background="#ff1f1f1f">
+    <include 
+        layout="@layout/qrcode_topbanner"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+    <ImageView
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:id="@+id/QRCode_ResultImage"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/qrcode_sample"/>
+    <TextView
+        android:id="@+id/QRCode_TypeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFFFF"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/QRCode_ResultImage"
+        android:layout_marginTop="8dp"/>
+    <TextView
+        android:id="@+id/QRCode_ContentText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFFFF"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_below="@+id/QRCode_TypeText"
+        android:layout_marginTop="30dp"
+        android:autoLink="none"
+        android:maxLines="2"
+        android:ellipsize="end"/>
+    <TextView
+        android:id="@+id/QRCode_HintText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="#FFFFFFFF"
+        android:layout_marginLeft="68dp"
+        android:layout_marginRight="68dp"
+        android:layout_below="@+id/QRCode_ContentText"
+        android:layout_marginTop="68dp"/>
+    <!-- Bottom Two Buttons -->
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="14dp">
+        <ImageView 
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/QRCode_ShareButton"
+            android:src="@drawable/btn_qrcode_share"/>
+        <ImageView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/QRCode_OpenButton"
+            android:src="@drawable/btn_qrcode_open"
+            android:layout_marginLeft="64dp"/>
+    </LinearLayout>
+    
+</RelativeLayout>

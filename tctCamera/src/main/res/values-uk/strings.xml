@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Камера"</string>
+	<!---->
+	<string name="video_camera_label">"Відеокамера"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Встановити зображення як"</string>
+	<!---->
+	<string name="delete">"Видал."</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Видалити вибраний елемент?"</item>
+		<item quantity="other">"Видалити вибрані елементи?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Спільний доступ"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Видалено"</string>
+	<!---->
+	<string name="undo">"Скасувати"</string>
+	<!---->
+	<string name="details">"Деталі"</string>
+	<!---->
+	<string name="close">"Закрити"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Показати на карті"</string>
+	<!---->
+	<string name="rotate_left">"Вліво"</string>
+	<!---->
+	<string name="rotate_right">"Вправо"</string>
+	<!---->
+	<string name="edit">"Редаг."</string>
+	<!---->
+	<string name="crop_action">"Обітнути"</string>
+	<!---->
+	<string name="trim_action">"Обробити"</string>
+	<!---->
+	<string name="set_as">"Встановити як"</string>
+	<!---->
+	<string name="video_err">"Не можна відтворити відео"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Назва"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Час"</string>
+	<!---->
+	<string name="location">"Розташування"</string>
+	<!---->
+	<string name="path">"Шлях"</string>
+	<!---->
+	<string name="width">"Ширина"</string>
+	<!---->
+	<string name="height">"Висота"</string>
+	<!---->
+	<string name="orientation">"Орієнтація"</string>
+	<!---->
+	<string name="duration">"Тривалість"</string>
+	<!---->
+	<string name="mimetype">"Тип MIME"</string>
+	<!---->
+	<string name="file_size">"Розмір файла"</string>
+	<!---->
+	<string name="maker">"Редактор"</string>
+	<!---->
+	<string name="model">"Модель"</string>
+	<!---->
+	<string name="flash">"Спалах"</string>
+	<!---->
+	<string name="aperture">"Апертура"</string>
+	<!---->
+	<string name="focal_length">"Фокусна відстань"</string>
+	<!---->
+	<string name="white_balance">"Баланс білого"</string>
+	<!---->
+	<string name="exposure_time">"Час експозиції"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Вручну"</string>
+	<!---->
+	<string name="auto">"Автом."</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Без спалаху"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Зачекайте."</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Помилка камери"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Не вдалося підключитися до камери."</string>
+	<!---->
+	<string name="camera_disabled">"Камеру вимкнено відповідно до політики безпеки."</string>
+	<!---->
+	<string name="wait">"Зачекайте..."</string>
+	<!---->
+	<string name="no_storage">"Вставте SD-картку перед використанням камери."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Не вдалося отримати доступ до карти пам’яті."</string>
+	<!---->
+	<string name="time_lapse_title">"Записування проміжку часу"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Вибрати камеру"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Задня камера"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Передня камера"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Місце зберігання"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Таймер відліку"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 сек."</item>
+		<item quantity="other">"%d с."</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Сигнал під час відліку"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Сховище"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Телефон"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"Карта пам\'яті."</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Якість відео"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Налаштування камери"</string>
+	<!---->
+	<string name="pref_camera_settings">"Налаштування камери"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Налашт-ня відеокамери"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Розмір фото"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Розмір"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Сітка"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 Мпікс"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 Мпікс"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 Мпікс"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 Мпікс"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 Мпікс"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"4 Мпікс (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1.5 Мпікс"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1.3 Мпікс"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 Мпікс"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Режим фокус."</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Авто"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Нескін."</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Макро"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"АВТО"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Нескінченніс."</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Макро"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Режим спалаху"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"РЕЖИМ СПАЛАХУ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Авто"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Увімк."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Вимк."</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"Ліхтарик"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"АВТОСПАЛАХ"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"СПАЛАХ УВІМК."</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"СПАЛАХ ВИМК."</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Баланс білого"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Баланс білого"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Авто"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Авто"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Лампа розжар."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Сонячно"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Флуоресцентний"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Хмарно"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"АВТО"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Лампа розжар."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Сонячно"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Флуоресцентний"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Хмарно"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Режим зйомки"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Авто"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Спорт"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Ніч"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Захід сонця"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"У приміщенні"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Нічний режим"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Автовизнач. сюжету"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Оптимізація налаштувань камери для кращої якості фотографій."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Нічна сцена"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Підсвічування"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Автопокращення зйомки"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Оптимізація налаштувань камери для кращої якості фотографій."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Режим недостатнього освітлення"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Режим заднього підсвічування"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Швидкий фокус на обличчі"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Недоступно для вибору в сюжетному режимі."</string>
+	<!---->
+	<string name="pref_exposure_title">"Експозиція"</string>
+	<!---->
+	<string name="pref_exposure_label">"Експозиція"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"OK"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"На вашій SD-картці закінчується місце. Змініть настройки якості або видаліть зайві знімки чи файли."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Немає вільного місця. Змініть налаштування якості або видаліть декілька зображень чи інших файлів."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Досягн. макс. розмір."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Зашвидко"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Підготовка панорамної зйомки"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Не вдалося зберегти панораму."</string>
+	<!---->
+	<string name="pano_dialog_title">"Панорамна зйомка"</string>
+	<!---->
+	<string name="pano_capture_indication">"Зйомка панорами"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Очікування на попередню панораму"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Збереження..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Пристосування панорамного знімка"</string>
+	<!---->
+	<string name="tap_to_focus">"Торкніться, щоб сфокусуватися."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Ефекти"</string>
+	<!---->
+	<string name="effect_none">"Немає"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Стискання"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Великі очі"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Велик. рот"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Малий рот"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Великий ніс"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Малі очі"</string>
+	<!---->
+	<string name="effect_backdropper_space">"У космосі"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Захід сонця"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Ваше відео"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Торкніться, щоб сфотографувати під час запису."</string>
+	<!---->
+	<string name="video_recording_started">"Записування відео розпочато."</string>
+	<!---->
+	<string name="video_recording_stopped">"Записування відео зупинено."</string>
+	<!---->
+	<string name="clear_effects">"Очистити ефекти"</string>
+	<!---->
+	<string name="effect_silly_faces">"Дурнуваті обличчя"</string>
+	<!---->
+	<string name="effect_background">"ФОН"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Кнопка меню"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Перейти в режим фото"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Перех. у реж.панор.зйомки"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Перевірку завершено"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Повторне створення огляду"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"ВИМК."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Вимк."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 с."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 с."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 сек."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 с."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 секунд"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 с."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 хвилина"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 хв."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 хвилини"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 хв."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 хв."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 хв."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 хвилин"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 хв."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 хвилин"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 хв."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 хвилин"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 хв."</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 година"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 години"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 год."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 години"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 год."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 год."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 годин"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 год."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 годин"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 год."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 години"</string>
+	<!---->
+	<string name="time_lapse_seconds">"секунди"</string>
+	<!---->
+	<string name="time_lapse_minutes">"хвилини"</string>
+	<!---->
+	<string name="time_lapse_hours">"год."</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Установити інтервал часу"</string>
+	<!---->
+	<string name="set_time_interval_help">"Функцію уповільненої зйомки вимкнено. Щоб указати інтервал зйомки, увімкніть цю функцію."</string>
+	<!---->
+	<string name="set_duration">"Установити тривалість (у секундах)"</string>
+	<!---->
+	<string name="count_down_title_text">"Зворотній відлік для зйомки фотографії"</string>
+	<!---->
+	<string name="remember_location_title">"Запам’ятати розташування створених фотографій?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Додавання до фотографій і відео тегів із відомостями про місце зйомки.\n\nДо цих відомостей, як і до збережених зображень, зможуть отримувати доступ інші програми."</string>
+	<!---->
+	<string name="remember_location_no">"Ні, дякую."</string>
+	<!---->
+	<string name="remember_location_yes">"Так"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Зберегти"</string>
+	<!---->
+	<string name="cannot_load_image">"Неможливо завантажити зображення."</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Встановл. заставки"</string>
+	<!---->
+	<string name="tips_done">"Готово"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Дізнайтеся про масштабування за допомогою одного пальця"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Двічі натисніть і проведіть для збільш./змен. масштабу у програмі "Камера""</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPS вимкнено"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Увімкніть GPS і безпроводові мережі в меню «Установки розташування»"</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Скасувати"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Установки"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Відновити налаштування"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Дійсно зберегти усі налаштування за замовчуванням?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Фотографія"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Відео"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Налаштування камери"</string>
+	<!---->
+	<string name="mode_menu_photo">"Авторежим"</string>
+	<!---->
+	<string name="mode_menu_hdr">"Вис.дин.діапазон"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Панорама"</string>
+	<!---->
+	<string name="mode_menu_manual">"Ручний режим"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Уповільн. зйомка"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Сканер"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Ретуш.обличчя"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Ретуш обличчя"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Установки"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Шкіра"</string>
+	<!---->
+	<string name="beauty_face_soften">"Тон:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Текстура:"</string>
+	<!---->
+	<string name="asd_night">"Нічний режим"</string>
+	<!---->
+	<string name="asd_backlight">"Режим підсвічування"</string>
+	<!---->
+	<string name="asd_auto">"Автоматичний режим"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Галерея"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"авто"</string>
+	<!---->
+	<string name="disable_night_mode">"Нічний режим відключено"</string>
+	<!---->
+	<string name="disable_back_light">"Підсвічування відключено"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"з автофокусуванням під час розпізнавання обличчя (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Швидке фокусування на обличчі допоможе створити завжди чіткі фотографії."</string>
+	<!---->
+	<string name="about_two_asd">"Автоматичне покращення режиму зйомки"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Оптимізація налаштувань камери для кращої якості фотографій."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Режим серійної зйомки недоступний за увімкненого автоматичного покращення режиму зйомки."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Ретуш обличчя"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Покращення портретів за допомогою налаштування тонів та текстури."</string>
+</resources>

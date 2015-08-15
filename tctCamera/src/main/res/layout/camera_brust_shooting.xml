@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent" 
+    android:layout_width="match_parent"
+    >
+    <com.android.camera.ui.RotateLayout
+        android:layout_width="match_parent" 
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true" 
+        android:id="@+id/brust_shooting_num"
+        >
+        <TextView android:id="@+id/brust_shooting" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:background="#00000000" 
+            android:singleLine="true" 
+            android:textSize="37sp"
+            android:visibility="gone" 
+            android:textStyle="bold" />
+
+
+    </com.android.camera.ui.RotateLayout>
+
+        <com.android.camera.ui.RotateLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/burstshooting_num_margin_right"
+        android:layout_marginRight="@dimen/burstshooting_num_margin_top">
+
+        <TextView
+            android:id="@+id/brust_shooting_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffffff"
+            android:background="#00000000"
+            android:singleLine="true"
+            android:textSize="37sp"
+            android:visibility="gone"
+            android:textStyle="bold" />
+
+    </com.android.camera.ui.RotateLayout>
+</RelativeLayout>
+

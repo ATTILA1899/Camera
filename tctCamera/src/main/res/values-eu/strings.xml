@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="app_name">"Kamera"</string>
+	<!---->
+	<string name="video_camera_label">"Bideokamera"</string>
+	<!-- no translation found for details_ms -->
+	<skip />
+	<!-- no translation found for details_hms -->
+	<skip />
+	<!---->
+	<string name="set_image">"Ezarri argazkia honela"</string>
+	<!---->
+	<string name="delete">"Ezab."</string>
+	<plurals name="delete_selection">
+		<item quantity="one">"Hautatutako elementua ezabatu?"</item>
+		<item quantity="other">"Hautatutako elementuak ezabatu?"</item>
+	</plurals>
+	<!---->
+	<string name="share">"Partekatu"</string>
+	<!-- no translation found for share_panorama -->
+	<skip />
+	<!-- no translation found for share_as_photo -->
+	<skip />
+	<!---->
+	<string name="deleted">"Ezabatutakoak"</string>
+	<!---->
+	<string name="undo">"Desegin"</string>
+	<!---->
+	<string name="details">"Xehetasunak"</string>
+	<!---->
+	<string name="close">"Itxi"</string>
+	<!-- no translation found for number_of_items_selected -->
+	<skip />
+	<!-- no translation found for number_of_albums_selected -->
+	<skip />
+	<!-- no translation found for number_of_groups_selected -->
+	<skip />
+	<!---->
+	<string name="show_on_map">"Erakutsi mapan"</string>
+	<!---->
+	<string name="rotate_left">"Biratu ezk."</string>
+	<!---->
+	<string name="rotate_right">"Biratu esk."</string>
+	<!---->
+	<string name="edit">"Editatu"</string>
+	<!---->
+	<string name="crop_action">"Moztu"</string>
+	<!---->
+	<string name="trim_action">"Moztu"</string>
+	<!---->
+	<string name="set_as">"Ezarri honela:"</string>
+	<!---->
+	<string name="video_err">"Ezin da bideoa erreproduzitu"</string>
+	<!-- no translation found for crop_saved -->
+	<skip />
+	<!---->
+	<string name="title">"Izenburua"</string>
+	<!-- no translation found for description -->
+	<skip />
+	<!---->
+	<string name="time">"Ordua"</string>
+	<!---->
+	<string name="location">"Kokapena"</string>
+	<!---->
+	<string name="path">"Bide-izena"</string>
+	<!---->
+	<string name="width">"Zabalera"</string>
+	<!---->
+	<string name="height">"Altuera"</string>
+	<!---->
+	<string name="orientation">"Orientazioa"</string>
+	<!---->
+	<string name="duration">"Iraupena"</string>
+	<!---->
+	<string name="mimetype">"MIME mota"</string>
+	<!---->
+	<string name="file_size">"Fitxategiaren tamaina"</string>
+	<!---->
+	<string name="maker">"Egilea"</string>
+	<!---->
+	<string name="model">"Modeloa"</string>
+	<!---->
+	<string name="flash">"Flasha"</string>
+	<!---->
+	<string name="aperture">"Irekidura"</string>
+	<!---->
+	<string name="focal_length">"Luzera fokala"</string>
+	<!---->
+	<string name="white_balance">"Zurien balantzea"</string>
+	<!---->
+	<string name="exposure_time">"Esposizio-denbora"</string>
+	<!---->
+	<string name="iso">"ISO"</string>
+	<!-- no translation found for unit_mm -->
+	<skip />
+	<!---->
+	<string name="manual">"Eskuz"</string>
+	<!---->
+	<string name="auto">"Auto"</string>
+	<!-- no translation found for flash_on -->
+	<skip />
+	<!---->
+	<string name="flash_off">"Flashik ez"</string>
+	<!-- no translation found for unknown -->
+	<skip />
+	<!-- no translation found for try_to_set_local_album_available_offline -->
+	<skip />
+	<!---->
+	<string name="please_wait">"Itxaron, mesedez"</string>
+	<!-- no translation found for rendering_photo_sphere -->
+	<skip />
+	<!---->
+	<string name="camera_error_title">"Kameraren errorea"</string>
+	<!---->
+	<string name="cannot_connect_camera">"Ezin da kamerara konektatu."</string>
+	<!---->
+	<string name="camera_disabled">"Kamera desgaitu da segurtasun-gidalerroak direla-eta."</string>
+	<!---->
+	<string name="wait">"Itxaron, mesedez…"</string>
+	<!---->
+	<string name="no_storage">"Sartu SD txartela kamera erabiltzen hasi aurretik."</string>
+	<!-- no translation found for preparing_sd -->
+	<skip />
+	<!---->
+	<string name="access_sd_fail" product="default">"Ezin izan da SD txartela atzitu."</string>
+	<!---->
+	<string name="time_lapse_title">"Grabaketaren denbora-tartea"</string>
+	<!-- no translation found for capturing -->
+	<skip />
+	<!---->
+	<string name="pref_camera_id_title">"Aukeratu kamera"</string>
+	<!---->
+	<string name="pref_camera_id_entry_back">"Atzekoa"</string>
+	<!---->
+	<string name="pref_camera_id_entry_front">"Aurrekoa"</string>
+	<!---->
+	<string name="pref_camera_recordlocation_title">"Biltegiaren kokapena"</string>
+	<!-- no translation found for pref_camera_location_label -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_title">"Kronometroa"</string>
+	<plurals name="pref_camera_timer_entry">
+		<item quantity="one">"1 second"</item>
+		<item quantity="other">"%d segundo"</item>
+	</plurals>
+	<!-- no translation found for pref_camera_timer_sound_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_timer_sound_title">"Egin "bip" atzerako kontaketan"</string>
+	<!---->
+	<string name="pref_camera_savepath_title">"Memoria"</string>
+	<!-- no translation found for pref_camera_savepath_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_savepath_entry_0">"Telefonoa"</string>
+	<!---->
+	<string name="pref_camera_savepath_entry_1">"SD txartela"</string>
+	<!-- no translation found for pref_camera_grid_default -->
+	<skip />
+	<!-- no translation found for setting_off -->
+	<skip />
+	<!-- no translation found for setting_on -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_title">"Kalitatea"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_settings_category">"Kameraren ezarpenak"</string>
+	<!---->
+	<string name="pref_camera_settings">"Kameraren ezarpenak"</string>
+	<!---->
+	<string name="pref_camcorder_settings_category">"Bideokameraren ezarpenak"</string>
+	<!---->
+	<string name="pref_camera_picturesize_title">"Tamaina"</string>
+	<!---->
+	<string name="pref_camera_size_title">"Tamaina"</string>
+	<!---->
+	<string name="pref_camera_grid_title">"Sareta"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_13mp">"13 megapixel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_12mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_8mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_5mp">"5 megapixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_4mp">"4 megapixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_3mp">"3 megapixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp">"2 megapixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_2mp_wide">"2 megapixel (16:9)"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_5mp">"1,5 megapixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1_3mp">"1,3 megapixel"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_1mp">"1 megapixel"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_vga -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_qvga -->
+	<skip />
+	<!---->
+	<string name="pref_camera_focusmode_title">"Fokatze modua"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_auto">"Auto"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_infinity">"Desaktibatuta"</string>
+	<!---->
+	<string name="pref_camera_focusmode_entry_macro">"Makroa"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_auto">"AUTOMATIKOA"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_infinity">"Desaktibatuta"</string>
+	<!---->
+	<string name="pref_camera_focusmode_label_macro">"Makroa"</string>
+	<!---->
+	<string name="pref_camera_flashmode_title">"Flash modua"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label">"FLASH MODUA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_auto">"Automatikoa"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_on">"Akt"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_off">"Des"</string>
+	<!---->
+	<string name="pref_camera_flashmode_entry_torch">"LED linterna"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_auto">"FLASH AUTOMATIKOA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_on">"FLASHA AKTIBATUTA"</string>
+	<!---->
+	<string name="pref_camera_flashmode_label_off">"FLASHA DESAKTIBATUTA"</string>
+	<!-- no translation found for pref_camera_flashmode_label_torch -->
+	<skip />
+	<!---->
+	<string name="pref_camera_whitebalance_title">"Zurien balantzea"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label">"Zurien balantzea"</string>
+	<!---->
+	<string name="pref_camera_iso_s_f_entry_auto">"Auto."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_auto">"Automatikoa"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_incandescent">"Goria"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_daylight">"Egun-argia"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_fluorescent">"Fluoreszentea"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_entry_cloudy">"Lainotua"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_auto">"AUTO."</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_incandescent">"Goria"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_daylight">"Egun-argia"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_fluorescent">"Fluoreszentea"</string>
+	<!---->
+	<string name="pref_camera_whitebalance_label_cloudy">"Lainotuta"</string>
+	<!---->
+	<string name="pref_camera_scenemode_title">"Eszena modua"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_auto">"Automatikoa"</string>
+	<!-- no translation found for pref_camera_scenemode_entry_hdr_plus -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_plus_off -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_on -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_entry_turn_hdr_off -->
+	<skip />
+	<!---->
+	<string name="pref_camera_scenemode_entry_action">"Ekintza"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_night">"Gaua"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_sunset">"Ilunabarra"</string>
+	<!---->
+	<string name="pref_camera_scenemode_entry_party">"Festa"</string>
+	<!-- no translation found for pref_camera_scenemode_label_auto -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_action -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_night -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_sunset -->
+	<skip />
+	<!-- no translation found for pref_camera_scenemode_label_party -->
+	<skip />
+	<!---->
+	<string name="pref_camera_arcsoft_night_title">"Gau modua"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_title">"Eszena-hautemate auto."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_description">"Kameraren ezarpenak optimizatzen ditu kalitate handiagoko argazkiak ateratzeko."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_night_title">"Gau eszena"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_asd_back_night_title">"Atzeko argiaren eszena"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_title_new">"Eszena-hautemate hobetua"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_description">"Kameraren ezarpenak optimizatzen ditu kalitate handiagoko argazkiak ateratzeko."</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_night_title">"Argi gutxiko eszena"</string>
+	<!---->
+	<string name="pref_camera_arcsoft_ase_back_night_title">"Atzeko argidun eszena"</string>
+	<!---->
+	<string name="pref_camera_fff_title">"Aurpegiak azkar fokuratzeko aukera"</string>
+	<!-- no translation found for pref_camera_countdown_label_off -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_one -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_three -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_ten -->
+	<skip />
+	<!-- no translation found for pref_camera_countdown_label_fifteen -->
+	<skip />
+	<!---->
+	<string name="not_selectable_in_scene_mode">"Ezin da hautatu eszena moduan."</string>
+	<!---->
+	<string name="pref_exposure_title">"Esposizioa"</string>
+	<!---->
+	<string name="pref_exposure_label">"Esposizioa"</string>
+	<!-- no translation found for pref_camera_hdr_default -->
+	<skip />
+	<!-- no translation found for pref_camera_hdr_plus_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_hdr_label">"HDR"</string>
+	<!-- no translation found for pref_camera_id_label_back -->
+	<skip />
+	<!-- no translation found for pref_camera_id_label_front -->
+	<skip />
+	<!---->
+	<string name="dialog_ok">"Ados"</string>
+	<!---->
+	<string name="spaceIsLow_content" product="default">"SD txartela tokirik gabe geratzen ari da. Aldatu kalitate-ezarpena edo ezabatu irudi edo fitxategi batzuk."</string>
+	<!---->
+	<string name="spaceIsLow_content_storage">"Memoria agortzen ari da. Aldatu kalitatearen ezarpena edo ezabatu irudi edo fitxategi batzuk."</string>
+	<!-- no translation found for spaceIsLow_content_phone -->
+	<skip />
+	<!---->
+	<string name="video_reach_size_limit">"Tamaina-mugara iritsi da."</string>
+	<!---->
+	<string name="pano_too_fast_prompt">"Bizkorregi"</string>
+	<!---->
+	<string name="pano_dialog_prepare_preview">"Panoramikoa prestatzen"</string>
+	<!---->
+	<string name="pano_dialog_panorama_failed">"Ezin izan da panoramikoa gorde."</string>
+	<!---->
+	<string name="pano_dialog_title">"Panoramikoa"</string>
+	<!---->
+	<string name="pano_capture_indication">"Panoramikoa sortzen"</string>
+	<!---->
+	<string name="pano_dialog_waiting_previous">"Aurreko irudi panoramikoaren zain"</string>
+	<!---->
+	<string name="pano_review_saving_indication_str">"Gordetzen..."</string>
+	<!---->
+	<string name="pano_review_rendering">"Panoramika errendatzen"</string>
+	<!---->
+	<string name="tap_to_focus">"Ukitu fokatzeko."</string>
+	<!---->
+	<string name="pref_video_effect_title">"Efektuak"</string>
+	<!---->
+	<string name="effect_none">"Bat ere ez"</string>
+	<!---->
+	<string name="effect_goofy_face_squeeze">"Estutu"</string>
+	<!---->
+	<string name="effect_goofy_face_big_eyes">"Begi handiak"</string>
+	<!---->
+	<string name="effect_goofy_face_big_mouth">"Aho handia"</string>
+	<!---->
+	<string name="effect_goofy_face_small_mouth">"Aho txikia"</string>
+	<!---->
+	<string name="effect_goofy_face_big_nose">"Sudur handia"</string>
+	<!---->
+	<string name="effect_goofy_face_small_eyes">"Begi txikiak"</string>
+	<!---->
+	<string name="effect_backdropper_space">"Espazioan"</string>
+	<!---->
+	<string name="effect_backdropper_sunset">"Ilunabarra"</string>
+	<!---->
+	<string name="effect_backdropper_gallery">"Zure bideoa"</string>
+	<!---->
+	<string name="video_snapshot_hint">"Ukitu grabatu bitartean argazkiak ateratzeko."</string>
+	<!---->
+	<string name="video_recording_started">"Bideoa grabatzen hasi da."</string>
+	<!---->
+	<string name="video_recording_stopped">"Bideoa grabatzen gelditu da."</string>
+	<!---->
+	<string name="clear_effects">"Clear effects"</string>
+	<!---->
+	<string name="effect_silly_faces">"ERGEL-AURPEGIAK"</string>
+	<!---->
+	<string name="effect_background">"ATZEKO PLANOA"</string>
+	<!-- no translation found for accessibility_shutter_button -->
+	<skip />
+	<!---->
+	<string name="accessibility_menu_button">"Menua botoia"</string>
+	<!-- no translation found for accessibility_mode_picker -->
+	<skip />
+	<!-- no translation found for accessibility_check_box -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_camera">"Aldatu argazki modura"</string>
+	<!-- no translation found for accessibility_switch_to_video -->
+	<skip />
+	<!---->
+	<string name="accessibility_switch_to_panorama">"Aldatu modu panoramikora"</string>
+	<!-- no translation found for accessibility_switch_to_photo_sphere -->
+	<skip />
+	<!-- no translation found for accessibility_switch_to_gcam -->
+	<skip />
+	<!-- no translation found for accessibility_review_cancel -->
+	<skip />
+	<!---->
+	<string name="accessibility_review_ok">"Berrikusi egin da"</string>
+	<!---->
+	<string name="accessibility_review_retake">"Berrikuspenari ekin zaio"</string>
+	<!-- no translation found for capital_on -->
+	<skip />
+	<!---->
+	<string name="capital_off">"DESAKT."</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_off">"Des"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_500 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1000">"1 second"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1500">"1,5 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2000">"2 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_2500">"2,5 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3000">"3 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_4000">"4 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_5000">"5 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_6000">"6 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10000">"10 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_12000">"12 segundo"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_15000">"15 seconds"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_24000">"24 segundo"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_30000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_60000">"1 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_90000">"1,5 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_120000">"2 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_150000">"2,5 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_180000">"3 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_240000">"4 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_300000">"5 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_360000">"6 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_600000">"10 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_720000">"12 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_900000">"15 minutu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_1440000">"24 minutu"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_1800000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_3600000">"1 ordu"</string>
+	<!-- no translation found for pref_video_time_lapse_frame_interval_5400000 -->
+	<skip />
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_7200000">"2 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_9000000">"2,5 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_10800000">"3 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_14400000">"4 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_18000000">"5 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_21600000">"6 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_36000000">"10 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_43200000">"12 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_54000000">"15 ordu"</string>
+	<!---->
+	<string name="pref_video_time_lapse_frame_interval_86400000">"24 ordu"</string>
+	<!---->
+	<string name="time_lapse_seconds">"segundo"</string>
+	<!---->
+	<string name="time_lapse_minutes">"minutu"</string>
+	<!---->
+	<string name="time_lapse_hours">"ordu"</string>
+	<!-- no translation found for time_lapse_interval_set -->
+	<skip />
+	<!---->
+	<string name="set_time_interval">"Ezarri denbora-tartea"</string>
+	<!---->
+	<string name="set_time_interval_help">"Denbora-tartearen eginbidea desaktibatuta dago. Aktibatu denbora-tartea ezartzeko."</string>
+	<!---->
+	<string name="set_duration">"Ezarri iraupena segundotan"</string>
+	<!---->
+	<string name="count_down_title_text">"Argazkia ateratzeko atzera kontatzen"</string>
+	<!---->
+	<string name="remember_location_title">"Argazkien kokapenak gogoratzen al dituzu?"</string>
+	<!---->
+	<string name="remember_location_prompt">"Etiketatu argazkiak eta bideoak horiek egin ziren kokapenekin.\n\nBeste aplikazio batzuek informazio hori atzi dezakete gordetako irudiekin batera."</string>
+	<!---->
+	<string name="remember_location_no">"Ez, eskerrik asko."</string>
+	<!---->
+	<string name="remember_location_yes">"Bai"</string>
+	<!-- no translation found for camera_menu_more_label -->
+	<skip />
+	<!-- no translation found for camera_menu_settings_label -->
+	<skip />
+	<!-- no translation found for create_tiny_planet -->
+	<skip />
+	<!-- no translation found for saving_tiny_planet -->
+	<skip />
+	<!-- no translation found for tiny_planet_zoom -->
+	<skip />
+	<!-- no translation found for tiny_planet_rotate -->
+	<skip />
+	<!---->
+	<string name="crop_save">"Gorde"</string>
+	<!---->
+	<string name="cannot_load_image">"Ezin da irudia kargatu!"</string>
+	<!-- no translation found for switch_photo_filmstrip -->
+	<skip />
+	<!---->
+	<string name="setting_wallpaper">"Horma-papera ezartzen"</string>
+	<!---->
+	<string name="tips_done">"Eginda"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_title">"Zooma hatz bakarrez erabiltzeari buruzko informazioa"</string>
+	<!---->
+	<string name="onef_inger_zoomer_tips_camera">"Sakatu birritan eta lerratu kameran zooma erabiltzeko"</string>
+	<!---->
+	<string name="location_service_dialog_title">"GPSa desaktibatuta"</string>
+	<!---->
+	<string name="location_service_dialog_msg">"Argazkiak eta bideoak kokapenekin etiketatzeko, Kokapen-ezarpenak atalean, aktibatu GPS eta hari gabeko sareak."</string>
+	<!---->
+	<string name="location_service_dialog_cancel">"Utzi"</string>
+	<!---->
+	<string name="location_service__dialog_setting">"Ezarpenak"</string>
+	<!---->
+	<string name="restore_settings_dialog_title">"Leheneratu ezarpenak"</string>
+	<!---->
+	<string name="restore_settings_dialog_msg">"Ziur balio lehenetsi guztiak leheneratu nahi dituzula?"</string>
+	<!---->
+	<string name="advance_setting_group_photo">"Argazkia"</string>
+	<!---->
+	<string name="advance_setting_group_video">"Bideoa"</string>
+	<!---->
+	<string name="advance_setting_group_camera">"Kameraren ezarpena"</string>
+	<!---->
+	<string name="mode_menu_photo">"Modu automat."</string>
+	<!---->
+	<string name="mode_menu_hdr">"HDR"</string>
+	<!---->
+	<string name="mode_menu_panorama">"Panoramikoa"</string>
+	<!---->
+	<string name="mode_menu_manual">"Eskuzko modua"</string>
+	<!---->
+	<string name="mode_menu_timelapse">"Denbora"</string>
+	<!---->
+	<string name="mode_menu_scaner">"Eskanerra"</string>
+	<!---->
+	<string name="mode_menu_facebeauty">"Edertasuna"</string>
+	<!---->
+	<string name="mode_menu_face_beauty">"Edertasuna"</string>
+	<!-- no translation found for mode_menu_polaroid -->
+	<skip />
+	<!---->
+	<string name="mode_menu_settings">"Ezarpenak"</string>
+	<!-- no translation found for accessibility_review_thumbnail -->
+	<skip />
+	<!-- no translation found for Import -->
+	<skip />
+	<!-- no translation found for camera_label -->
+	<skip />
+	<!-- no translation found for select_image -->
+	<skip />
+	<!---->
+	<string name="beauty_face_title">"Azala"</string>
+	<!---->
+	<string name="beauty_face_soften">"Tonua:"</string>
+	<!---->
+	<string name="beauty_face_bright">"Testura:"</string>
+	<!---->
+	<string name="asd_night">"Gau modua"</string>
+	<!---->
+	<string name="asd_backlight">"Atzeko argiaren modua"</string>
+	<!---->
+	<string name="asd_auto">"Modu automatikoa"</string>
+	<!-- no translation found for scan_from_photos -->
+	<skip />
+	<!-- no translation found for scan_history -->
+	<skip />
+	<!-- no translation found for scan_settings -->
+	<skip />
+	<!---->
+	<string name="cameratct_gallery_photos_text">"Galeria"</string>
+	<!---->
+	<string name="manualseekbar_up_auto">"auto."</string>
+	<!---->
+	<string name="disable_night_mode">"Gau modua desgaituta"</string>
+	<!---->
+	<string name="disable_back_light">"Atzeko argia desgaituta"</string>
+	<!---->
+	<string name="about_one_life_focus">"LifeFocus"</string>
+	<!---->
+	<string name="about_one_TM">"TM"</string>
+	<!---->
+	<string name="about_one_fdaf">"aurpegien hautematearen fokatze automatikoarekin (FDAF)"</string>
+	<!---->
+	<string name="about_one_fast_face_sharp">"Argazkien fokatze bizkorrarekin, argazkiko uneak bizi-biziak mantenduko dira."</string>
+	<!---->
+	<string name="about_two_asd">"Eszena-hautemate automatikoaren hobekuntza"</string>
+	<!---->
+	<string name="about_two_optimizes_photos">"Kameraren ezarpenak optimizatzen ditu kalitate handiagoko argazkiak ateratzeko."</string>
+	<!---->
+	<string name="about_two_burst_asd">"Segida modua erabilgarri dago Eszena-hautemate automatikoaren hobekuntza aktibatuta badago."</string>
+	<!---->
+	<string name="about_three_face_beauty">"Edertasuna"</string>
+	<!---->
+	<string name="about_three_enhance_portraits">"Hobetu erretratuak aurpegiaren tonua eta testura doituta."</string>
+</resources>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Pulihkan lalai"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Terperinci"</string>
+	<!---->
+	<string name="pref_back_detail">"Kembali"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Rakaman bunyi"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Tekan pengatup untuk mula menangkap panorama"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Gerakkan telefon ke arah tangkapan anda"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Tidak dapat menjanakan panorama."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Perlahankan"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Alih ke atas"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Alih ke bawah"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Biasa"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sukan"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Kecantikan muka"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"Panorama 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Kecantikan 4"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Senyum"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Petikan pecah"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manual"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Sudut Luas"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Penapis"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Solek"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Tindakan perlahan"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kolej"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Malam"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Rendah"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Tinggi"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Halus"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Sagt halus"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Pemasa"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"TUTUP"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 Saat"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 Saat"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 Saat"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XBesar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Besar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Sederhana"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Kecil"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Menyimpan <xliff:g example="10" id="numbers">%1$d</xliff:g> gambar"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"Pengetagan GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Tag GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Kualiti gambar"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Bunyi pengatup"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Skrin penuh"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Besar"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Sederhana"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Kecil"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Sila tukar semula kepada mod normal untuk tangkapan letupan."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Jangan alihkan peranti semasa penangkapan HDR"</string>
+	<!---->
+	<string name="tips_title">"Syot berterusan"</string>
+	<!---->
+	<string name="tips_content1">"Butang pengatup tekanan lama"</string>
+	<!---->
+	<string name="tips_content2">"atau kekunci kelantangan untuk tangkapan letus."</string>
+	<!---->
+	<string name="expression_guide_capture">"Tekan butang pengatup untuk menangkap 4 luahan berbeza"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Memori yang rendah. Rakaman berhenti Auto."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Daripada memori, tutup beberapa Apps berjalan pertama."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Kod QR Scan"</string>
+	<!---->
+	<string name="qrcode_title">"Kod QR Scan"</string>
+	<!---->
+	<string name="qrcode_type_url">"Alamat web"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geo Lokasi"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi Konfigurasi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kenalan"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Nombor telefon"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mel"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalendar"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"sms"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Buka pautan boleh menggunakan data rangkaian pada telefon bimbit anda."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Buka pautan boleh menggunakan data rangkaian pada telefon bimbit anda."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Buka pautan akan menambah konfigurasi Wi-Fi dalam seting."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Buka pautan akan membuka apl Nota dalam telefon bimbit anda."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Imbas dari gambar"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Sejarah scan"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Tetapan"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Rerambut Silang"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Menunjukkan rambut silang manakala imbasan"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Beep"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Bip selepas mengimbas kod"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Bergetar"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Bergetar maklum balas selepas mengimbas"</string>
+	<!---->
+	<string name="qrcode_notfound">"Kod QR Tidak Dijumpai"</string>
+	<!---->
+	<string name="qrcode_share">"Kongsi Kod QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"Buka"</string>
+	<!---->
+	<string name="qrcode_history_share">"Kongsi"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Kosongkan semua"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Batal"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Sahkan Padam"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Adakah anda ingin untuk mengosongkan semua item dalam senarai imbasan?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Tiada sejarah imbasan"</string>
+	<!---->
+	<string name="qrcode_scanning">"Mengimbas Kod QR dalam imej ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi Konfigurasi ditambah"</string>
+	<!---->
+	<string name="setting_photo_title">"Seting Telefon"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Penapis"</string>
+	<!---->
+	<string name="liveeffect_none">"Tiada"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatif"</string>
+	<!---->
+	<string name="liveeffect_relief">"Timbul"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Mata ikan"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Lakar"</string>
+	<!---->
+	<string name="liveeffect_retro">"Segera"</string>
+	<!---->
+	<string name="liveeffect_edge">"Rangka"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Pemindahan"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Tetapan terperinci"</string>
+	<!---->
+	<string name="manual_manu_title">"Ini rentetan manual"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Pengatup masih terbuka dalam mod mentol.\n Tekan butang tangkap sekali lagi untuk menutup pengatup."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"kelajuan pengatup"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Jarak fokus"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Mod manual dimatikan"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Set semua seting manual kepada auto?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Tangkapan mentol."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Kawal foto anda sepenuhnya."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Ingatlah untuk mematikannya di sini."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kepekaan kamera terhadap cahaya."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"ISO yang lebih tinggi memerlukan kurang cahaya tetapi mempunyai kualiti yang lebih rendah."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Jika kamera anda memilih ISO atau kelajuan pengatup untuk anda, ini menjadikan foto anda lebih gelap atau lebih cerah."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Kawal kecerahan denyar anda."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Lampu suluh kekal hidup."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Denyar hanya menyala apabila\nanda mengambil foto."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Tiga mod fokus ialah Auto, Infiniti dan Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Jika lebih daripada lima meter, ini dihimpunkan sebagai \'tak terhingga\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Cahaya bertukar warna bergantung pada situasi."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Tukar imbangan putih untuk mengawalnya."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Julat Dinamik Tinggi mengekalkan perincian pada bayang-bayang dan serlahan, menghasilkan foto yang dramatik."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Kolaj mengambil empat gambar dan menggabungkannya menjadi satu foto."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Tangkapan Letusan"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktifkan tangkapan letusan dengan menekan dan menahan butang tangkap."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Pengimbas"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Leret ke kanan untuk memasuki mod Imbas."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Mod imbas boleh mengimbas"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Kod bar"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- Kod QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Kad perniagaan"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Flash"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Kembali"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Set semula"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Seting Video"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Adakah anda ingin mengeset semula semua seting manual?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Jangan alihkan peranti semasa penangkapan HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Tiada aplikasi ditemui untuk mengendalikan tindakan ini."</string>
+	<!---->
+	<string name="battery_is_low">"Bateri lemah"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Laman web ditemui"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Teks ditemui"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Nombor telefon ditemui"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Alamat e-mel ditemui"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kenalan ditemui"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Seting Wi-Fi ditemui"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Abaikan"</string>
+	<!---->
+	<string name="qrcode_button_open">"Buka"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Salin"</string>
+	<!---->
+	<string name="qrcode_button_save">"Simpan"</string>
+	<!---->
+	<string name="qrcode_button_call">"Panggil"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-mel"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Sambung"</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    
+    <com.android.camera.ui.RotateLayout 
+        android:id="@+id/manual_mode_shutterspeed_rotatelayout"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="fitCenter"
+        >
+	<TextView 
+	    android:id="@+id/item_textview"
+	     android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:textSize="14dp"
+	    />
+     </com.android.camera.ui.RotateLayout>
+     <View 
+        android:id="@+id/sh_diver"
+        android:layout_width="1px"
+        android:layout_height="60dp"
+        />
+</LinearLayout>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Rivendos të paracaktuarat"</string>
+	<!---->
+	<string name="pref_advanced_detail">"I përparuar"</string>
+	<!---->
+	<string name="pref_back_detail">"Prapë"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Mikrofoni"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Shtypni shkrepësin për të filluar me fotografim të panoramës"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Lëvize pajisjen në drejtimin që dëshironi të fotografoni"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Nuk mund të gjenerojë panoramë."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Ngadalëso"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Lëviz lart"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Lëviz poshtë"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Bukuri e fytyrës"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Bukuria 4"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Buzëqeshje"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Fotografim me plasje"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuale"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Me kënd të gjerë"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filtro"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Makiazh"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Lëvizje e ngadaltë"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kolazh"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Natë"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"I ulët"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"I lartë"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Mirë"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"I përsosur"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normal"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Kohëmatësi"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"FIK"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sekonda"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sekonda"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sekonda"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"X-Madh"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"I madh"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Mesatar"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"I vogël"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Ruajtje e <xliff:g example="10" id="numbers">%1$d</xliff:g> fotografive"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS emërtimi"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS tag"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Cilësia e imazhit"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Tingulli shkrepës"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Ekrani i tërësishëm"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"I lartë"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Mesatar"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"I vogël"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Ju lutemi kthehuni në regjimin normal për fotografim të vazhdueshëm."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Mos lëvizni aparatin gjatë HDR fotografimit"</string>
+	<!---->
+	<string name="tips_title">"Fotografim i vazhdueshëm"</string>
+	<!---->
+	<string name="tips_content1">"Shtypje e gjatë mbi tastin e fotoaparatit"</string>
+	<!---->
+	<string name="tips_content2">"ose buton për volum të fotos."</string>
+	<!---->
+	<string name="expression_guide_capture">"Shtypni shkrepësin për fotografim të 4 shprehjeve të ndryshme"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Hapësira e ruajtjes e pamjaftueshme. Ndal regjistrimin."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Nuk ka hapërsirë, mbyll disa aplikacione që janë në procesim."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"Skanimi i QR kodit"</string>
+	<!---->
+	<string name="qrcode_title">"Skanimi i QR kodit"</string>
+	<!---->
+	<string name="qrcode_type_url">"Adresa WEB"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Vendndodhja Gjeografike"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Konfigurimi Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontakt"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Numri i telefonit"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-mail\'"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalendari"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"tekst"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Hapja e lidhjes do të konsumojë të dhëna të rrjetit në telefonin tuaj."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Hapja e lidhjes do të konsumojë të dhëna të rrjetit në telefonin tuaj."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Hapja e lidhjes do të shtojë konfigurimin Wi-Fi në Konfigurimet."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Hapja e lidhjes do të hapë aplikacionin Shënime në telefonin tuaj."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Skano nga fotografia"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Skano historikun"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Konfigurimet"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Cross hairs"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Shfaq Cross Hairs gjatë skanimit"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Bip"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Bip pas skanimit të kodit"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Dridhje"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Dridhje kthyese pas skanimit"</string>
+	<!---->
+	<string name="qrcode_notfound">"Kodi QR nuk është gjetur"</string>
+	<!---->
+	<string name="qrcode_share">"Shpërndaj QR kode"</string>
+	<!---->
+	<string name="qrcode_history_open">"Hap"</string>
+	<!---->
+	<string name="qrcode_history_share">"Shpërndaj"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Pastro gjithçka"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Anullo"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Konfirmo fshirjen"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Dëshironi të pastroni të gjithë artikuj në listën e skanimeve?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Nuk ka historik skanimi"</string>
+	<!---->
+	<string name="qrcode_scanning">"Skanimi i kodit QR në imazh..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Konfigurimi Wi-Fi u shtua"</string>
+	<!---->
+	<string name="setting_photo_title">"Konfigurimet e imazhit"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filtro"</string>
+	<!---->
+	<string name="liveeffect_none">"Asnjë"</string>
+	<!---->
+	<string name="liveeffect_ansel">"E zezë"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negativ"</string>
+	<!---->
+	<string name="liveeffect_relief">"Lirim"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Syri i peshkut"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Skicë"</string>
+	<!---->
+	<string name="liveeffect_retro">"Instant"</string>
+	<!---->
+	<string name="liveeffect_edge">"Konturë"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Transferim"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Konfigurimet e përparuara"</string>
+	<!---->
+	<string name="manual_manu_title">"Ky është një varg manual"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Shkrepësi është hapur në regjim llambe.\n Shtyp butonin për fotografim për të mbyllur shkrepësin."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Shpejtësia e shkrepësit"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Distancë e fokusit"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"regjimi manual I fikur"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Konfiguro të gjitha Konfigurimet manuale në automatike?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Llambë"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Merrni kontrollin e plotë mbi fotografitë."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Mbani mend që ta fikni këtu."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Ndjeshmëria e fotoaparatit ndaj dritës."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"ISO i lartë kërkon më pak drite, por cilësia e fotografive është ulur."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Nëse kamera e zgjedh shpejtësinë e shkrepësit ose ISO automatike, fotografitë do të bëhen më të errëta ose të ndritëshme."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Kontrolloni si është blici i dritës"</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Llamba gjithmonë është ndezur."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Blici shkrepet vetëm kur\nju bëni një foto."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Tre regjime fokusimi janë Auto, Infinit, Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Nëse është më shumë se pesë metra, kjo është grupuar si \ \'infinit \'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Drita e ndryshon ngjyrën në situata të ndryshme."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Ndërroje balancën e ngjyrës së bardhë që të kontrolloni këtë."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Rangu i Lartë Dinamik i mban detajet në hije dhe të fokusuara, duke krijuar një fotografi dramatike."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Ngjitja merr katër piktura dhe I kombinon ato në një fotografi."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Fotografim me plasje"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktivizoni fotografim me plasje duke prekur dhe mbajtur butonin për fotografim"</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skaner"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Tërhiq në të djathtë për të hyrë në regjimin e skanimit."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Regjim Skanimi mund të skanojë"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Bar kodet"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR kode"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Kartat e biznesit"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Blici"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Prapë"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Rivendos"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Konfigurimet e videos"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Dëshironi të rivendosni të gjitha Konfigurimet manuale?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Mos e lëvizni pajisjen gjatë fotografimit HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Nuk ka gjetur aplikacion për trajtim të aktivitetit."</string>
+	<!---->
+	<string name="battery_is_low">"Bateria është e ulët"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Faqja ueb u gjet"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Teksti u gjet"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Numër telefoni u gjet"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Adresa e postës elektronike u gjet"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kontakti u gjet"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Cilësimet Wi-Fi u gjetën"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Injoroni"</string>
+	<!---->
+	<string name="qrcode_button_open">"Hape"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopjo"</string>
+	<!---->
+	<string name="qrcode_button_save">"Ruaj"</string>
+	<!---->
+	<string name="qrcode_button_call">"Thirr"</string>
+	<!---->
+	<string name="qrcode_button_email">"e-postë"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Lidh"</string>
+</resources>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Восстановить настройки по умолчанию"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Дополнительно"</string>
+	<!---->
+	<string name="pref_back_detail">"Назад"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Микрофон"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"Стабилизация"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Нажмите кнопку затвора, чтобы начать захват панорамы"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Перемещайте телефон в сторону направления захвата кадра."</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Невозможно создать панораму."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Замедлить"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Переместить вверх"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Переместить вниз"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Обычный"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Спорт"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Макро"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Авторетушь"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Панорама"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"3D-фото"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Коллаж (4 снимка)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Улыбка"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Серийная съемка"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Вручную"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Суперпанорама"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Фильтр"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Макияж"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Плавное переключение"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Коллаж"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Ночь"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Низкий"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Высокий"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Отличное"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Максимум"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Средний"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Секундомер"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"ВЫКЛ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 сек"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 сек"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 сек"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 сек"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 сек"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 сек"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Очень большой"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Большой"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Средний"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Минимум"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Сохранение <xliff:g example="10" id="numbers">%1$d</xliff:g> изображений"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS теги"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"Геометки"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Качество фото"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Звук затвора"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Широкий формат"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Большой"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Нормальный"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Маленький"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Пожалуйста, переключитесь обратно в нормальный режим для серийной съемки."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Не двигайте устройство во время настройки HDR"</string>
+	<!---->
+	<string name="tips_title">"Серийная съёмка"</string>
+	<!---->
+	<string name="tips_content1">"Чтобы начать серийную съёмку, нажмите и удерживайте кнопку спуска затвора"</string>
+	<!---->
+	<string name="tips_content2">"или одну из клавиш громкости."</string>
+	<!---->
+	<string name="expression_guide_capture">"Нажмите на кнопку спуска затвора, чтобы захватить 4 различных снимка"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Нехватка памяти. Автоматическая остановка записи."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Недостаток оперативной памяти. Пожалуйста, закройте часть запущенных приложений."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-сканер"</string>
+	<!---->
+	<string name="qrcode_title">"QR-сканер"</string>
+	<!---->
+	<string name="qrcode_type_url">"Веб-адрес"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Геометка"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Конфигурация Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Контакт"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Номер телефона"</string>
+	<!---->
+	<string name="qrcode_type_email">"Email"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Календарь"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Текст"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Открытие ссылки приведёт к потреблению мобильного трафика."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Открытие ссылки приведёт к потреблению мобильного трафика."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Открытие ссылки приведёт к созданию новой конфигурации Wi-Fi."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Открытие ссылки приведёт к открытию приложения Блокнот/Заметки."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Сканировать фотографии"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"История"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Настройки"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Сетка"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Показывать сетку во время сканирования"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Звуковой сигнал"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Подавать звуковой сигнал после завершения сканирования"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Вибросигнал"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Подавать вибросигнал после завершения сканирования штрихкода"</string>
+	<!---->
+	<string name="qrcode_notfound">"Штрихкод не найден"</string>
+	<!---->
+	<string name="qrcode_share">"Отправка штрихкода"</string>
+	<!---->
+	<string name="qrcode_history_open">"Открыть"</string>
+	<!---->
+	<string name="qrcode_history_share">"Отправить"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Удалить все"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"ОК"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Отмена"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Подтвердите удаление"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Удалить все элементы из списка сканирования?"</string>
+	<!---->
+	<string name="qrcode_no_history">"История пуста"</string>
+	<!---->
+	<string name="qrcode_scanning">"Сканирование штрихкода…"</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Добавлена конфигурация Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"Настройки фото"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Фильтр"</string>
+	<!---->
+	<string name="liveeffect_none">"Нет"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Ч/Б"</string>
+	<!---->
+	<string name="liveeffect_negative">"Негатив"</string>
+	<!---->
+	<string name="liveeffect_relief">"Рельеф"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Рыбий глаз"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Эскиз"</string>
+	<!---->
+	<string name="liveeffect_retro">"Ретро"</string>
+	<!---->
+	<string name="liveeffect_edge">"Контур"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Сепия"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Расширенные настройки"</string>
+	<!---->
+	<string name="manual_manu_title">"Ручная строка"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"В режиме «Вручную» затвор открывается нажатием на кнопку спуска затвора и остаётся открытым до повторного нажатия на эту кнопку."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Выдержка"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Расстояние фокусировки"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Сброс ручных настроек"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Сбросить все изменения, внесённые в ручные настройки?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Затвор открыт"</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Получите полный контроль над процессом создания фотографий."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Вы можете сбросить все ручные настройки, нажав на эту кнопку."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Светочувствительность камеры."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Чем выше значение ISO, тем более светлым получается изображение в условиях недостаточного освещения, однако при этом качество фотографии снижается (появляется «шум»)."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Корректировка количества света на фотографии. Этот параметр позволяет сделать фотографию темнее или светлее."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"В данном меню вы можете контролировать режим работы и яркость светодиодной вспышки."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"В режиме «Подсветка» светодиод камеры будет постоянно включён."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"В режиме «Вспышка» светодиод камеры будет включаться только\n в момент спуска затвора."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Три режима фокусировки: авто, бесконечность, макро."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Если расстояние до объекта съёмки больше пяти метров, выберите значение «бесконечность»."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Данный параметр позволяет корректировать цвета изображения объекта до тех цветов, в которых человек видит объект в естественных условиях или до тех цветов, которые представляются наиболее привлекательными."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Измените баланс белого для управления этим."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Высокий динамический диапазон (HDR) сохраняет детали в тенях и световых эффектах, создавая драматические фото."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Коллаж снимает четыре фотографии и объединяет их в одну."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Серийная съемка"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Для активации серийной съемки, нажмите и удерживайте кнопку спуска затвора."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Сканер"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Проведите вправо, чтобы войти в режим сканирования."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Режим сканирования может сканировать"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Штрих-коды"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR-коды"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Визитные карточки"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Вспышка"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Назад"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Сброс"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Настройки видео"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Вы хотите сбросить все ручные настройки?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Старайтесь не двигать устройство во время создания HDR-фотографии."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Не найдено приложений для выполнения данного действия."</string>
+	<!---->
+	<string name="battery_is_low">"Низкий заряд аккумулятора"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"Отложить"</string>
+	<!---->
+	<string name="qrcode_button_open">"Открыть"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Копировать"</string>
+	<!---->
+	<string name="qrcode_button_save">"Сохранить"</string>
+	<!---->
+	<string name="qrcode_button_call">"Вызов"</string>
+	<!---->
+	<string name="qrcode_button_email">"Email"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Подключить"</string>
+</resources>

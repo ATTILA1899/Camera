@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Palauta oletukset"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Lisäasetukset"</string>
+	<!---->
+	<string name="pref_back_detail">"Takaisin"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Äänitallenne"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Aloita panoraamakuvaus painamalla suljinta"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Siirrä puhelinta kuvaussuuntaan"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Panoraaman luonti epäonnistui."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Hidasta"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Siirrä ylöspäin"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Siirrä alaspäin"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Normaali"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Urheilu"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Kasvonpiirteet"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoraama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360-panoraama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Ilme (neljä otosta)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Hymy"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Sarjakuvaus"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Manuaalinen"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Laajakulma"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Suodata"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Meikki"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Hidastettu"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kollaasi"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Yö"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Matala"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Korkea"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Hyvä"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"Er. tarkka"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Normaali"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Ajastin"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"POIS"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sekuntia"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sekuntia"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sekuntia"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"Erittäin suuri"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Suuri"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Keskitaso"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Pieni"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"Tallennetaan <xliff:g example="10" id="numbers">%1$d</xliff:g> kuvaa"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS-tunnisteet"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS-tunniste"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Kuvanlaatu"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Sulkimen ääni"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Koko näyttö"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Suuri"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Keskitaso"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Pieni"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Vaihda takaisin normaalitilaan sarjakuvausta varten."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Älä siirrä laitetta HDR-kuvauksen aikana"</string>
+	<!---->
+	<string name="tips_title">"Jatkuva kuvaaminen"</string>
+	<!---->
+	<string name="tips_content1">"Paina laukaisinta"</string>
+	<!---->
+	<string name="tips_content2">"tai äänenvoimakkuusnäppäintä pitkään, niin voit käyttää sarjakuvausta."</string>
+	<!---->
+	<string name="expression_guide_capture">"Painamalla laukaisinta voit kuvata 4 erilaista ilmettä"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Muisti vähissä. Automaattinen tallennuksen pysäytys"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Muisti ei riitä. Sulje ensin joitakin sovelluksia."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-koodin skannaus"</string>
+	<!---->
+	<string name="qrcode_title">"QR-koodin skannaus"</string>
+	<!---->
+	<string name="qrcode_type_url">"URL-osoite"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Maantieteellinen sijainti"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi-määritys"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Yhteystieto"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Puhelinnumero"</string>
+	<!---->
+	<string name="qrcode_type_email">"Sähköposti"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalenteri"</string>
+	<!---->
+	<string name="qrcode_type_sms">"Tekstiviesti"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"Teksti"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Linkin avaaminen voi kuluttaa verkkodataa matkapuhelimessa."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Linkin avaaminen voi kuluttaa verkkodataa matkapuhelimessa."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Linkin avaaminen lisää Wi-Fi-asetukset asetuksiin."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Linkin avaaminen avaa Muistio-sovelluksen matkapuhelimessa."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Skannaa valokuvista"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Selaushistoria"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Asetukset"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Hiusristikko"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Näytä ristikko skannauksen aikana"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Piippaus"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Piippaus koodin skannauksen jälkeen"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Värinä"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Värinäpalaute skannaamisen jälkeen"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR-koodia ei löydy"</string>
+	<!---->
+	<string name="qrcode_share">"QR-koodin jako"</string>
+	<!---->
+	<string name="qrcode_history_open">"Avaa"</string>
+	<!---->
+	<string name="qrcode_history_share">"Jaa"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Poista kaikki"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Peruuta"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Vahvista poisto"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Haluatko tyhjentää kaikki kohteet selausluettelosta?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Selaushistoriaa ei ole"</string>
+	<!---->
+	<string name="qrcode_scanning">"Skannataan QR-koodia kuvasta..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi-määritys lisätty"</string>
+	<!---->
+	<string name="setting_photo_title">"Valokuvan asetukset"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Suodata"</string>
+	<!---->
+	<string name="liveeffect_none">"Ei mitään"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Musta"</string>
+	<!---->
+	<string name="liveeffect_negative">"Käänteiset värit"</string>
+	<!---->
+	<string name="liveeffect_relief">"Korkokuva"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Kalansilmä"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Luonnos"</string>
+	<!---->
+	<string name="liveeffect_retro">"Välitön"</string>
+	<!---->
+	<string name="liveeffect_edge">"Ääriviiva"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Siirrä"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Lisäasetukset"</string>
+	<!---->
+	<string name="manual_manu_title">"Tämä on manuaalinen merkkijono"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Suljin pysyy avoimena pitkässä aikavalotuksessa.\nSulje suljin painamalla kuvauspainiketta uudelleen."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Suljinnopeus"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Tarkennusetäisyys"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Manuaalinen tila ei käytössä"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Määritetäänkö kaikki manuaaliset asetukset automaattisiksi?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Kuvaus pitkällä aikavalotuksella."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Hallitse valokuviasi täydellisesti."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Muista poistaa se käytöstä tässä."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kameran valonherkkyys."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Suuri ISO-herkkyys vaatii vain vähän valoa, mutta heikentää laatua."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Jos kamerasi valitsee ISO-herkkyyden tai suljinnopeuden puolestasi, tämä tummentaa tai vaalentaa valokuvia."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Ohjaa salaman kirkkautta."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Salama pysyy aina käytössä."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Salama syttyy vain valokuvaa otettaessa."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Kolme tarkennustilaa ovat Automaattinen, Ääretön ja Makro."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Jos etäisyys on yli viisi metriä, sitä käsitellään äärettömänä."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Valon väri muuttuu tilanteen mukaan."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Ohjaa tätä muuttamalla valkotasapainoa."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"HDR säilyttää tummien ja kirkkaiden alueiden yksityiskohdat ja luo dramaattisen valokuvan."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Kollaasi yhdistää neljä kuvaa yhdeksi valokuvaksi."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Sarjakuvaus"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Ota sarjakuvaus käyttöön painamalla kuvauspainiketta pitkään."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skanneri"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Siirry skannaustilaan pyyhkäisemällä oikealle."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Skannaus on mahdollista skannaustilassa"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- Viivakoodit"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- QR-koodit"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- Käyntikortit"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Salama"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Takaisin"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Palauta"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Videoasetukset"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Haluatko palauttaa kaikki manuaaliset asetukset?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Älä siirrä laitetta HDR-kuvauksen aikana."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Tätä toimintoa käsittelevää sovellusta ei löydy."</string>
+	<!---->
+	<string name="battery_is_low">"Akun varaus on vähissä"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Sivusto löytyi"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Teksti löytyi"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Puhelinnumero löytyi"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"Sähköpostiosoite löytyi"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Yhteystieto löytyi"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"Wi-Fi-asetukset löytyivät"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Ohita"</string>
+	<!---->
+	<string name="qrcode_button_open">"Avaa"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopioi"</string>
+	<!---->
+	<string name="qrcode_button_save">"Tallenna"</string>
+	<!---->
+	<string name="qrcode_button_call">"Soita"</string>
+	<!---->
+	<string name="qrcode_button_email">"Sähköposti"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Yhdistä"</string>
+</resources>

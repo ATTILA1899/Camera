@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"Taasta tehaseseadetele"</string>
+	<!---->
+	<string name="pref_advanced_detail">"Täpsemalt"</string>
+	<!---->
+	<string name="pref_back_detail">"Tagasi"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"Heli salvestamine"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"EIS"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"Panoraampildi jäädvustamiseks vajutage katikut."</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"Liigutage seadet suunas, mida soovite jäädvustada."</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"Ei saa panoraami luua."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"Aeglusta"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"Liiguta üles"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"Liiguta alla"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"Tavaline"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"Sport"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"Mikro"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"Portree"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"Panoraam"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360-kraadine panoraam"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"Näoilme (4 pilti)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"Naeratus"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"Valang"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"Käsitsi"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"Lainurk"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"Filter"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"Täiendus"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"Aegluubis"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"Kollaaž"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"Öö"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"Madal"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"Kõrge"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"Väga kõrge"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"SuperFine"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"Tavaline"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"Taimer"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"Väljas"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 sekundit"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 sekundit"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 sekundit"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"Suur"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"Keskmine"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"Väike"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"<xliff:g example="10" id="numbers">%1$d</xliff:g> pildi salvestamine"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"GPS-i sildistamine"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"GPS-silt"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"Pildikvaliteet"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"Katiku heli"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"Täisekraan"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"Suur"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"Keskmine"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"Väike"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"Valangu jaoks minge tagasi tavarežiimi."</string>
+	<!---->
+	<string name="hdr_guide_capture">"Ärge liigutage seadet HDR-i hõive ajal"</string>
+	<!---->
+	<string name="tips_title">"Pidev kaader"</string>
+	<!---->
+	<string name="tips_content1">"Vajutage pikalt katikunuppu"</string>
+	<!---->
+	<string name="tips_content2">"või helitugevuse klahvi, et valanguga pildistada."</string>
+	<!---->
+	<string name="expression_guide_capture">"4 erineva ilme jäädvustamiseks vajutage katikut"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"Mälu on liiga vähe, salvestamine lõpeb automaatselt."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"Mälu on täis, sulgege esmalt mõned töötavad rakendused."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR-koodi skannimine"</string>
+	<!---->
+	<string name="qrcode_title">"QR-koodi skannimine"</string>
+	<!---->
+	<string name="qrcode_type_url">"Veebiaadress"</string>
+	<!---->
+	<string name="qrcode_type_geo">"Geograafiline asukoht"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"Wi-Fi-konfiguratsioon"</string>
+	<!---->
+	<string name="qrcode_type_contact">"Kontakt"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"Telefoninumber"</string>
+	<!---->
+	<string name="qrcode_type_email">"E-post"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"Kalender"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"tekst"</string>
+	<!---->
+	<string name="qrcode_hint_url">"Lingi avamine võib kulutada mobiiltelefoni võrguandmeid."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"Lingi avamine võib kulutada mobiiltelefoni võrguandmeid."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"Lingi avamine lisab seadetesse Wi-Fi konfiguratsiooni."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"Lingi avamine avab mobiiltelefonis märkuse rakenduse."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"Skanni fotodelt"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"Skannimisajalugu"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"Seaded"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"Sihikujoonestik"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"Kuva skannimise ajal sihikujoonestik"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"Piiks"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"Tee pärast koodi skannimist piiks"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"Vibreeri"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"Vibreeri pärast skannimist tagasiside andmiseks"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR-koodi ei leitud"</string>
+	<!---->
+	<string name="qrcode_share">"QR-koodi jagamine"</string>
+	<!---->
+	<string name="qrcode_history_open">"Puudub"</string>
+	<!---->
+	<string name="qrcode_history_share">"Jaga"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"Kustuta kõik"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"OK"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"Tühista"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"Kinnitage kustutamine"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"Kas soovite kustutada kõik skannimisloendis olevad üksused?"</string>
+	<!---->
+	<string name="qrcode_no_history">"Skannimisajalugu ei ole"</string>
+	<!---->
+	<string name="qrcode_scanning">"Pildil oleva QR-koodi skannimine ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"Wi-Fi-konfiguratsioon on lisatud"</string>
+	<!---->
+	<string name="setting_photo_title">"Foto seaded"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"Filter"</string>
+	<!---->
+	<string name="liveeffect_none">"Puudub"</string>
+	<!---->
+	<string name="liveeffect_ansel">"Noir"</string>
+	<!---->
+	<string name="liveeffect_negative">"Negatiivne"</string>
+	<!---->
+	<string name="liveeffect_relief">"Reljeefne"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"Kalasilm"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"Visand"</string>
+	<!---->
+	<string name="liveeffect_retro">"Kiire"</string>
+	<!---->
+	<string name="liveeffect_edge">"Piirjoon"</string>
+	<!---->
+	<string name="liveeffect_sepia">"Edastamine"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"Täpsemad seaded"</string>
+	<!---->
+	<string name="manual_manu_title">"See on manuaalne string"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"Katik jääb välklambirežiimis avatuks.\nVajutage katiku sulgemiseks uuesti jäädvustamisnuppu."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"Säriaeg"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"Fookuskaugus"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"Käsitsi režiim väljas"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"Kas määrata kõik käsitsi seaded automaatseks?"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"Välklambiga pildistamine."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"Kontrollige oma fotosid täielikult."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"Pidage vaid meeles see siin välja lülitada."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"Kaamera on valguse suhtes tundlik."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"Suur ISO-väärtus vajab vähem valgust, kuid teeb kehvema kvaliteediga pilte."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"Kui kaamera valib sarivõtte või ISO automaatselt , võivad teie pildid muutuda tumedamaks või heledamaks."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"Reguleerige, kui hele on välk."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"Taskulamp jääb alati sisse."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"Välk süttib ainult \nfoto tegemisel."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"Kolm fookusrežiimi: Automaatne, Lõpmatus, Lähivõte."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"Enam kui viiemeetrise kauguse puhul tuleb see rühmitada kui \'lõpmatu\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"Valgus muudab erinevates olukordades värve."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"Muutke selle reguleerimiseks valge tasakaalu."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"Valik Suur dünaamiline ulatus hoiab detailid varjus ja loob esiletõsteid, luues dramaatilise foto."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"Kollaaži puhul võetakse neli pilti ja kombineeritakse üheks fotoks."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"Sarivõte"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"Aktiveerige sarivõtterežiim, vajutades ja hoides all jäädvustusnuppu."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"Skanner"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"Nipsake paremale, et siseneda skannimisrežiimi."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"Skannimisrežiim saab skannida"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"– Vöötkoodid"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"– QR-koodid"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"– Visiitkaardid"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"Välk"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"Tagasi"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"Lähtesta"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"Video seaded"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"Kas soovite kõik käsitsi seaded lähtestada?"</string>
+	<!---->
+	<string name="photo_hdr_toast">"Ärge liigutage seadet HDR-i jäädvustamise ajal."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"Selle toimingu käsitsemiseks ei leitud ühtegi rakendust."</string>
+	<!---->
+	<string name="battery_is_low">"Aku hakkab tühjaks saama"</string>
+	<!---->
+	<string name="qrcode_website_found_title">"Veebisait on leitud"</string>
+	<!---->
+	<string name="qrcode_text_found_title">"Tekst on leitud"</string>
+	<!---->
+	<string name="qrcode_phone_number_found_title">"Telefoninumber on leitud"</string>
+	<!---->
+	<string name="qrcode_email_found_title">"E-posti aadress on leitud"</string>
+	<!---->
+	<string name="qrcode_contact_found_title">"Kontakt on leitud"</string>
+	<!---->
+	<string name="qrcode_wifi_settings_found_title">"WiFi-sätted on leitud"</string>
+	<!---->
+	<string name="qrcode_button_ignore">"Eira"</string>
+	<!---->
+	<string name="qrcode_button_open">"Ava"</string>
+	<!---->
+	<string name="qrcode_button_copy">"Kopeeri"</string>
+	<!---->
+	<string name="qrcode_button_save">"Salvesta"</string>
+	<!---->
+	<string name="qrcode_button_call">"Helista"</string>
+	<!---->
+	<string name="qrcode_button_email">"E-post"</string>
+	<!---->
+	<string name="qrcode_button_connect">"Ühenda"</string>
+</resources>

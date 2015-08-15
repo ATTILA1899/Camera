@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+     <SurfaceView
+	    android:id="@+id/bf_preview"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+    />
+     <ImageButton 
+        android:id="@+id/shutter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"  
+        android:gravity="center"  
+        android:src="@drawable/btn_shutter_beautyface"
+        android:background="#00000000"          
+        />
+     
+      <LinearLayout 
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_gravity="top|center_horizontal"  
+          android:layout_marginTop="40dp">
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textColor="#8F6600FF"
+              android:textSize="20sp"
+              android:focusable="false"
+              />          
+	     <SeekBar
+	          android:id="@+id/soften"
+	          android:layout_width="200dp"
+	          android:layout_height="wrap_content"	          
+	          android:max="100"
+	          android:secondaryProgress="30"	          
+	         />
+      </LinearLayout>
+      
+      <LinearLayout 
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal"
+          android:layout_gravity="top|center_horizontal">
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textColor="#8F6600FF"
+              android:textSize="20sp"
+              android:focusable="false"
+              />          
+	     <SeekBar
+	          android:id="@+id/bright"
+	          android:layout_width="200dp"
+	          android:layout_height="wrap_content"
+	          android:layout_gravity="bottom|center_horizontal"  
+	          android:max="100"
+	          android:secondaryProgress="30"
+	         />
+      </LinearLayout>
+      <include
+            layout="@layout/feature_thumbnail"
+            android:visibility="visible" />
+
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="top"
+         android:visibility="gone"
+         >
+         <Button 
+             android:id="@+id/button_1080"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             />
+         <Button 
+             android:id="@+id/button_720"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             />
+         <Button 
+             android:id="@+id/button_480"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             />         
+         
+     </LinearLayout>
+
+</FrameLayout>

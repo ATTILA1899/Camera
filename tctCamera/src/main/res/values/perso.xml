@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- If this value is customized in plf, reuse the auto-generated value  -->
+    <bool name="interpolation">false</bool>
+    <bool name="shutter_sound_visible">true</bool>
+    <bool name="shutter_sound_on">false</bool>
+    <bool name="no_find_flag">false</bool>
+</resources>

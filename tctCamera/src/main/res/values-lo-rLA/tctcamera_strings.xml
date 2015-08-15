@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- no translation found for pref_restore_detail -->
+	<skip />
+	<!-- no translation found for pref_advanced_detail -->
+	<skip />
+	<!-- no translation found for pref_back_detail -->
+	<skip />
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!-- no translation found for pref_sound_recording_title -->
+	<skip />
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!-- no translation found for pref_video_eis_title -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!-- no translation found for panorama_guide_shutter -->
+	<skip />
+	<!-- no translation found for panorama_guide_toward_direction -->
+	<skip />
+	<!-- no translation found for pano_dialog_panorama_generate_failed -->
+	<skip />
+	<!-- no translation found for pano_slow_down_prompt -->
+	<skip />
+	<!-- no translation found for pano_move_up_prompt -->
+	<skip />
+	<!-- no translation found for pano_move_down_prompt -->
+	<skip />
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_normal -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_sports -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_micro -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_facebeauty -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_panorama -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_panor360 -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_expression4 -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_smile -->
+	<skip />
+	<!-- no translation found for pref_camera_burstshot_title -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_wideangle -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_filter -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_makeup -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_slowmotion -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_collage -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_nightmode -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!-- no translation found for pref_video_quality_entry_low -->
+	<skip />
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!-- no translation found for pref_video_quality_entry_high -->
+	<skip />
+	<!-- no translation found for pref_video_quality_entry_fine -->
+	<skip />
+	<!-- no translation found for pref_video_quality_entry_superfine -->
+	<skip />
+	<!-- no translation found for pref_video_quality_entry_normal -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_title -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_5 -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_10 -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_3_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_5_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_10_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_xlarge -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_large -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_medium -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_small -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!-- no translation found for continuous_saving_pictures -->
+	<skip />
+	<!-- no translation found for pref_gps_tagging_title -->
+	<skip />
+	<!-- no translation found for pref_gps_tag_title -->
+	<skip />
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!-- no translation found for pref_picture_quality_title -->
+	<skip />
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sound_title -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_title -->
+	<skip />
+	<!-- no translation found for pref_picture_quality_entry_best -->
+	<skip />
+	<!-- no translation found for pref_picture_quality_entry_good -->
+	<skip />
+	<!-- no translation found for pref_picture_quality_entry_normal -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!-- no translation found for normal_camera_continuous_not_supported -->
+	<skip />
+	<!-- no translation found for hdr_guide_capture -->
+	<skip />
+	<!-- no translation found for tips_title -->
+	<skip />
+	<!-- no translation found for tips_content1 -->
+	<skip />
+	<!-- no translation found for tips_content2 -->
+	<skip />
+	<!-- no translation found for expression_guide_capture -->
+	<skip />
+	<!-- no translation found for video_bad_performance_auto_stop -->
+	<skip />
+	<!-- no translation found for burstshot_low_memory_auto_stop -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_qrcode -->
+	<skip />
+	<!-- no translation found for qrcode_title -->
+	<skip />
+	<!-- no translation found for qrcode_type_url -->
+	<skip />
+	<!-- no translation found for qrcode_type_geo -->
+	<skip />
+	<!-- no translation found for qrcode_type_wifi -->
+	<skip />
+	<!-- no translation found for qrcode_type_contact -->
+	<skip />
+	<!-- no translation found for qrcode_type_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_type_email -->
+	<skip />
+	<!-- no translation found for qrcode_type_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_type_sms -->
+	<skip />
+	<!-- no translation found for qrcode_type_plaintext -->
+	<skip />
+	<!-- no translation found for qrcode_hint_url -->
+	<skip />
+	<!-- no translation found for qrcode_hint_geo -->
+	<skip />
+	<!-- no translation found for qrcode_hint_wifi -->
+	<skip />
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!-- no translation found for qrcode_hint_plaintext -->
+	<skip />
+	<!-- no translation found for qrcode_menu_scanfromphotos -->
+	<skip />
+	<!-- no translation found for qrcode_menu_scanhistory -->
+	<skip />
+	<!-- no translation found for qrcode_menu_settings -->
+	<skip />
+	<!-- no translation found for qrcode_settings_crosshairs -->
+	<skip />
+	<!-- no translation found for qrcode_settings_crosshairs_detail -->
+	<skip />
+	<!-- no translation found for qrcode_settings_beep -->
+	<skip />
+	<!-- no translation found for qrcode_settings_beep_detail -->
+	<skip />
+	<!-- no translation found for qrcode_settings_vibrate -->
+	<skip />
+	<!-- no translation found for qrcode_settings_vibrate_detail -->
+	<skip />
+	<!-- no translation found for qrcode_notfound -->
+	<skip />
+	<!-- no translation found for qrcode_share -->
+	<skip />
+	<!-- no translation found for qrcode_history_open -->
+	<skip />
+	<!-- no translation found for qrcode_history_share -->
+	<skip />
+	<!-- no translation found for qrcode_history_clearall -->
+	<skip />
+	<!-- no translation found for qrcode_dialog_ok -->
+	<skip />
+	<!-- no translation found for qrcode_dialog_cancel -->
+	<skip />
+	<!-- no translation found for qrcode_dialog_deletetitle -->
+	<skip />
+	<!-- no translation found for qrcode_dialog_confirmdelete -->
+	<skip />
+	<!-- no translation found for qrcode_no_history -->
+	<skip />
+	<!-- no translation found for qrcode_scanning -->
+	<skip />
+	<!-- no translation found for qrcode_toast_wifi -->
+	<skip />
+	<!-- no translation found for setting_photo_title -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_entry_filter -->
+	<skip />
+	<!-- no translation found for liveeffect_none -->
+	<skip />
+	<!-- no translation found for liveeffect_ansel -->
+	<skip />
+	<!-- no translation found for liveeffect_negative -->
+	<skip />
+	<!-- no translation found for liveeffect_relief -->
+	<skip />
+	<!-- no translation found for liveeffect_fisheye -->
+	<skip />
+	<!-- no translation found for liveeffect_charcoal -->
+	<skip />
+	<!-- no translation found for liveeffect_retro -->
+	<skip />
+	<!-- no translation found for liveeffect_edge -->
+	<skip />
+	<!-- no translation found for liveeffect_sepia -->
+	<skip />
+	<!-- no translation found for setting_photo_advanced_title -->
+	<skip />
+	<!-- no translation found for manual_manu_title -->
+	<skip />
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_bulb_shot_capturing_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_shutterspeed -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_focusvalue -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_reset -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_reset_toast_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_capturing_hint -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_exposure_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_hdr_first_time_tip -->
+	<skip />
+	<!-- no translation found for mode_collage_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_burst_label -->
+	<skip />
+	<!-- no translation found for mode_burst_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_scanner_label -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content4 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content5 -->
+	<skip />
+	<!-- no translation found for pref_camera_flash_duty_title -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!-- no translation found for manual_menu_backkey -->
+	<skip />
+	<!-- no translation found for manual_menu_resetkey -->
+	<skip />
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!-- no translation found for setting_video_title -->
+	<skip />
+	<!-- no translation found for confirm_restore_toauto_message -->
+	<skip />
+	<!-- no translation found for photo_hdr_toast -->
+	<skip />
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!-- no translation found for missing_app -->
+	<skip />
+	<!-- no translation found for battery_is_low -->
+	<skip />
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_button_ignore -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_open">"ເປີດ"</string>
+	<!---->
+	<string name="qrcode_button_copy">"ກ໋ອປປີ້"</string>
+	<!-- no translation found for qrcode_button_save -->
+	<skip />
+	<!-- no translation found for qrcode_button_call -->
+	<skip />
+	<!-- no translation found for qrcode_button_email -->
+	<skip />
+	<!-- no translation found for qrcode_button_connect -->
+	<skip />
+</resources>

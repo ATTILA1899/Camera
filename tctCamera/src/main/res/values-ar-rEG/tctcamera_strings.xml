@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"استعادة القيم الافتراضية"</string>
+	<!---->
+	<string name="pref_advanced_detail">"خيارات متقدمة"</string>
+	<!---->
+	<string name="pref_back_detail">"رجوع"</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"المايكروفون"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_eis_title">"التثبيت الإلكتروني للصورة"</string>
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"اضغط على الغالق لبدء التقاط البانوراما"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"حرّك الهاتف ناحية اتجاه الالتقاط"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"تعذر إنشاء البانوراما."</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"تقليل سرعة"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"نقل لأعلى"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"نقل لأسفل"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"عادي"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"رياضة"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"مايكرو"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"جمال الوجه"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"عرض بانورامي"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"360 Panorama"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"التعبير (4 لقطات)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"ابتسامة"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"لقطة متتابعة"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"يدوي"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_wideangle">"ز. عريضة"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"تصفية"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_makeup">"إنشاء"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_slowmotion">"إجراء بطيء"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_collage">"تجميع الصور"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"ليل"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"منخفض"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"مرتفع"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"جيد"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"فائق الجودة"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"عادي"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"الموقت"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"إيقاف"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3 ثوانٍ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5 ثوانٍ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10 ثوانٍ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3_seconds">"3 ثوانٍ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5_seconds">"5 ثوانٍ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10_seconds">"10 ثوانٍ"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_xlarge">"XLarge"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"كبير"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"متوسطة"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"صغير"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!---->
+	<string name="continuous_saving_pictures">"حفظ <xliff:g example="10" id="numbers">%1$d</xliff:g> صورة"</string>
+	<!---->
+	<string name="pref_gps_tagging_title">"إضافة علامات GPS"</string>
+	<!---->
+	<string name="pref_gps_tag_title">"علامة GPS"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"جودة الصورة"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"صوت الغالق"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_ratio_title">"شاشة كاملة"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_best">"كبير"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"متوسطة"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"صغير"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"يرجى الرجوع إلى الوضع العادي للتصوير المتتابع."</string>
+	<!---->
+	<string name="hdr_guide_capture">"لا تحرك الجهاز أثناء التقاط HDR"</string>
+	<!---->
+	<string name="tips_title">"التصوير المستمر"</string>
+	<!---->
+	<string name="tips_content1">"اضغط باستمرار على زر الغالق"</string>
+	<!---->
+	<string name="tips_content2">"أو على مفتاح مستوى الصوت للالتقاط المتتابع."</string>
+	<!---->
+	<string name="expression_guide_capture">"اضغط على زر الغالق لالتقاط 4 تعبيرات مختلفة"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"الذاكرة منخفضة. إيقاف التسجيل تلقائيًا."</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"لا تتوفر مساحة إضافية بالذاكرة, يرجى إغلاق بعض التطبيقات المشغلة أولاً."</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"مسح رمز QR"</string>
+	<!---->
+	<string name="qrcode_title">"مسح رمز QR"</string>
+	<!---->
+	<string name="qrcode_type_url">"عنوان ويب"</string>
+	<!---->
+	<string name="qrcode_type_geo">"تحديد الموقع الجغرافي"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"تهيئة Wi-Fi"</string>
+	<!---->
+	<string name="qrcode_type_contact">"جهة اتصال"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"رقم الهاتف"</string>
+	<!---->
+	<string name="qrcode_type_email">"البريد الإلكتروني"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"التقويم"</string>
+	<!---->
+	<string name="qrcode_type_sms">"الرسائل النصية (SMS)"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"نص"</string>
+	<!---->
+	<string name="qrcode_hint_url">"عند فتح الرابط، قد يتم استهلاك بيانات الشبكة في هاتفك المحمول."</string>
+	<!---->
+	<string name="qrcode_hint_geo">"عند فتح الرابط، قد يتم استهلاك بيانات الشبكة في هاتفك المحمول."</string>
+	<!---->
+	<string name="qrcode_hint_wifi">"عند فتح الرابط، ستتم إضافة تهيئة Wi-Fi في الإعدادات."</string>
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!---->
+	<string name="qrcode_hint_plaintext">"عند فتح الرابط، سيتم فتح تطبيق "المدونة" في هاتفك المحمول."</string>
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"مسح الصور"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"محفوظات المسح"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"الإعدادات"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs">"الشعيرات المتقاطعة"</string>
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"إظهار الشعيرات المتقاطعة أثناء المسح"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"إشارة صوتية"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"إشارة صوتية بعد مسح الرمز"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"اهتزاز"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"تأثير اهتزاز بعد المسح"</string>
+	<!---->
+	<string name="qrcode_notfound">"لم يتم العثور على رمز QR"</string>
+	<!---->
+	<string name="qrcode_share">"مشاركة رمز QR"</string>
+	<!---->
+	<string name="qrcode_history_open">"فتح"</string>
+	<!---->
+	<string name="qrcode_history_share">"مشاركة"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"مسح الكل"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"موافق"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"إلغاء"</string>
+	<!---->
+	<string name="qrcode_dialog_deletetitle">"تأكيد الحذف"</string>
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"هل تريد حذف جميع العناصر في قائمة المسح؟"</string>
+	<!---->
+	<string name="qrcode_no_history">"لا توجد محفوظات للمسح"</string>
+	<!---->
+	<string name="qrcode_scanning">"جارٍ مسح رمز QR في الصورة ..."</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"تمت إضافة تهيئة Wi-Fi"</string>
+	<!---->
+	<string name="setting_photo_title">"إعدادات الصورة"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"تصفية"</string>
+	<!---->
+	<string name="liveeffect_none">"بدون"</string>
+	<!---->
+	<string name="liveeffect_ansel">"أسلوب التصوير نوار"</string>
+	<!---->
+	<string name="liveeffect_negative">"سلبي"</string>
+	<!---->
+	<string name="liveeffect_relief">"راحة"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"عين سمكة"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"تخطيط"</string>
+	<!---->
+	<string name="liveeffect_retro">"فوري"</string>
+	<!---->
+	<string name="liveeffect_edge">"تخطيط"</string>
+	<!---->
+	<string name="liveeffect_sepia">"نقل"</string>
+	<!---->
+	<string name="setting_photo_advanced_title">"الإعدادات المتقدمة"</string>
+	<!---->
+	<string name="manual_manu_title">"هذه سلسلة يدوية"</string>
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_bulb_shot_capturing_hint">"يظل الغالق مفتوحًا في وضع المصباح.\n اضغط على زر التقاط مرة أخرى لغلق الغالق."</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_shutterspeed">"سرعة الغالق"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual_focusvalue">"البعد البؤري"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"إيقاف تشغيل الوضع اليدوي"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_reset_toast_hint">"هل تريد تعيين جميع الإعدادات اليدوية على "تلقائي"؟"</string>
+	<!---->
+	<string name="pref_camera_manual_mode_capturing_hint">"التصوير مع استخدام المصباح."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content1">"تحكم بشكل كامل في صورك."</string>
+	<!---->
+	<string name="mmode_manual_mode_first_time_tip_content2">"تذكر فقط إغلاقها هنا."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content1">"حساسية الكاميرا للضوء."</string>
+	<!---->
+	<string name="mmode_iso_first_time_tip_content2">"يحتاج ISO الأعلى إلى ضوء قليل، لكنه يخفض الجودة."</string>
+	<!---->
+	<string name="mmode_exposure_first_time_tip_content1">"إذا كانت كاميراتك تختار ISO أو سرعة الغالق لك، فهذا يجعل صورك  أغمق أو أفتح."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content1">"تحكم في كيفية سطوع الفلاش الخاص بك."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content2">"يبقى المصباح مضيئًا على الدوام."</string>
+	<!---->
+	<string name="mmode_flash_first_time_tip_content3">"يضيء الفلاش فقط عندما\nتقوم بالتقاط صورة."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content1">"أوضاع البؤرة الثلاثة هي تلقائي والوضع البعيد والقالب."</string>
+	<!---->
+	<string name="mmode_focus_distance_first_time_tip_content2">"إذا كانت المسافة أكثر من خمسة أمتار، فهذا يصنف على أنه \'لا نهائي\'."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content1">"الضوء يغير اللون بناءً على الوضع."</string>
+	<!---->
+	<string name="mmode_wb_first_time_tip_content2">"قم بتغيير توازن اللون الأبيض للتحكم في ذلك."</string>
+	<!---->
+	<string name="mode_hdr_first_time_tip">"يحتفظ المدى الديناميكي المرتفع بتفاصيل في تركيزات الألوان والظلال، مما يؤدي إلى إنشاء صورة دراماتيكية."</string>
+	<!---->
+	<string name="mode_collage_first_time_tip">"تعمل خاصية تجميع الصور على التقاط أربع صور وتجميعهم في صورة واحدة."</string>
+	<!---->
+	<string name="pref_camera_burst_label">"التقاط لقطات متتالية"</string>
+	<!---->
+	<string name="mode_burst_first_time_tip">"يمكنك تنشيط التقاط الصور المتلاحقة بالضغط مع الاستمرار على زر الالتقاط."</string>
+	<!---->
+	<string name="pref_camera_scanner_label">"الماسح الضوئي"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content1">"حرك إصبعك لليمين للدخول في وضع المسح."</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content2">"بإمكان وضع المسح إجراء مسح"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content3">"- رموز شريطية"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content4">"- رموز QR"</string>
+	<!---->
+	<string name="mode_scanner_first_time_tip_content5">"- بطاقات أعمال"</string>
+	<!---->
+	<string name="pref_camera_flash_duty_title">"الفلاش"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"رجوع"</string>
+	<!---->
+	<string name="manual_menu_resetkey">"إعادة ضبط"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!---->
+	<string name="setting_video_title">"إعدادات الفيديو"</string>
+	<!---->
+	<string name="confirm_restore_toauto_message">"هل ترغب في إعادة تعيين جميع الإعدادات اليدوية؟"</string>
+	<!---->
+	<string name="photo_hdr_toast">"لا تقم بتحريك الجهاز أثناء التقاط HDR."</string>
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!---->
+	<string name="missing_app">"لم يتم العثور على تطبيق للتعامل مع هذا الإجراء."</string>
+	<!---->
+	<string name="battery_is_low">"مستوى البطارية منخفض"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"تجاهل"</string>
+	<!---->
+	<string name="qrcode_button_open">"فتح"</string>
+	<!---->
+	<string name="qrcode_button_copy">"نسخ"</string>
+	<!---->
+	<string name="qrcode_button_save">"حفظ"</string>
+	<!---->
+	<string name="qrcode_button_call">"اتصال"</string>
+	<!---->
+	<string name="qrcode_button_email">"بريد إلكتروني"</string>
+	<!---->
+	<string name="qrcode_button_connect">"اتصال"</string>
+</resources>

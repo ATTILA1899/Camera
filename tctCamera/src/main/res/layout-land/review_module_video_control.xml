@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<com.android.camera.ui.RotatableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/CameraControls"
+        android:layout_gravity="bottom|center_horizontal">
+        <!-- android:layout_marginBottom="2dip" --><!-- [PR]-DEL by TCTNB.(Liu Jie), 2014/01/18,PR-590083-->
+       <com.android.camera.ui.RotatePhoto android:id="@+id/review_image"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:clickable="true"
+            android:focusable="false"
+            android:background="@android:color/black"/>
+       <LinearLayout
+        style="@style/ReviewIconGroup">
+        <com.android.camera.ui.RotateImageView
+            android:id="@+id/btn_retake"
+            style="@style/ReviewControlIcon"
+            android:scaleType="center"
+            android:visibility="gone"
+            android:background="@drawable/bg_pressed"
+            android:src="@drawable/ic_retake"/>
+        <com.android.camera.ui.RotateImageView
+            android:id="@+id/btn_play"
+            style="@style/ReviewControlIcon"
+            android:scaleType="center"
+            android:visibility="gone"
+            android:background="@drawable/bg_pressed"
+            android:src="@drawable/ic_play"/>
+        </LinearLayout>
+<LinearLayout
+    android:id="@+id/camera_shutter"
+    style="@style/ShutterGroup" >
+    <com.android.camera.ui.RotateImageView android:id="@+id/btn_cancel"
+        style="@style/ShutterButton"
+        android:scaleType="center"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@android:string/cancel"
+        android:src="@drawable/btn_cancel" />
+    <ImageView style="@style/ShutterButtonSeperator"
+        android:layout_width="1dp"
+        android:layout_weight="0" />
+    <com.android.camera.ui.RotateImageView android:id="@+id/btn_done"
+        style="@style/ShutterButton"
+        android:scaleType="center"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@android:string/ok"
+        android:src="@drawable/btn_ok" />
+</LinearLayout>
+
+    <!--ImageView android:id="@+id/btn_done"
+            style="@style/ShutterButton"
+            android:contentDescription="@string/accessibility_review_ok"
+            android:visibility="gone"
+            android:scaleType="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_pressed"
+            android:src="@drawable/ic_ok" />
+    <ImageView android:id="@+id/btn_cancel"
+            style="@style/ShutterButton"
+            android:contentDescription="@string/accessibility_review_cancel"
+            android:visibility="gone"
+            android:scaleType="center"
+            android:layout_weight="1"
+            android:background="@drawable/bg_pressed"
+            android:src="@drawable/ic_cancel" /-->
+</com.android.camera.ui.RotatableLayout>

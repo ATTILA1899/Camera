@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		this file is built by arct v:froyo_2011-03-23, Fri Jun 12 00:12:15 GMT+08:00 2015
+	-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!---->
+	<string name="pref_restore_detail">"မူလအခြေအနေများသို့ပြန်ထားသည်"</string>
+	<!---->
+	<string name="pref_advanced_detail">"အဆင့်မြှင့်ထားပြီး"</string>
+	<!---->
+	<string name="pref_back_detail">"ေနာက္သို."</string>
+	<!-- no translation found for pref_sound_recording_def_value -->
+	<skip />
+	<!---->
+	<string name="pref_sound_recording_title">"အသံဖမ္းယူျခင္း"</string>
+	<!-- no translation found for pref_video_eis_default -->
+	<skip />
+	<!-- no translation found for pref_video_eis_title -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_default -->
+	<skip />
+	<!-- no translation found for pref_video_limit_for_mms_title -->
+	<skip />
+	<!-- no translation found for accessibility_switch -->
+	<skip />
+	<!---->
+	<string name="panorama_guide_shutter">"ပန္ႏုိရားမား ရိုက္ရန္ ရွပ္တာခလုတ္ ကို ႏွိပ္ပါ"</string>
+	<!---->
+	<string name="panorama_guide_toward_direction">"သင္သိမ္းဆည္းမႈဦးတည္ရာသို႔ ဖုန္းအားေရႊ႕ပါ။"</string>
+	<!---->
+	<string name="pano_dialog_panorama_generate_failed">"ပန္ႏုိရားမား ထုတ္၍မရပါ။"</string>
+	<!---->
+	<string name="pano_slow_down_prompt">"ေျဖးေျဖး"</string>
+	<!---->
+	<string name="pano_move_up_prompt">"အပေါ်ကို ရွှေ့ပါ"</string>
+	<!---->
+	<string name="pano_move_down_prompt">"အောက်ကို ရွှေ့ပါ"</string>
+	<!-- no translation found for pref_camera_capturesound_default -->
+	<skip />
+	<!-- no translation found for pref_auto_exposure_lock_default -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_normal">"ပုံမှန်"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_sports">"အားကစား"</string>
+	<!---->
+	<string name="pref_camera_capturemode_entry_micro">"ေသးငယ္ေသာ"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_hdr -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_facebeauty">"မျက်နှာလှပစေမှု"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panorama">"မြင်ကွင်းကျယ်ပုံစံ"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_panor360">"ျမင္ကြင္းက်ယ္ 360"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_expression4">"မ်က္ႏွာထား (၄-ပံု)"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_smile">"ျပဳံးပါ"</string>
+	<!---->
+	<string name="pref_camera_burstshot_title">"ဆက္တိုက္ရုိက္ျခင္း"</string>
+	<!---->
+	<string name="pref_camera_capturemode_enrty_manual">"လူကိုယ္တိုင္"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_wideangle -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_enrty_filter">"အင်တာနက်ကြည့်ရှုခြင်းကန့်သတ်ချက်"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_makeup -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_slowmotion -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_collage -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_nightmode">"ည"</string>
+	<!-- no translation found for pref_camera_capturemode_enrty_raw -->
+	<skip />
+	<!-- no translation found for pref_camera_night_default -->
+	<skip />
+	<!-- no translation found for pref_camera_sports_default -->
+	<skip />
+	<!-- no translation found for pref_tctcamera_antibanding_default -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_low">"အနိမ့်"</string>
+	<!-- no translation found for pref_video_quality_entry_medium -->
+	<skip />
+	<!---->
+	<string name="pref_video_quality_entry_high">"များ"</string>
+	<!---->
+	<string name="pref_video_quality_entry_fine">"ကောင်း"</string>
+	<!---->
+	<string name="pref_video_quality_entry_superfine">"အဆင့္ျမင့္အရည္အေသြး"</string>
+	<!---->
+	<string name="pref_video_quality_entry_normal">"ပုံမှန်"</string>
+	<!---->
+	<string name="pref_camera_selftimer_title">"အခ်ိန္မွတ္သည့္အရာ"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_off">"OFF"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_3">"3s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_5">"5s"</string>
+	<!---->
+	<string name="pref_camera_selftimer_entry_10">"10s"</string>
+	<!-- no translation found for pref_camera_selftimer_entry_3_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_5_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_selftimer_entry_10_seconds -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_xlarge -->
+	<skip />
+	<!---->
+	<string name="pref_camera_picturesize_entry_large">"ကြီးသော"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_medium">"အလယ္အလတ္"</string>
+	<!---->
+	<string name="pref_camera_picturesize_entry_small">"သေးငယ်သော"</string>
+	<!-- no translation found for pref_camera_picturesize_entry_one -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_two -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_three -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_four -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_five -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_six -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_seven -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_eight -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_nine -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_entry_ten -->
+	<skip />
+	<!-- no translation found for continuous_saving_pictures -->
+	<skip />
+	<!-- no translation found for pref_gps_tagging_title -->
+	<skip />
+	<!---->
+	<string name="pref_gps_tag_title">"GPS အမွတ္အသားထည့္သြင္းျခင္း"</string>
+	<!-- no translation found for pref_gps_tag_default -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_title">"ရုပ္ပံုအရည္အေသြး"</string>
+	<!-- no translation found for pref_picture_quality_default -->
+	<skip />
+	<!-- no translation found for pref_camera_cap_mode_default -->
+	<skip />
+	<!-- no translation found for pref_camera_picture_ratio_default -->
+	<skip />
+	<!---->
+	<string name="pref_camera_sound_title">"ရွပ္တာအသံ"</string>
+	<!-- no translation found for pref_auto_exposure_lock_title -->
+	<skip />
+	<!-- no translation found for pref_camera_wav_denoise_title -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_title -->
+	<skip />
+	<!---->
+	<string name="pref_picture_quality_entry_best">"ကြီးသော"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_good">"အလယ္အလတ္"</string>
+	<!---->
+	<string name="pref_picture_quality_entry_normal">"သေးငယ်သော"</string>
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_4_3 -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_ratio_entry_16_9 -->
+	<skip />
+	<!---->
+	<string name="normal_camera_continuous_not_supported">"ဖ်တ္ခနဲ ဓာတ္ပံု႐ိုက္ရန္ ေက်းဇူးျပဳၿပီး ပံုမွန္အေျခအေနကို ျပန္လွည့္ပါ။"</string>
+	<!---->
+	<string name="hdr_guide_capture">"HDR ရိုက်ကူးစဉ် ပစ္စည်းကို မရွှေ့ပါနှင့်"</string>
+	<!---->
+	<string name="tips_title">"ဆက္တိုက္ရုိက္ခ်က္"</string>
+	<!---->
+	<string name="tips_content1">"ရွပ္တာ ခလုတ္ကိုၾကာျမင့္စြာႏွိပ္ပါ"</string>
+	<!---->
+	<string name="tips_content2">"ဒါမွမဟုတ္ အသံပမာဏခလုတ္ကိုၾကာျမင့္စြာႏွိပ္ပါ"</string>
+	<!---->
+	<string name="expression_guide_capture">"ကြဲျပားေသာ အေနအထားေဖာ္ျပမႈ ၄မိ်ုးရိုက္ရန္ ရွပ္တာခလုတ္ကိုႏွိပ္ပါ"</string>
+	<!---->
+	<string name="video_bad_performance_auto_stop">"မွတ္ႏုိင္စြမ္း နည္းေနသည္။ အသံဖမ္းယူျခင္း အလိုအေလ်ာက္ရပ္သည္။"</string>
+	<!---->
+	<string name="burstshot_low_memory_auto_stop">"မွတ္ႏုိင္မႈစြမ္းရည္မရွိေတာ့ပါ၊ အလုပ္လုပ္ေနသည့္ ပရိုဂရမ္မ်ားကို ေက်းဇူးျပဳ၍ အရင္ဆံုးပိတ္ပါ။"</string>
+	<!-- no translation found for pref_camera_voiceshutter_title -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_off -->
+	<skip />
+	<!-- no translation found for pref_camera_voiceshutter_entry_on -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_before_shooting -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_cmd -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_tip_for_open -->
+	<skip />
+	<!-- no translation found for camera_voiceshutter_no_voiceinput_apk -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_13mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_6mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_8mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_3_2mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_5mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_2_4mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1_3mp -->
+	<skip />
+	<!-- no translation found for pref_camera_picturesize_1mp -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_qrcode">"QR ကုဒ္ စကင္"</string>
+	<!---->
+	<string name="qrcode_title">"QR ကုဒ္ စကင္"</string>
+	<!---->
+	<string name="qrcode_type_url">"ဝက္(ဘ္) လိပ္စာ"</string>
+	<!---->
+	<string name="qrcode_type_geo">"ပထဝီအေနအထား"</string>
+	<!---->
+	<string name="qrcode_type_wifi">"ဝိုင္-ဖိုင္ အသံုးျပဳရန္ျပင္ဆင္ျခင္း"</string>
+	<!---->
+	<string name="qrcode_type_contact">"ဖုန္းစာအုပ္"</string>
+	<!---->
+	<string name="qrcode_type_phonenumber">"ဖုန်း နံပါတ်"</string>
+	<!---->
+	<string name="qrcode_type_email">"အီးမေး(လ်)"</string>
+	<!---->
+	<string name="qrcode_type_calendar">"ပြက္ခဒိန်"</string>
+	<!---->
+	<string name="qrcode_type_sms">"SMS"</string>
+	<!---->
+	<string name="qrcode_type_plaintext">"စာသား"</string>
+	<!-- no translation found for qrcode_hint_url -->
+	<skip />
+	<!-- no translation found for qrcode_hint_geo -->
+	<skip />
+	<!-- no translation found for qrcode_hint_wifi -->
+	<skip />
+	<!-- no translation found for qrcode_hint_contact -->
+	<skip />
+	<!-- no translation found for qrcode_hint_phonenumber -->
+	<skip />
+	<!-- no translation found for qrcode_hint_email -->
+	<skip />
+	<!-- no translation found for qrcode_hint_calendar -->
+	<skip />
+	<!-- no translation found for qrcode_hint_sms -->
+	<skip />
+	<!-- no translation found for qrcode_hint_plaintext -->
+	<skip />
+	<!---->
+	<string name="qrcode_menu_scanfromphotos">"ဓါတ္ပံုမ်ားမွ စကင္လုပ္ပါ။"</string>
+	<!---->
+	<string name="qrcode_menu_scanhistory">"စကင္ေနာက္ေၾကာင္း"</string>
+	<!---->
+	<string name="qrcode_menu_settings">"ဆက္တင္မ်ား"</string>
+	<!-- no translation found for qrcode_settings_crosshairs -->
+	<skip />
+	<!---->
+	<string name="qrcode_settings_crosshairs_detail">"စကင္လုပ္ေနစဥ္ ၾကက္ေျခခတ္မ်ဥ္းမ်ားျပသည္။"</string>
+	<!---->
+	<string name="qrcode_settings_beep">"ဘီ(ပ္)သံ"</string>
+	<!---->
+	<string name="qrcode_settings_beep_detail">"ကုဒ္ကို စကင္လုပ္ၿပီးေနာက္ ဘိ(ပ္)သံ"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate">"တုန္ခါပါ"</string>
+	<!---->
+	<string name="qrcode_settings_vibrate_detail">"စကင္လုပ္ၿပီးေသာအခါ တံု႔ျပန္မႈ တုန္ခါသည္။"</string>
+	<!---->
+	<string name="qrcode_notfound">"QR ကုဒ္ရွာမေတြ႔ပါ။"</string>
+	<!-- no translation found for qrcode_share -->
+	<skip />
+	<!---->
+	<string name="qrcode_history_open">"ဖွင့်"</string>
+	<!---->
+	<string name="qrcode_history_share">"မွ်ေ၀ပါ"</string>
+	<!---->
+	<string name="qrcode_history_clearall">"ကွတ်ကီး(စ်)ဒေတာအားလုံးကို ရှင်းလင်းပါ"</string>
+	<!---->
+	<string name="qrcode_dialog_ok">"အုိေက"</string>
+	<!---->
+	<string name="qrcode_dialog_cancel">"ပယ္ဖ်က္မည္"</string>
+	<!-- no translation found for qrcode_dialog_deletetitle -->
+	<skip />
+	<!---->
+	<string name="qrcode_dialog_confirmdelete">"သင္သည္အခ်က္မ်ားအားလံုးကို စကင္စာရင္းမွ ဖယ္ရွားခ်င္ပါသလား။"</string>
+	<!---->
+	<string name="qrcode_no_history">"စကင္ေနာက္ေၾကာင္းမရွိပါ။"</string>
+	<!---->
+	<string name="qrcode_scanning">"ပံုတြင္ စကင္ဖတ္ျခင္း QR ကုဒ္"</string>
+	<!---->
+	<string name="qrcode_toast_wifi">"ဝိုင္-ဖိုင္ အသံုးျပဳရန္ျပင္ဆင္မႈေပါင္းထည့္သည္။"</string>
+	<!-- no translation found for setting_photo_title -->
+	<skip />
+	<!---->
+	<string name="pref_camera_capturemode_entry_filter">"အင်တာနက်ကြည့်ရှုခြင်းကန့်သတ်ချက်"</string>
+	<!---->
+	<string name="liveeffect_none">"မရွိ"</string>
+	<!-- no translation found for liveeffect_ansel -->
+	<skip />
+	<!---->
+	<string name="liveeffect_negative">"ဖလင်/နက်ဂတစ်"</string>
+	<!---->
+	<string name="liveeffect_relief">"သက္သာရာရသည္"</string>
+	<!---->
+	<string name="liveeffect_fisheye">"မှန်ဘီလူးဖြင့်သက်ရောက်ချက်"</string>
+	<!---->
+	<string name="liveeffect_charcoal">"ပံုၾကမ္း"</string>
+	<!---->
+	<string name="liveeffect_retro">"အရန္သင့္"</string>
+	<!---->
+	<string name="liveeffect_edge">"ပုံအနားေရးအေၾကာင္း"</string>
+	<!-- no translation found for liveeffect_sepia -->
+	<skip />
+	<!---->
+	<string name="setting_photo_advanced_title">"အဆင့္ျမင့္ဆက္တင္မ်ား"</string>
+	<!-- no translation found for manual_manu_title -->
+	<skip />
+	<!-- no translation found for manual_manu_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_flash -->
+	<skip />
+	<!-- no translation found for manual_manu_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_focus -->
+	<skip />
+	<!-- no translation found for manual_manu_title_iso -->
+	<skip />
+	<!-- no translation found for manual_manu_title_exposure -->
+	<skip />
+	<!-- no translation found for manual_manu_title_wb -->
+	<skip />
+	<!-- no translation found for manual_manu_title_focus -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_bulb_shot_capturing_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_shutterspeed -->
+	<skip />
+	<!-- no translation found for pref_camera_capturemode_enrty_manual_focusvalue -->
+	<skip />
+	<!---->
+	<string name="pref_camera_manual_mode_reset">"အဆင့္ျမင့္"</string>
+	<!-- no translation found for pref_camera_manual_mode_reset_toast_hint -->
+	<skip />
+	<!-- no translation found for pref_camera_manual_mode_capturing_hint -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_manual_mode_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_iso_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_exposure_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_flash_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_focus_distance_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mmode_wb_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_hdr_first_time_tip -->
+	<skip />
+	<!-- no translation found for mode_collage_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_burst_label -->
+	<skip />
+	<!-- no translation found for mode_burst_first_time_tip -->
+	<skip />
+	<!-- no translation found for pref_camera_scanner_label -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content1 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content2 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content3 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content4 -->
+	<skip />
+	<!-- no translation found for mode_scanner_first_time_tip_content5 -->
+	<skip />
+	<!---->
+	<string name="pref_camera_flash_duty_title">"ဖလက်(ရှ်)မီး"</string>
+	<!-- no translation found for pref_manual_mode_flash_duty_value_off -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_auto -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_flash_full -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_low -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_medium -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_high -->
+	<skip />
+	<!-- no translation found for pref_manual_mode_flash_duty_value_torch_full -->
+	<skip />
+	<!---->
+	<string name="manual_menu_backkey">"ေနာက္သို."</string>
+	<!---->
+	<string name="manual_menu_resetkey">"ပြန်လည်သတ်မှတ်ရန်"</string>
+	<!-- no translation found for pref_camera_focusmode_default -->
+	<skip />
+	<!-- no translation found for setting_video_title -->
+	<skip />
+	<!-- no translation found for confirm_restore_toauto_message -->
+	<skip />
+	<!-- no translation found for photo_hdr_toast -->
+	<skip />
+	<!-- no translation found for expression_text_1 -->
+	<skip />
+	<!-- no translation found for expression_text_2 -->
+	<skip />
+	<!-- no translation found for expression_text_3 -->
+	<skip />
+	<!-- no translation found for expression_text_4 -->
+	<skip />
+	<!-- no translation found for missing_app -->
+	<skip />
+	<!---->
+	<string name="battery_is_low">"အားသြင္းစက္ကိုခ်ိတ္ဆက္ပါ"</string>
+	<!-- no translation found for qrcode_website_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_text_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_phone_number_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_email_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_contact_found_title -->
+	<skip />
+	<!-- no translation found for qrcode_wifi_settings_found_title -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_ignore">"ဖုန္းမကို္င္ပါ"</string>
+	<!-- no translation found for qrcode_button_open -->
+	<skip />
+	<!-- no translation found for qrcode_button_copy -->
+	<skip />
+	<!-- no translation found for qrcode_button_save -->
+	<skip />
+	<!-- no translation found for qrcode_button_call -->
+	<skip />
+	<!---->
+	<string name="qrcode_button_email">"အီးမေး(လ်)"</string>
+	<!-- no translation found for qrcode_button_connect -->
+	<skip />
+</resources>

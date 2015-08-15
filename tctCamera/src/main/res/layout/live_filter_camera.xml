@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/camera_root">
+    <include layout="@layout/gl_preview_effects_root_group"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <com.android.camera.effects.FocusWindowView
+            android:id="@+id/focus_window"
+            android:layout_width="90dp"
+            android:layout_height="90dp" />
+        <include
+            layout="@layout/preview_effects_thumbnail"
+            android:visibility="gone" />
+        <include
+            layout="@layout/preview_effects_layout_sink"
+            android:visibility="gone"/>
+    </FrameLayout>
+    <!-- [BUGFIX]-MOD by jian.zhang1 for PR759360,759369 2014.08.15 Begin -->
+    <LinearLayout
+        android:id="@+id/ly_labels"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom|right"
+            android:layout_weight="1" >
+            <TextView
+                android:id="@+id/liveeffect_sepia"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="5dip"
+                android:text="@string/liveeffect_sepia" />
+            <TextView
+                android:id="@+id/liveeffect_ansel"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="8dip"
+                android:text="@string/liveeffect_ansel" />
+            <TextView
+                android:id="@+id/liveeffect_retro"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="11dip"
+                android:text="@string/liveeffect_retro" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom|right"
+            android:layout_weight="1" >
+            <TextView
+                android:id="@+id/liveeffect_fisheye"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="5dip"
+                android:text="@string/liveeffect_fisheye" />
+            <TextView
+                android:id="@+id/liveeffect_none"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="8dip"
+                android:text="@string/liveeffect_none" />
+            <TextView
+                android:id="@+id/liveeffect_negative"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="11dip"
+                android:text="@string/liveeffect_negative" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom|right"
+            android:layout_weight="1" >
+            <TextView
+                android:id="@+id/liveeffect_relief"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="5dip"
+                android:text="@string/liveeffect_relief" />
+            <TextView
+                android:id="@+id/liveeffect_charcoal"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="8dip"
+                android:text="@string/liveeffect_charcoal" />
+            <TextView
+                android:id="@+id/liveeffect_edge"
+                style="@style/LiveFilterLabel"
+                android:layout_marginRight="11dip"
+                android:text="@string/liveeffect_edge" />
+        </LinearLayout>
+    </LinearLayout>
+    <!-- [BUGFIX]-MOD by jian.zhang1 for PR759360,759369 2014.08.15 End -->
+    <com.android.camera.effects.camera.LiveFilterSmartShutterButton
+        android:id="@+id/btn_shutter"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/btn_livefilter_shutter"
+        android:visibility="gone" />
+
+    <!-- [BUGFIX]-Added by jian.zhang1 for PR759360,759369 2014.08.15 Begin -->
+    <View
+        android:id="@+id/space_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        />
+    <!-- [BUGFIX]-Added by jian.zhang1 for PR759360,759369 2014.08.15 End -->
+
+    <View
+        android:id="@+id/v_snapshot_border"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ic_snapshot_border"
+        android:visibility="gone" />
+</RelativeLayout>
